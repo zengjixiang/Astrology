@@ -290,10 +290,13 @@ _雙魚座：2月19日-3月20日_
   
 > 風元素令水瓶座健談善交際，加上固定宮的特質，這令他們能擁有長久友情。很少有星座像水瓶座那麼看重友誼，他們傾向於一輩子都維持、保護和照顧自己的朋友。水瓶座的另一個角色就是創造或建立團隊和組織，因為水瓶座守護著第十一宮。作為一個守護著未來的激進星座，很多人在知道水瓶座是固定宮後，會感到驚訝——大家都以為會是變動宮。水瓶座的固定宮天性體現在，他們科學有序的思維以及對程序的嚴格維護，這一切都是為了確保能獲得最精確的結果。水瓶座鑄造著未來，但不是以白羊座那種衝動魯莽的方式。水瓶座堅持完全客觀——你找不到任何情緒或者先入之見。固定宮特質令他們固執的追求自己的發現——水瓶座發財基本都是因為這種執意和專注！畢竟，水瓶座是發明家星座！  
 ---
-
-
-
-
+【蘇珊米勒】占星簡史和基礎知識（3、特質篇）
+【蘇珊米勒】占星簡史和基礎知識（3、特質篇）
+【蘇珊米勒】占星簡史和基礎知識（3、特質篇）
+【蘇珊米勒】占星簡史和基礎知識（3、特質篇）
+【蘇珊米勒】占星簡史和基礎知識（3、特質篇）
+【蘇珊米勒】占星簡史和基礎知識（3、特質篇）
+【蘇珊米
 **變動宮特質**
   
 **雙子座、處女座、射手座、雙魚座**  
@@ -362,6 +365,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2NzE2MywtNTkwNDMzNzI0LDQ2MTUzNT
-Q0N119
+eyJoaXN0b3J5IjpbMTAyOTE5MTQ5NSwtNTkwNDMzNzI0LDQ2MT
+UzNTQ0N119
 -->
