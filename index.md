@@ -242,7 +242,7 @@ _雙魚座：2月19日-3月20日_
   
 >為了了解你的特質，首先需要知道自己屬於哪種元素。如果你不知道自己屬於土、風、火、水中的哪一種元素，去看看有關元素講解的內容，它也是占星領域的一個組成部分。等你搞清楚了自己的元素，再回來繼續了解更多有關於你自己，以及你認識的人的性格特質吧。看看自己是不是個真正的基本宮、固定宮或變動宮吧。
 
-**基本宮特質： **
+**基本宮特質：**
   
 **白羊座、巨蟹座、天秤座、摩羯座**  
   
@@ -316,6 +316,8 @@ _雙魚座：2月19日-3月20日_
 
 [蘇珊米勒-占星簡史和基礎知識（2、元素篇）](https://)
 
+[蘇珊米勒-占星簡史和基礎知識（3、特質篇）]（//）
+
 (以下內容暫時保留，日後編輯完成之後再移除)
 
 You can use the [editor on GitHub](https://github.com/zengjixiang/astrology/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -354,5 +356,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4MTY1NzAyLDQ2MTUzNTQ0N119
+eyJoaXN0b3J5IjpbLTkxNTU4NzM1Niw0NjE1MzU0NDddfQ==
 -->
