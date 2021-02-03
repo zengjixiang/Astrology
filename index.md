@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 測試中文顯示
 
 You can use the [editor on GitHub](https://github.com/zengjixiang/astrology/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
