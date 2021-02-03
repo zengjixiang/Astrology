@@ -240,11 +240,11 @@ _雙魚座：2月19日-3月20日_
   
 **你的特質是什麼？**  
   
-為了了解你的特質，首先需要知道自己屬於哪種元素。如果你不知道自己屬於土、風、火、水中的哪一種元素，去看看有關元素講解的內容，它也是占星領域的一個組成部分。等你搞清楚了自己的元素，再回來繼續了解更多有關於你自己，以及你認識的人的性格特質吧。看看自己是不是個真正的基本宮、固定宮或變動宮吧。
+>為了了解你的特質，首先需要知道自己屬於哪種元素。如果你不知道自己屬於土、風、火、水中的哪一種元素，去看看有關元素講解的內容，它也是占星領域的一個組成部分。等你搞清楚了自己的元素，再回來繼續了解更多有關於你自己，以及你認識的人的性格特質吧。看看自己是不是個真正的基本宮、固定宮或變動宮吧。
 
 **基本宮特質：  **
   
-白羊座、巨蟹座、天秤座、摩羯座**  
+**白羊座、巨蟹座、天秤座、摩羯座**  
   
 由於“探子星座們”產生了四季，故而基本宮支配著創造力。這些星座都是不安分、活躍、自我激勵、有野心的，而且通常都是團體中的領導者。他們有事業心、獨立性、創造性、自發性，且非常強而有力，這些都是他們的最佳品質，他們可能有點盛氣凌人，但這也是最佳品質中的一部分，而且是重要的一部分。  
   
@@ -354,5 +354,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzYwNjA4OCw0NjE1MzU0NDddfQ==
+eyJoaXN0b3J5IjpbLTM3MTY5MzQyOCw0NjE1MzU0NDddfQ==
 -->
