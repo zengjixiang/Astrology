@@ -213,13 +213,13 @@
   
 **水象星座**  
   
-- 給予情感層面的敏感和直覺  
+_給予情感層面的敏感和直覺_
   
-##### 巨蟹座：6月22日-7月22日  
+_巨蟹座：6月22日-7月22日_
   
-##### 天蠍座：10月24日-11月22日  
-  
-##### 雙魚座：2月19日-3月20日**  
+_天蠍座：10月24日-11月22日_
+
+_雙魚座：2月19日-3月20日_
   
 > 水能夠以各種形態存在，可以是液體、氣體（以蒸汽的形式），也可以是冰。它可以溫和如潺潺的小溪，也可以凶猛如怒吼的海嘯。
 > 
@@ -282,5 +282,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDYyNTg0NTVdfQ==
+eyJoaXN0b3J5IjpbLTE2OTAwNzUyMDNdfQ==
 -->
