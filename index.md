@@ -237,21 +237,12 @@ _雙魚座：2月19日-3月20日_
 >  
 > 雙魚座是十二宮的最後一個星座，算是之前十一個星座的集合、彙編，這就是為何雙魚座與其他星座有那麼強的交融性。雙魚座是外部指向的，深層的靈性引導他們一對一的幫助他人（這不同於風象星座水瓶座的方式：跟他人一起做善事）。雙魚座會解除自己所感受到的他人的痛苦，而且做好了傾其所有的準備。雙魚座支配著犧牲，所以為了限於危難的親朋好友，沒有什麼是他們不可以做的。
 ---
-
-**（專題）蘇珊米勒-占星簡史和基礎知識（3、特質篇）**  
-來自: 爬爬  
-蘇珊米勒，美國著名占星師，全美十佳占星師第一名，全世界最受歡迎的占星家，深受中文讀者喜愛，被大家愛稱為“三媽”。運勢風格為事件指導。  
-**標籤:** **[占星知識](http://www.go4134.com/26143242312133823458/category/21344261433069335672)** **​、****[蘇珊米勒](http://www.go4134.com/26143242312133823458/category/34311296423185921202)** ​​  
-**彙總 : [占星知識文章彙總~](http://www.go4134.com/21344261433069335672.html)**  
   
-**更多的: [星座命理文章~](http://www.go4134.com/261432423121629297022599131456.html)  
-​[​](http
-  
-你的特質是什麼？**  
+**你的特質是什麼？**  
   
 為了了解你的特質，首先需要知道自己屬於哪種元素。如果你不知道自己屬於土、風、火、水中的哪一種元素，去看看有關元素講解的內容，它也是占星領域的一個組成部分。等你搞清楚了自己的元素，再回來繼續了解更多有關於你自己，以及你認識的人的性格特質吧。看看自己是不是個真正的基本宮、固定宮或變動宮吧。
 
-**基本宮特質：  
+**基本宮特質：  **
   
 白羊座、巨蟹座、天秤座、摩羯座**  
   
@@ -363,5 +354,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDk0MTU1NzgsNDYxNTM1NDQ3XX0=
+eyJoaXN0b3J5IjpbMTY1MzYwNjA4OCw0NjE1MzU0NDddfQ==
 -->
