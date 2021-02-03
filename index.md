@@ -371,6 +371,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0MTIzOTk3LC01OTA0MzM3MjQsNDYxNT
-M1NDQ3XX0=
+eyJoaXN0b3J5IjpbNjQ0MTIzOTk3XX0=
 -->
