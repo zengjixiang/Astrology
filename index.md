@@ -1357,6 +1357,8 @@ _雙魚座：2月19日-3月20日_
 
 ----
 
+----
+
 第一宮--[命宮] 上昇星座
 
 ●上昇星座是占星學中出生圖上“定宮”的主要起始點，因此地位也相對的格外重要。上昇星座是第一宮的起始，而第一宮的主要影響就是人格；在占星學上第一宮，是和一個人心理人格的形成有關，他可以說是一個人到世間所選擇的扮演角色，第一宮就是所謂的上昇星座，是代觀測者的東方地平線第一個昇起的星座，因此它和開始有關，代表了和個體生命有關的事物，他代表一個人的個性、長相及體形。第一宮象徵一個人待人處事的表現態度，是一種經過修飾的個性，也就是心理學中所說的「自我」，和「我」有關的事情都是看第一宮，也就是代表一個人初次與人接觸所展現的性格。
@@ -1675,11 +1677,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzc1ODIzNjYsNTg3Mzk2MDI5LC0xND
-Q5NTI0OTc5LC0xNTE0MjQ0MDA4LC0xODk5NDExOTgxLC0xMjU0
-MjEyMjk5LC0xOTQ0MzA3MzM5LC03MTE0NDkzNTYsMTk4ODc0Nj
-c2OSwyMTExNjc3NjM5LDUzOTE1ODcxNywxOTIzOTY3MzUwLC0z
-NTc5MDMzNjEsODI3MjE3ODMsMjg3MjYzMzAwLDYyMzQ3NTIzMC
-w0ODA0Nzg2NTksLTQ4MzczNTYsMTM0MjE1Mzc3MiwtNTE1NDMy
-OThdfQ==
+eyJoaXN0b3J5IjpbNDE2NzQ0OTAyLC0xOTc3NTgyMzY2LDU4Nz
+M5NjAyOSwtMTQ0OTUyNDk3OSwtMTUxNDI0NDAwOCwtMTg5OTQx
+MTk4MSwtMTI1NDIxMjI5OSwtMTk0NDMwNzMzOSwtNzExNDQ5Mz
+U2LDE5ODg3NDY3NjksMjExMTY3NzYzOSw1MzkxNTg3MTcsMTky
+Mzk2NzM1MCwtMzU3OTAzMzYxLDgyNzIxNzgzLDI4NzI2MzMwMC
+w2MjM0NzUyMzAsNDgwNDc4NjU5LC00ODM3MzU2LDEzNDIxNTM3
+NzJdfQ==
 -->
