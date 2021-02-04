@@ -439,7 +439,7 @@ _雙魚座：2月19日-3月20日_
   
 **第九宮**  
   
-這一宮鼓勵我們從大處著眼、放膽思考，從最寬闊視角來考慮未來。你似乎總需要提前做大量的準備工作，才能從第九宮充分獲益。第九宮是重要的宮位，其所轄的關鍵領域包括，遠距離的旅行、國際交流、高等教育，以及與外國人、遠親、姻親的互動交流交際往來。  
+> 這一宮鼓勵我們從大處著眼、放膽思考，從最寬闊視角來考慮未來。你似乎總需要提前做大量的準備工作，才能從第九宮充分獲益。第九宮是重要的宮位，其所轄的關鍵領域包括，遠距離的旅行、國際交流、高等教育，以及與外國人、遠親、姻親的互動交流交際往來。  
   
 > 這一宮還支配你對一切話題的態度和觀點，以及你在理解複雜問題方面下的功夫，這其中包括倫理和道德。這一宮驅動著對哲學、宗教、出版、法律和學術問題的討論。這一宮強調高階思維和精神探索。  
   
@@ -535,6 +535,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzMxMjcyNjQsLTE5MTgwNDk1NDYsND
-I3ODk0ODEwLDE2NzIwMDgwNjFdfQ==
+eyJoaXN0b3J5IjpbLTEwMzQ2Njg2NzQsLTEwNzMxMjcyNjQsLT
+E5MTgwNDk1NDYsNDI3ODk0ODEwLDE2NzIwMDgwNjFdfQ==
 -->
