@@ -1195,7 +1195,7 @@ _雙魚座：2月19日-3月20日_
 ★天王星與星座：  
 ●天王星所屬的星座代表一個世代的改變以何種方式表現。這種改變如何進行，跟什麼相關。 
 
- 天王星星座具有世代象征意義，代表一個七年的整體性改變以何種方式表現、這種改變如何進行、跟什麽相關。
+天王星星座具有世代象徵意義，代表一個七年的整體性改變以何種方式表現、這種改變如何進行、跟什麽相關。
 
 天王星在牡羊座
 
@@ -1217,7 +1217,6 @@ _雙魚座：2月19日-3月20日_
 
 如果天王星在金牛座相位而正確，可能帶給你不尋常的藝術及音樂天分。你對應用現代電子科技在管理、會計及商業上也會有很大的興趣。
 
-  
 天王星在雙子座
 
 聰明、具發明性與原創力，發展在文學、教育、通訊傳播工具與電子學上會采取一種不同的方法。由於你是變動不安的，所以你很難從頭到尾遵循一種想法。不過，你很能夠抓到新的觀念，喜愛改革，特別是在教育方面，你會提倡如自由大學之類的看法。天王星的流暢相位可能給你天才般的靈感，不利的相位可能會導致突兀的言語，不實際、甚至不協調的思想，很少能想到他人的感覺，且與手足或親戚有問題產生，或者表示未受完整的教育。天王星最近一次在雙子座是一九四二年到一九四九年。
@@ -1418,7 +1417,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTk0MDIwNTksLTE4MjAyODIwMjMsMj
+eyJoaXN0b3J5IjpbLTE3MDIxMjM0NjcsLTEwOTk0MDIwNTksMj
 ExMTY3NzYzOSw1MzkxNTg3MTcsMTkyMzk2NzM1MCwtMzU3OTAz
 MzYxLDgyNzIxNzgzLDI4NzI2MzMwMCw2MjM0NzUyMzAsNDgwND
 c4NjU5LC00ODM3MzU2LDEzNDIxNTM3NzIsLTUxNTQzMjk4LDE1
