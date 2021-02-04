@@ -1343,6 +1343,243 @@ _雙魚座：2月19日-3月20日_
 ★海王星與星座：  
 ●海王星所屬的星座代表一個世代的共同夢想如何表現。這樣的渴望，以何種形式表現出來，造成什麼樣的影響。
 
+----
+
+[楓宇星辰](https://piscesdai.pixnet.net/blog)
+
+[![海王星](http://pic.pimg.tw/piscesdai/1406004718-4146873742_wn.jpg "海王星")](http://piscesdai.pixnet.net/album/photo/533820616)  
+
+海王星星座代表一個14年世代的共同夢想如何表現、這樣的渴望以何種形式表現出來，造成什麽樣的影響。
+
+海王星在牡羊座
+
+從一六八一年至一八七四年，海王星停留在牡羊座。在海王星停留於牡羊座期間出生的人，倡導了許多新的宗教觀念與哲學觀。他們都同樣擁有一種強烈的使命感，能表現出很大的想象力、創造力與自覺力。若相位受克，會使星盤主滿懷虛榮與自私的計謀，而且充滿邪惡的欲望。
+
+當海王星出現在牡羊座時，會使這一代人在開創神秘宗教思想上有傑出的表現。這些人對於創新、改造精神性的事物有強烈的直覺及欲望。然而你的缺點，則是會表現出自大與自我主義。
+
+  
+
+海王星在金牛座
+
+海王星最近一次出現在金牛座是一八七四到一八八七年。你對科學與藝術有一種實際的態度。你對音樂有所回應，然而你也有與生俱來的生意頭腦，對安全感有強烈需要，可能容易受他人誤會。對冥王星所形成的相位可能使你擁有治療的能力。海王星有不利相位時，可能導致對財產過於全神貫註，或者在處理金錢上會自我欺騙與粗心大意。
+
+當海王星出現在金牛座時，會出現許多瘋狂於將金錢及資源作最好利用的理想主義者，這一代人想盡辦法將內心所勾勒的世界以實際的手段展現出來。你的缺點是先入為主地把金錢與物質的價值看得太重要。
+
+  
+
+海王星在雙子座
+
+  
+海王星最近一次位在雙子座是從一八八七年到一九零一年。你會發展出許多有關貿易、商業、旅行與通訊的新理論。天性機警、好問與不安，你對新奇不同的經驗有種渴望，很難定得下來。有不利的相位時，你可能會全神貫註於膚淺的價值，易受外在影響，愛辯論、有手腕、心胸狹窄、愛說閑話。
+
+海王星落在雙子座當海王星出現在雙子座時，會使這一代人，藉由文學及詩的創作不斷努力地來發展心靈的想象力及感受力。這些人有著活潑而且豐富的想象力，並能透過腦中對圖像的建構能力，將意識中最深不可知的訊息傳遞出來。你的缺點是容易被夢想中的世界及其表面的價值所蒙蔽，在現實中的思考及溝通會產生諸多問題。
+
+海王星在巨蟹座
+
+海王星最近一次出現巨蟹座是從一九零一年到一九一五年。你對土地有強烈的感受聯系，對家庭與家人亦然。你是理想主義的，在情感上相當敏感。忠誠愛國，對宗教觀念采取開放態度，你願意為保護他人而犧牲。
+
+當海王星出現在巨蟹座時，這一代人會對家庭、家人及土地產生強烈的依賴心。你非常具有同情心，敏感而且情緒化。有宗教傾向，但卻是以情緒化的方式信仰宗教。如果海王星的影響非常強烈，而且相位絕佳，就會有特殊的精神力量及與靈異界溝通的傾向。許多通靈人就是出生在海王星位於巨蟹座之時。你的缺點是過分敏感而導致脆弱、易受打擊：對家庭及國家的依賴有種獨占，情緒化的傾向。通靈的能力可能會產生誤導的現象，使得星象學的影響泛濫而變得毫無價值。
+
+海王星在獅子座
+
+海王星最近一次位在獅子座是在一九一五年到一九二九年。你傾向於浪漫、理想主義與藝術家的特質。對娛樂有一種天賦才能，和嘗試任何事情的第一次的勇氣，投機事業正合你的胃口。你會把愛情理想化，享受追求的情趣；你渴望權力，但不喜歡接受權勢。如果海王星受到損害，你可能是獨斷的，顛覆的，在追求享樂上是奢侈的。你可能會為愛情或子女而受苦。
+
+當海王星出現在獅子座時，會使這一代人具有優越的音樂、藝術才能。你對戲劇及其它表演藝術特別有興趣，你的創造力大多來自於崇高的精神啟發。海王星位在獅子座，會使人在追求愛情時充滿浪漫及理想主義。
+
+你的缺點是在戀愛及求愛時會自我欺騙、妄想。為了追求享樂，花費毫無節制；管教孩子時，缺乏實際、正確的做法。
+
+歷史上有名的“二0年代大風暴”正是當海王星出現在獅子座時，在那段時期裏，人們未經思考地做股票投機買賣，因而造成經濟崩潰，及進入經濟蕭條期。
+
+海王星在處女座
+
+海王星最近一次通過處女座是從一九二九年到一九四三年。你對健康與雇傭的條件有新的看法。你是第一代能接受精神病學做為你部分日常生活的人。你可能會在理智與情感之間經歷一種很強的拉力，而且可能有接受責任上的困難，這可能讓你會想經由藥物或其他使人產生幻覺的途徑來逃避。有不利的相位時，你可能會有精神病與神經衰弱的癥狀。你也可能是個偉大的人道主義者，為有價值的理想而戰。
+
+當海王星出現在處女座時，會出現無可避免的損害。這一代人的創造力與感受力會受到不利的物質環境破壞。海王星位在處女座的這段時間，正好是在一九三0年代經濟蕭條期，這一代人便是在這惡劣的環境下成長的。經濟秩序混亂的表現為高失業率、嚴重地影響民生，而這方面，正是由處女座所控制。
+
+海王星出現在處女座時所帶來的負面影響，還包括：易受心理情感引發的精神疾病：心緒經常被零星瑣碎之事困擾，以致情緒不穩定。另外，由於你懷疑或否定直覺的感受及影響，會演變為崇拜物質主義。海王星在處女座時所出現的典型問題，是受苦於不良的飲食習慣；化學添加物首先在食物中出現，也始於這段時期。
+
+  
+
+海王星在天秤座
+
+海王星在天秤座是從一九四三年至一九三六年間。你對同事關系和跟法律有關的新觀念，義務與需要不確定的事物都感到很有興趣。你對藝術采取微妙的態度。你希望自己是人道的、利他的、有同情心的與喜愛和平的。不過結果是你可能是不切實際，有藥物傾向，懶惰與缺乏意志力的。老是做你自己的事通常所導致的是離婚比結婚者多，不合作比團結多，這是天秤座透過海王星作用的的結果。
+
+海王星出現在天秤座時，正是大戰之後。由於戰爭使得婚姻關系受到破壞，導致離婚率提高。因為太多破碎的家庭，使得戰後出生的年輕孩子對人與人之間的關系失去信心，價值觀也因而混亂不一。你本能地傾向認同社會整體的價值及氣氛，負面來說，便成了盲目跟隨社會潮流，於是造成了整個時代流行著搖滾樂、毒品泛濫及充滿幻想玄思的文化現象。
+
+以正面觀點言，海王星位在天秤座，使年輕的一代對各種社會現象有敏感的直覺；他們對社會責任的理解是以法治的精神為基礎，而較少以感性的角度來衡量。這個星座的位置會帶來新藝術形成的發展契機。
+
+海王星在天蠍座
+
+  
+海王星在天蠍座是從一九五六年到一九七零年。你愛好研究，有磁性，情緒化且擁有巨大的再生能力。你攻擊任何事物的強度會導致你在繪畫上，文學上，宗教上、政治上與所有生活面上有新的態度。如果海王星呈兇相，它可能會制造出妖術、迷惑、背叛與特殊的性習慣，特別是如果再加金星或火星的挑戰相位的話。
+
+當海王星出現在天蠍座時，人類正處在利於發展其本質欲望的時期。很少有人能真正在精神層面上體會重生，並開始探尋生命的奧秘；大部分的人只會利用性作為手段，以達到商業目的。天蠍座是象征“性”的星座，而海王星則與嗑藥有關。這個時期的性道德意識十分開放，導致性病傳染擴散得很快；另一方面，藉由嗑藥追求靈魂的解脫，也成為一時的風潮。這個時期的人，內心充滿強烈的情緒及困惑，潛意識的混亂、不安表現在藝術上，便是迷亂、強烈的搖滾音樂。許多生在此時的孩子，如果他們出生時海王星的位置與天王星、冥王星相連適成合相，便會表現出透視的能力，而不得不去體認靈魂重生的重要性。
+
+海王星在射手座
+
+  
+海王星在射手座是從一九七零年到一九八四年時。射手座是代表開放、坦白與理想主義的天宮；海王星在這個位置上一定會帶來很多隱藏的事物的爆發，例如水門案的爆發。你會覺得對較高層次的宗教與哲學價值有一種需要。你可以探測心靈的力量，扭轉現存的法律，追尋生命更深沈的意義。你會對教育有新觀念，對外國文化很感興趣，對宇宙宗教的觀念感到心儀。如果海王星呈兇相，你可能漫無目標的四處漂泊，缺乏判斷力，不信任他人，相信假先知之類的神棍。
+
+當海王星進入射手座時，也將人類帶往一個崇尚宗教及精神價值的時期。人類將再回到上帝的懷抱，社會秩序將逐漸以宗教、道德為依歸。音樂、藝術也受宗教意識影響。到國外旅遊的次數將會增加，促進不同文化間宗教、思想的交流。
+
+人類漸漸會對神秘的、靈異的現象感興趣。宗教會透過個人內在與上帝的接觸而對人產生影響，因而，愈來愈多的人打坐冥想，或相信預言家直覺的判斷。由於神秘經驗逐漸成為一般人共有的經歷，人類內心的秘密及力量將不斷地被發現。
+
+海王星位在射手座時的缺點是容易流於漫無目的的飄泊，幻想會引導他們走往錯誤的方向，對宗教盲目的崇拜，輕信不實的預言。然而，在這個時期內，卻使人深刻體會“萬物皆有神性”的道理。
+
+  
+
+海王星在魔羯座
+
+海王星最後一次位於魔羯座是在一九八四年到一九九八年。那是一個保守的，有良心意識的時代，他們有一種深沈的責任感，會自我約束。而且會試圖將創造性的情感變為實際與可見的應用。當海王星的力量比魔羯座為強時，他們會將精神與詩一般的想象力並入日常生活之中。海王星在一九八四年進入魔羯座時，此時有許多實際的發現，人們開發海洋食物，或者新形態的政府與政治觀念
+
+當海王星進入魔羯座時，世界各國的政局開始混亂不安，經濟制度與政治制度也將受到強烈的震撼。然而，在這些混亂與不安之外，才真正在現實社會中，看見人類心靈情操的具體實踐。
+
+人類將不再有閑情逸致追求射手座抽象性的崇高價值。為了求生存，人類必須被迫將精神性靈與現實生活整合。由於雙魚座時代來臨之前，人類必須經歷不同階段的考驗，因而，在這個時期中能存活下來的人，將能在精神上達到更高的境界。
+
+為了現實需要，新形態的政府組織及政治觀念將會出現。在這一個時期結束之前，無國界的政府組織將會出現。
+
+海王星於一九九八年到二零一二年進入本座。這個時代的人，他們泰然處之的態度，混合著對抽象事物的了解能力，結果在藝術與發明上產生許多新方法。當海王星再度通過水瓶座時，很多星象家感應到，這可能時再聖經中所預示的啟示錄中的千年和平時期的開始，且宇宙的和諧可能成為一項事實。我們希望他們是對的。
+
+約在公元二千年左右，海王星會進入水瓶座，代表人類真正邁入水瓶座時期。這段期間，建立在人文主義再啟蒙基礎上的新文明將會誕生。在科學上，新形式的能源及科技將被發現並應用。這些文明的現象，代表人類將進入聖經中所揭示的千年以上的和平時代，人類的直覺能力和透視能力將有高度發展，在現實實際的生活中，也能發揮不分彼此的博愛精神，互相幫助。
+
+  
+
+海王星在雙魚座
+
+  
+海王星在自己的星座雙魚座中，這代表有靈感的、精神上的、敏感的與甚至有預知能力的。這個位置預示有時與音樂的天賦，對於那些身處困境中的人感同身受，並會出現新的文化掛念。
+
+海王星進入雙魚座之後，將繼續維持水瓶座時期以來的長久和平。這段時間內，人類將有機會一探靈魂深不可知的力量，並會發展出更高的音樂、藝術形式；醫療的能力也曾向前邁進一大步。水瓶座創造精神的最高理想將在這個時候出現，許多偉大的藝術家及精神領袖也曾在此時出生。
+
+#### 全站熱搜
+
+[桌菜](https://www.pixnet.net/tags/%E6%A1%8C%E8%8F%9C?utm_source=PIXNET&utm_medium=blog&utm_term=popular_tag&utm_content=%E6%A1%8C%E8%8F%9C)[超商福袋](https://www.pixnet.net/tags/%E8%B6%85%E5%95%86%E7%A6%8F%E8%A2%8B?utm_source=PIXNET&utm_medium=blog&utm_term=popular_tag&utm_content=%E8%B6%85%E5%95%86%E7%A6%8F%E8%A2%8B)[櫻花季](https://www.pixnet.net/tags/%E6%AB%BB%E8%8A%B1%E5%AD%A3?utm_source=PIXNET&utm_medium=blog&utm_term=popular_tag&utm_content=%E6%AB%BB%E8%8A%B1%E5%AD%A3)[樂活公園](https://www.pixnet.net/tags/%E6%A8%82%E6%B4%BB%E5%85%AC%E5%9C%92?utm_source=PIXNET&utm_medium=blog&utm_term=popular_tag&utm_content=%E6%A8%82%E6%B4%BB%E5%85%AC%E5%9C%92)[唐吉訶德](https://www.pixnet.net/tags/%E5%94%90%E5%90%89%E8%A8%B6%E5%BE%B7?utm_source=PIXNET&utm_medium=blog&utm_term=popular_tag&utm_content=%E5%94%90%E5%90%89%E8%A8%B6%E5%BE%B7)[防疫](https://www.pixnet.net/tags/%E9%98%B2%E7%96%AB?utm_source=PIXNET&utm_medium=blog&utm_term=popular_tag&utm_content=%E9%98%B2%E7%96%AB)
+
+更多 PiscesDai 的  [海王星—靈性與覺醒](https://piscesdai.pixnet.net/blog/category/4849532)  推薦文章
+
+[](https://piscesdai.pixnet.net/blog/post/380356973)
+
+![](https://imageproxy.pimg.tw/zoomcrop?url=https%3A%2F%2Fpic.pimg.tw%2Fpiscesdai%2F1406004718-4146873742_n.jpg&width=380&height=228)
+
+海王星落在十二星座
+
+![看上一篇](https://front.pixfs.net/images/blog/post/mobile/quicknav/quicknav-arrow-left--sm.svg?v=db3e844eda9630ac2a966290f23a35b5)![看下一篇](https://front.pixfs.net/images/blog/post/mobile/quicknav/quicknav-arrow-right--sm.svg?v=db3e844eda9630ac2a966290f23a35b5)
+
+## 您可能會有興趣的文章
+
+-   [](https://piscesdai.pixnet.net/blog/post/380357771?pixfrom=related)
+    
+    ![](https://imageproxy.pimg.tw/zoomcrop?url=https%3A%2F%2Fpic.pimg.tw%2Fpiscesdai%2F1406004716-2398621282_n.jpg&width=100&height=100)
+    
+    2014-7-22
+    
+    [宗教超自然](https://m.pixnet.net/blog/article/category/41/hot)
+    
+    [](https://piscesdai.pixnet.net/blog/post/380357771?pixfrom=related)
+    
+    冥王星落在十二星座
+    
+-   [](https://piscesdai.pixnet.net/blog/post/380354936?pixfrom=related)
+    
+    ![](https://imageproxy.pimg.tw/zoomcrop?url=https%3A%2F%2Fpic.pimg.tw%2Fpiscesdai%2F1406005994-2417048861_n.jpg&width=100&height=100)
+    
+    2014-7-22
+    
+    [宗教超自然](https://m.pixnet.net/blog/article/category/41/hot)
+    
+    [](https://piscesdai.pixnet.net/blog/post/380354936?pixfrom=related)
+    
+    天王星落在十二星座
+    
+-   [](https://melodyworld.pixnet.net/blog/post/27480268?pixfrom=related)
+    
+    ![](https://imageproxy.pimg.tw/zoomcrop?url=https%3A%2F%2Fpic.pimg.tw%2Fmelodyworld%2Ff166588c6a3f66dcdac83523cda8bac7.jpg&width=100&height=100)
+    
+    2008-11-18
+    
+    [](https://melodyworld.pixnet.net/blog/post/27480268?pixfrom=related)
+    
+    勇敢作夢吧！漫談海王星在魔羯座的世代
+    
+
+[](https://falcon.pixnet.net/ad/r?i=2c8c260a51ececa0e8c5ea7133e5e7a2&p=1735&u=1ca6f6df441945e1973bedfdb55cb824&c=CgUBGF%2FsnpgAAC%2BVE5GgAgP%3D)
+
+![](https://falcon-creative-ak.pixfs.net/2021/01/2c8c260a51ececa0e8c5ea7133e5e7a2-ad023a31fa712c29.jpg?v=1611920313)
+
+贊助
+
+[即日起至2/28參與好運扭蛋販賣機，就有機會立即獲得好禮，一起來當2021最好命的星座](https://falcon.pixnet.net/ad/r?i=2c8c260a51ececa0e8c5ea7133e5e7a2&p=1735&u=1ca6f6df441945e1973bedfdb55cb824&c=CgUBGF%2FsnpgAAC%2BVE5GgAgP%3D)
+
+-   [](https://bigapplekerry.pixnet.net/blog/post/48048536?pixfrom=related)
+    
+    ![](https://imageproxy.pimg.tw/zoomcrop?width=100&height=100&url=https%3A%2F%2Ffront.pixfs.net%2Fimages%2Farticle_default_image.png)
+    
+    2015-7-24
+    
+    [](https://bigapplekerry.pixnet.net/blog/post/48048536?pixfrom=related)
+    
+    冥王星 天秤座
+    
+-   [](https://copen26.pixnet.net/blog/post/82796511?pixfrom=related)
+    
+    ![](https://imageproxy.pimg.tw/zoomcrop?width=100&height=100&url=https%3A%2F%2Ffront.pixfs.net%2Fimages%2Farticle_default_image.png)
+    
+    2014-12-24
+    
+    [生活綜合](https://m.pixnet.net/blog/article/category/5/hot)
+    
+    [](https://copen26.pixnet.net/blog/post/82796511?pixfrom=related)
+    
+    海王星落在魔羯座
+    
+
+-   [](https://aaa8605.pixnet.net/blog/post/35846398?pixfrom=related)
+    
+    ![](https://imageproxy.pimg.tw/zoomcrop?width=100&height=100&url=https%3A%2F%2Ffront.pixfs.net%2Fimages%2Farticle_default_image.png)
+    
+    2015-7-16
+    
+    [](https://aaa8605.pixnet.net/blog/post/35846398?pixfrom=related)
+    
+    你的天王星在天蠍座 / 海王星在射手座 / 冥王星在天秤座
+    
+-   [](https://bigapplekerry.pixnet.net/blog/post/48048540?pixfrom=related)
+    
+    ![](https://imageproxy.pimg.tw/zoomcrop?width=100&height=100&url=https%3A%2F%2Ffront.pixfs.net%2Fimages%2Farticle_default_image.png)
+    
+    2015-7-24
+    
+    [](https://bigapplekerry.pixnet.net/blog/post/48048540?pixfrom=related)
+    
+    海王星 射手座
+    
+-   [](https://piscesdai.pixnet.net/blog/post/380352296?pixfrom=related)
+    
+    ![](https://imageproxy.pimg.tw/zoomcrop?url=https%3A%2F%2Fpic.pimg.tw%2Fpiscesdai%2F1406004715-3664902126.jpg&width=100&height=100)
+    
+    2014-7-22
+    
+    [宗教超自然](https://m.pixnet.net/blog/article/category/41/hot)
+    
+    [](https://piscesdai.pixnet.net/blog/post/380352296?pixfrom=related)
+    
+    木星落在十二星座
+    
+
+-   [](https://dsp.logly.co.jp/click?ad=4AG4hpsDG-SXu6ud3Lg79LkYYjuEb_5TmWU7EX0eSNWKl6IZAzn01osiHvL9pUP_D6ALddkWqELrqzM7wWWnAY6zKPnBm5pqn6_JUNZz5GA70tuq-Ju_fnzNwfvCS0jnIHOS5XkDz9FFvL0hWn2vWn_8QY1xMiSAUIyMEuSBmJBrNNYlC7zXduPU47RESt4ypL87FT6902Nd27sdC_LisfaHVxJDz-oJGppLSNyuWh8VX4PhvYK466Ajs2nQxhIQ1xmLcWm05QWkZwJFUuSk8sVcXscdi4KSKPTIMJazgXOHn8-xi5Pb6iSx4M2l6U11w9JGMBXvz6qddldkn7sG7A943TMfM1V2wsWhs3qZPkZB7k2dJNZNFzvqU5gXKNba1YR6xHkQLS5_JXpy6FOp9Oa_BFv5bDTcgR8uZ9tclUDDlO5geEvElgTaSWcFDwKcgyEoL1NxgVnKcqOnfIgDWyRG21Nd-nulfPZ3MGvHJ4K6hnB0rEXyS3ssNJylRVPDCTX34-Ej3WnSBvhkm3ZQA9CNS7bwKiILaHDlHnYiSXuPeZwEcDKlajWY62iU0eTVVzO7w66UuiQeD3DuRuu4EQ75PWe2XjC-grnRMDdt5cwwIwReN7dQqw)
+    
+    ![](https://cdn.logly.co.jp/images/000/804/405/compact.jpg?1608711539)
+    
+    [亂搭パピレス-提供](https://dsp.logly.co.jp/click?ad=4AG4hpsDG-SXu6ud3Lg79LkYYjuEb_5TmWU7EX0eSNWKl6IZAzn01osiHvL9pUP_D6ALddkWqELrqzM7wWWnAY6zKPnBm5pqn6_JUNZz5GA70tuq-Ju_fnzNwfvCS0jnIHOS5XkDz9FFvL0hWn2vWn_8QY1xMiSAUIyMEuSBmJBrNNYlC7zXduPU47RESt4ypL87FT6902Nd27sdC_LisfaHVxJDz-oJGppLSNyuWh8VX4PhvYK466Ajs2nQxhIQ1xmLcWm05QWkZwJFUuSk8sVcXscdi4KSKPTIMJazgXOHn8-xi5Pb6iSx4M2l6U11w9JGMBXvz6qddldkn7sG7A943TMfM1V2wsWhs3qZPkZB7k2dJNZNFzvqU5gXKNba1YR6xHkQLS5_JXpy6FOp9Oa_BFv5bDTcgR8uZ9tclUDDlO5geEvElgTaSWcFDwKcgyEoL1NxgVnKcqOnfIgDWyRG21Nd-nulfPZ3MGvHJ4K6hnB0rEXyS3ssNJylRVPDCTX34-Ej3WnSBvhkm3ZQA9CNS7bwKiILaHDlHnYiSXuPeZwEcDKlajWY62iU0eTVVzO7w66UuiQeD3DuRuu4EQ75PWe2XjC-grnRMDdt5cwwIwReN7dQqw)
+    
+    [與公公在深夜中的大人遊戲，巨棒滑溜滑溜的...[最新Body Pay] 托育費用身體支付](https://dsp.logly.co.jp/click?ad=4AG4hpsDG-SXu6ud3Lg79LkYYjuEb_5TmWU7EX0eSNWKl6IZAzn01osiHvL9pUP_D6ALddkWqELrqzM7wWWnAY6zKPnBm5pqn6_JUNZz5GA70tuq-Ju_fnzNwfvCS0jnIHOS5XkDz9FFvL0hWn2vWn_8QY1xMiSAUIyMEuSBmJBrNNYlC7zXduPU47RESt4ypL87FT6902Nd27sdC_LisfaHVxJDz-oJGppLSNyuWh8VX4PhvYK466Ajs2nQxhIQ1xmLcWm05QWkZwJFUuSk8sVcXscdi4KSKPTIMJazgXOHn8-xi5Pb6iSx4M2l6U11w9JGMBXvz6qddldkn7sG7A943TMfM1V2wsWhs3qZPkZB7k2dJNZNFzvqU5gXKNba1YR6xHkQLS5_JXpy6FOp9Oa_BFv5bDTcgR8uZ9tclUDDlO5geEvElgTaSWcFDwKcgyEoL1NxgVnKcqOnfIgDWyRG21Nd-nulfPZ3MGvHJ4K6hnB0rEXyS3ssNJylRVPDCTX34-Ej3WnSBvhkm3ZQA9CNS7bwKiILaHDlHnYiSXuPeZwEcDKlajWY62iU0eTVVzO7w66UuiQeD3DuRuu4EQ75PWe2XjC-grnRMDdt5cwwIwReN7dQqw)![](https://b.logly.co.jp/bc?ac=hNNKGbJ1pPFVDvZm1NtHng&ad=2560153)
+    
+![](https://vbc.logly.co.jp/vbc?ac=hNNKGbJ1pPFVDvZm1NtHng&sp=4274341&ia=0&at=1612450403)
+
+----
+
+
+
 ★冥王星：你的潛能  
 ●冥王星發現於1930年，是所有星體中移動最緩慢的一個，大約需要二百四十八年才能在黃道上繞行一周。在太陽系當中，冥王星是距離太陽最遠的行星，是一顆小及結實的星體。由於其軌道較異常，停留在每個星座的時間從十二年到三十年不等。在占星學當中，冥王星代表黑暗及神秘，代表毀滅與再造的力量。也代表一個人絕對在意的地方及狂熱的所在。冥王星與死生之事很有關係，也代表性與暴力及還有如命理玄學等玄秘的事物。冥王星亦代表一個人的洞悉環境的能力，代表一個人的覺察看力。本命盤中的冥王星代表一個人絕對重視及再意的地方，也代表一個人最狂熱的事情。
   
@@ -1415,11 +1652,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODc0Njc2OSwtMTcwMjEyMzQ2NywyMT
-ExNjc3NjM5LDUzOTE1ODcxNywxOTIzOTY3MzUwLC0zNTc5MDMz
-NjEsODI3MjE3ODMsMjg3MjYzMzAwLDYyMzQ3NTIzMCw0ODA0Nz
-g2NTksLTQ4MzczNTYsMTM0MjE1Mzc3MiwtNTE1NDMyOTgsMTU3
-MDI2MDUxMywtNzAwMzg4MSwtNDU4MDYwNTQzLDk4OTczNDgxMS
-wtMjQyMDMzODQ1LC0xNTAxNjIwOTc1LDEwNDg5Njc0MDNdfQ==
-
+eyJoaXN0b3J5IjpbMTkwMTY1MzgzOSwxOTg4NzQ2NzY5LDIxMT
+E2Nzc2MzksNTM5MTU4NzE3LDE5MjM5NjczNTAsLTM1NzkwMzM2
+MSw4MjcyMTc4MywyODcyNjMzMDAsNjIzNDc1MjMwLDQ4MDQ3OD
+Y1OSwtNDgzNzM1NiwxMzQyMTUzNzcyLC01MTU0MzI5OCwxNTcw
+MjYwNTEzLC03MDAzODgxLC00NTgwNjA1NDMsOTg5NzM0ODExLC
+0yNDIwMzM4NDUsLTE1MDE2MjA5NzUsMTA0ODk2NzQwM119
 -->
