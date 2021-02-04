@@ -1406,14 +1406,9 @@ _雙魚座：2月19日-3月20日_
 
 海王星在獅子座
 
- 
-
 海王星最近一次位在獅子座是在一九一五年到一九二九年。你傾向於浪漫、理想主義與藝術家的特質。對娛樂有一種天賦才能，和嘗試任何事情的第一次的勇氣，投機事業正合你的胃口。你會把愛情理想化，享受追求的情趣；你渴望權力，但不喜歡接受權勢。如果海王星受到損害，你可能是獨斷的，顛覆的，在追求享樂上是奢侈的。你可能會為愛情或子女而受苦。
 
- 
-
 當海王星出現在獅子座時，會使這一代人具有優越的音樂、藝術才能。你對戲劇及其它表演藝術特別有興趣，你的創造力大多來自於崇高的精神啟發。海王星位在獅子座，會使人在追求愛情時充滿浪漫及理想主義。
-
 
 你的缺點是在戀愛及求愛時會自我欺騙、妄想。為了追求享樂，花費毫無節制；管教孩子時，缺乏實際、正確的做法。
 
@@ -1545,7 +1540,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyOTYyLDE0NjYxOTMwNDgsMTk4ODc0Nj
+eyJoaXN0b3J5IjpbLTcxMTQ0OTM1Niw1ODI5NjIsMTk4ODc0Nj
 c2OSwyMTExNjc3NjM5LDUzOTE1ODcxNywxOTIzOTY3MzUwLC0z
 NTc5MDMzNjEsODI3MjE3ODMsMjg3MjYzMzAwLDYyMzQ3NTIzMC
 w0ODA0Nzg2NTksLTQ4MzczNTYsMTM0MjE1Mzc3MiwtNTE1NDMy
