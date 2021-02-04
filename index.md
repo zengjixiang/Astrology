@@ -786,11 +786,11 @@ _雙魚座：2月19日-3月20日_
   
 **太陽星座的黑暗面**  
   
-**白羊座（Aries）**
+**白羊座 (Aries)**
 大部分的白羊座總喜歡四處亂跑，但是僅止於五分鐘熱度。白羊座喜愛支配弱小，而且受到任何其形式的智慧的威脅。在他們粉飾的面具之下，是大量的拐彎抹角，不安和猶豫不決。
 隱藏個性→白羊座看似粗枝大葉，其實他喜歡做家事。  
   
-**金牛座（Taurus）**
+**金牛座 (Taurus)**
 金牛座兼美貌與聰明於一身，直到他們二十歲那一年，他們在一夕之間僵化，變得苦澀、固執和遲鈍。金牛座最大的資產就是頑固、便秘、空虛和口頭腹瀉。
 隱藏個性→誠實的金牛座也會騙人，而且不覺得有罪惡感。  
   
@@ -951,7 +951,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMDM4ODEsMTc0NDI0NjY0NywtNDU4MD
+eyJoaXN0b3J5IjpbMTU3MDI2MDUxMywtNzAwMzg4MSwtNDU4MD
 YwNTQzLDk4OTczNDgxMSwtMjQyMDMzODQ1LC0xNTAxNjIwOTc1
 LDEwNDg5Njc0MDMsMjE0MzEyNTI5NSwxMzQyMDQ4OTY3XX0=
 -->
