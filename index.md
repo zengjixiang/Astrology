@@ -898,7 +898,7 @@ _雙魚座：2月19日-3月20日_
 
 ----
 
-**水星‧掌管：表達、溝通、價值觀**  
+**水星 (掌管：表達、溝通、價值觀)**  
 水星的影響，有關個人將透過何種模式來表現他們的思考溝通能力。由此我們也可以瞭解每個人心裡最重視何種事物。主控思考過程的水星就像一面透視鏡一樣，它可以引導出每個人的創造力。水星的位置是相當重要的，因為它可以揭露出影響一個人的決斷力及表達能力的心理機制。水星所處的星座位置還可以使我們清楚地瞭解到，一個人會將何種事情視為是重要？或者是不重要？例如：水星在金牛座的人就會特別注意與金錢有關的事情，或者是某種特殊想法的實用性。
 
 **★水星：你的思想**  
@@ -915,9 +915,7 @@ _雙魚座：2月19日-3月20日_
   
 **★水星與星座：**
 
-●水星在十二星座的位置，表示出一個人以什麽樣的方式表達他們的思考能力。他們如何與外界溝通，對什麽樣的事物能引起他們的興趣。  
-
-**水星 VS. 十二星座**
+●水星在十二星座的位置，表示出一個人以什麽樣的方式表達他們的思考能力。他們如何與外界溝通，對什麽樣的事物能引起他們的興趣。
 
 **水星在白羊座：**  
 由於說話態度過於肯定，以至於令人有種尖銳諷刺與狡猾的感覺。好議論。對技術方面發生興趣。  
@@ -1015,9 +1013,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzcwMTMxMjMsLTQ4MzczNTYsMTM0Mj
-E1Mzc3MiwtNTE1NDMyOTgsMTU3MDI2MDUxMywtNzAwMzg4MSwt
-NDU4MDYwNTQzLDk4OTczNDgxMSwtMjQyMDMzODQ1LC0xNTAxNj
-IwOTc1LDEwNDg5Njc0MDMsMjE0MzEyNTI5NSwxMzQyMDQ4OTY3
-XX0=
+eyJoaXN0b3J5IjpbMTQxNzI5NjgyOCwtNDgzNzM1NiwxMzQyMT
+UzNzcyLC01MTU0MzI5OCwxNTcwMjYwNTEzLC03MDAzODgxLC00
+NTgwNjA1NDMsOTg5NzM0ODExLC0yNDIwMzM4NDUsLTE1MDE2Mj
+A5NzUsMTA0ODk2NzQwMywyMTQzMTI1Mjk1LDEzNDIwNDg5Njdd
+fQ==
 -->
