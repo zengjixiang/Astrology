@@ -794,7 +794,7 @@ _雙魚座：2月19日-3月20日_
 金牛座兼美貌與聰明於一身，直到他們二十歲那一年，他們在一夕之間僵化，變得苦澀、固執和遲鈍。金牛座最大的資產就是頑固、便秘、空虛和口頭腹瀉。
 隱藏個性→誠實的金牛座也會騙人，而且不覺得有罪惡感。  
   
-**雙子座(Gemini)**
+**雙子座 (Gemini)**
 雙子座的人動作太快，他們快到把自己都給留在幼稚園裡忘了帶走。他們的智慧深刻非要透過顯微鏡才能察覺。當需要發派耐心的時候，他們永遠坐在最後一排。他們永遠不說實話而且無感於迎頭而來的任何譏諷，他們倒是批評別人的一流高手。
 隱藏個性→雙子座做看似冷漠，但會躲在無人之處流淚。  
   
@@ -951,7 +951,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NDI0NjY0NywtNDU4MDYwNTQzLDk4OT
-czNDgxMSwtMjQyMDMzODQ1LC0xNTAxNjIwOTc1LDEwNDg5Njc0
-MDMsMjE0MzEyNTI5NSwxMzQyMDQ4OTY3XX0=
+eyJoaXN0b3J5IjpbLTcwMDM4ODEsMTc0NDI0NjY0NywtNDU4MD
+YwNTQzLDk4OTczNDgxMSwtMjQyMDMzODQ1LC0xNTAxNjIwOTc1
+LDEwNDg5Njc0MDMsMjE0MzEyNTI5NSwxMzQyMDQ4OTY3XX0=
 -->
