@@ -676,7 +676,7 @@ _雙魚座：2月19日-3月20日_
 
 - 宮位意義：朋友、社會觀、志同道合、社團、讀書會、願望、理想、社會意識、未來有關的、俱樂部、政黨、別人的小孩。
 
-- 相關星座：瓶座  
+- 相關星座：水瓶座  
   
 ★第十一宮與星座：
 ●第十一宮與個人交際有關。因此朋友、同好、社團要看此宮，另外，他也跟一個人的興趣、集體的願望有關。從第十一宮上的星座可看出一個人如何如何與他人分工合作。  
@@ -769,6 +769,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3Nzk3NDAyMSwtNTU2NTQxNjU1LDIxND
+eyJoaXN0b3J5IjpbMTA0ODk2NzQwMywtMzc3OTc0MDIxLDIxND
 MxMjUyOTUsMTM0MjA0ODk2N119
 -->
