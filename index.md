@@ -813,19 +813,20 @@ _雙魚座：2月19日-3月20日_
 天秤座是另一種幼稚園裡的人物。他們還沉醉在黏土、剪貼和針線裡，除非能隨時讓他們滿足這類的需求，否則他們會大發雷霆。天秤座無所不說，但是每次說完之後，他們就把原來所說的全都忘光了。
 隱藏個性→慷慨的天秤座，基本上是小氣的。  
   
-**天蠍座（Scorpio）**
+**天蠍座 (Scorpio)**
 天蠍座沉迷於操縱別人，他們操縱自己的孩子，自己所愛的，自己的朋友，自己的熟人，所有跟他遇上的人以及任何一個不幸去認識到他的人。天蠍座是電話，他們在您一轉身的當兒就洩露了您的秘密，而在您還沒有說完的同時，他們就打好了要告訴哪個人的主意。
 隱藏個性→猜忌、謹慎的天蠍座，也會被禮物感動。  
   
-**射手座（Sagittarius）**
+**射手座 (Sagittarius)**
 射手座缺乏所有的才能，他們模彷一切。如果讓射手座去開巴士，當他們讓車轉彎時，他們會自以為巴士是他所發明的。
 隱藏個性→愛冒險的射手座，不喜生活秩序遭破壞。  
   
-**摩羯座（Capricorns）**
+**摩羯座 (Capricorns)**
 他們只想要擁有、控制和避免他們所認識的每一個人。摩羯座總是介於開與關之間。他們喜歡不讓自己被別人用到，並且享受拒絕任何形式的需要。
 隱藏個性→現實的摩羯座其實是很浪漫的。  
   
 **水瓶座 (Aquarius)**
+
 水瓶座的人完全不切實際而且非常魯鈍。您所能指望他們的只有撒謊，粗心大意，和不住地犯同樣的錯誤。水瓶座什麽都知道，但是卻什麽都不想。
 隱藏個性→很個性化的水瓶座，並不愛出風頭。  
   
@@ -949,7 +950,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjU2MDY3MywtNDU4MDYwNTQzLDk4OT
+eyJoaXN0b3J5IjpbMTY0NDM5NzY5OSwtNDU4MDYwNTQzLDk4OT
 czNDgxMSwtMjQyMDMzODQ1LC0xNTAxNjIwOTc1LDEwNDg5Njc0
 MDMsMjE0MzEyNTI5NSwxMzQyMDQ4OTY3XX0=
 -->
