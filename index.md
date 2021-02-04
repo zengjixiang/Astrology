@@ -913,9 +913,9 @@ _雙魚座：2月19日-3月20日_
   
 ●在本命盤中，水星代表一個人思維運作及溝通表達。你的心思運轉得如何？你的智慧高於一般人的標準？你要知道這些，必須參考你的水星位置，必須去瞭解自己水星的位置在個人的星點陣圖中的配置。水星掌管人類的心智及語言表達能力，人體的神經系統，手部、背部和手指。當水星在個人星點陣圖顯得突出時，它帶給人們一種不穩靜、神經緊張和高度興奮的傾向，以及一種極為敏捷活潑的心理狀態。  
   
-**★水星與星座： ** 
+**★水星與星座：**
+
 ●水星在十二星座的位置，表示出一個人以什麽樣的方式表達他們的思考能力。他們如何與外界溝通，對什麽樣的事物能引起他們的興趣。  
-  
 
 **水星 VS. 十二星座**
 
@@ -938,15 +938,15 @@ _雙魚座：2月19日-3月20日_
 富理解力，擅長說話，凡是採取仔細、深思謹慎的態度，不過，常伴隨著繁瑣的批評。對保健、衛生、食物、實務文書、分析、心愛物發生興趣。  
   
 **水星在天秤座：**  
-說話文雅、態度謙和，具魅力。多才多藝，人品溫和、高尚，不過有時亦會陷入迷惑中，而顯的優柔寡斷。對美術、外交、股票、社交、裁判發生興趣。  
+說話文雅、態度謙和，具魅力。多才多藝，人品溫和、高尚，不過有時亦會陷入迷惑中，而顯得優柔寡斷。對美術、外交、股票、社交、裁判發生興趣。  
   
 **水星在天蠍座：**  
 脾氣剛強，觸感敏銳。富研究精神，稍顯乖僻，常沉默不語，可是，具備敏銳的洞察能力。對神秘、死、偵探、精神分析、金融發生興趣。  
   
 **水星在射手座：**  
-性急，但求知慾旺盛。喜歡旅行和學習外國語言。對出版、國外旅行、外國語文、法律學、宗教發生興趣。  
-**  
-水星在摩羯座：**  
+性急，但求知慾旺盛。喜歡旅行和學習外國語言。對出版、國外旅行、外國語文、法律學、宗教發生興趣。
+  
+**水星在摩羯座：**  
 不和悅，意志力薄弱，但是，胸懷踏實，忍耐力強。常常將目標集中於實際利益方面。對化學、宗教、政治、命運發生興趣。  
   
 **水星在水瓶座：**  
@@ -1015,9 +1015,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzczNTYsLTI0NjM2MjkyNCwxMzQyMT
-UzNzcyLC01MTU0MzI5OCwxNTcwMjYwNTEzLC03MDAzODgxLC00
-NTgwNjA1NDMsOTg5NzM0ODExLC0yNDIwMzM4NDUsLTE1MDE2Mj
-A5NzUsMTA0ODk2NzQwMywyMTQzMTI1Mjk1LDEzNDIwNDg5Njdd
-fQ==
+eyJoaXN0b3J5IjpbLTIwNzcwMTMxMjMsLTQ4MzczNTYsMTM0Mj
+E1Mzc3MiwtNTE1NDMyOTgsMTU3MDI2MDUxMywtNzAwMzg4MSwt
+NDU4MDYwNTQzLDk4OTczNDgxMSwtMjQyMDMzODQ1LC0xNTAxNj
+IwOTc1LDEwNDg5Njc0MDMsMjE0MzEyNTI5NSwxMzQyMDQ4OTY3
+XX0=
 -->
