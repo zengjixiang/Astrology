@@ -957,7 +957,6 @@ _雙魚座：2月19日-3月20日_
 
 **金星‧掌管：男性欣賞異性類型、女性如何吸引異性、審美觀**  
 金星對於私人關係中如何表達情感是很重要的，尤其是愛情及婚姻；此外亦可由此而充分瞭解個人對於金錢、財產、生理舒適度、社會及美學價值等的態度。
-
   
 **★金星：你的愛情**  
   
@@ -1069,9 +1068,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODY1NDk5NywtNDgzNzM1NiwxMzQyMT
-UzNzcyLC01MTU0MzI5OCwxNTcwMjYwNTEzLC03MDAzODgxLC00
-NTgwNjA1NDMsOTg5NzM0ODExLC0yNDIwMzM4NDUsLTE1MDE2Mj
-A5NzUsMTA0ODk2NzQwMywyMTQzMTI1Mjk1LDEzNDIwNDg5Njdd
-fQ==
+eyJoaXN0b3J5IjpbNDgwNDc4NjU5LDE4ODg2NTQ5OTcsLTQ4Mz
+czNTYsMTM0MjE1Mzc3MiwtNTE1NDMyOTgsMTU3MDI2MDUxMywt
+NzAwMzg4MSwtNDU4MDYwNTQzLDk4OTczNDgxMSwtMjQyMDMzOD
+Q1LC0xNTAxNjIwOTc1LDEwNDg5Njc0MDMsMjE0MzEyNTI5NSwx
+MzQyMDQ4OTY3XX0=
 -->
