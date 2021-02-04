@@ -914,7 +914,10 @@ _雙魚座：2月19日-3月20日_
 
 
 - 上昇星座VS. 十二星座
-- 《繼續閱讀_上昇星座VS. 十二星座》
+- 
+- 太陽個性與十二星座VS星座的黑暗面
+
+- 月亮你的情緒與十二星座
 
 
 
@@ -958,7 +961,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzYzMjgxNDgsLTIwOTAyMzExMzMsMT
+eyJoaXN0b3J5IjpbLTIxMTgyNzY1OTEsLTE1NzYzMjgxNDgsMT
 U3MDI2MDUxMywtNzAwMzg4MSwtNDU4MDYwNTQzLDk4OTczNDgx
 MSwtMjQyMDMzODQ1LC0xNTAxNjIwOTc1LDEwNDg5Njc0MDMsMj
 E0MzEyNTI5NSwxMzQyMDQ4OTY3XX0=
