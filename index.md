@@ -475,7 +475,7 @@ _雙魚座：2月19日-3月20日_
   
 大型動物也受到第十二宮的支配，這一點甚少為人所知。  
   
-第十二宮受到精神心靈與自我犧牲的海王星，以及富於同情心的雙魚座守護。
+>第十二宮受到精神心靈與自我犧牲的海王星，以及富於同情心的雙魚座守護。
 
 
 
@@ -533,6 +533,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0MDYwMjk4LDQyNzg5NDgxMCwxNjcyMD
-A4MDYxXX0=
+eyJoaXN0b3J5IjpbLTE5MTgwNDk1NDYsNTc0MDYwMjk4LDQyNz
+g5NDgxMCwxNjcyMDA4MDYxXX0=
 -->
