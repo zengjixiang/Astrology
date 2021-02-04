@@ -852,14 +852,11 @@ _雙魚座：2月19日-3月20日_
   
 ●月亮星座也是緩和太陽星座的一個重要因素。月亮星座位置的好壞也影響一般人的情緒反應，位置落在不算太壞的位置，一般說來皆能在社會上適應良好，有耐心，包容力強，EQ高。若處在不利的位置則使人不可靠，排外，心胸狹窄。擁有良好月亮位置的人，左眼視力一定很好，在占星學上，月亮掌管一切感官：味覺、聽覺、視覺、觸覺、嗅覺等。若月亮相位良好，在這方面的感覺是銳利而正確的；反之，若某些機能有障礙，代表月亮位置某種程度不佳。從月亮星座，可以瞭解一個人的家庭生活方式，與感情模式，瞭解了月亮星座，也就掌握了個人的感情世界。  
   
-**★月亮與星座：  
-​**  
-●月亮所屬的星座代表一個人如何面對環境。如何運用過往的記憶，以何種方式反應他的情緒，及他們跟生活中重要的女性，是什麽樣的關係，對他們產生什麽樣的影響。  
-  
-  
+**★月亮與星座：**
 
-  
-**月亮與十二星座  
+●月亮所屬的星座代表一個人如何面對環境。如何運用過往的記憶，以何種方式反應他的情緒，及他們跟生活中重要的女性，是什麽樣的關係，對他們產生什麽樣的影響。  
+
+**月亮與十二星座**
   
 月亮在白羊座：**  
 具有莽莽撞撞、有勇無謀且想踏出社會的趨勢。如果善用開拓者無畏的精神、則能臻製成功之境。適合當任企業家、政治家、記者、廣播業者、敬業的演員、職業運動者、竟走者、外科醫生、軍人、理髮師和廚師等工作。  
@@ -947,7 +944,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQ0MTI1NTYsMTE2MjE5MDgxOCwtMj
-QyMDMzODQ1LC0xNTAxNjIwOTc1LDEwNDg5Njc0MDMsMjE0MzEy
-NTI5NSwxMzQyMDQ4OTY3XX0=
+eyJoaXN0b3J5IjpbLTE2NTIzMDE2MDUsLTExNTQ0MTI1NTYsLT
+I0MjAzMzg0NSwtMTUwMTYyMDk3NSwxMDQ4OTY3NDAzLDIxNDMx
+MjUyOTUsMTM0MjA0ODk2N119
 -->
