@@ -825,17 +825,17 @@ _雙魚座：2月19日-3月20日_
 他們只想要擁有、控制和避免他們所認識的每一個人。摩羯座總是介於開與關之間。他們喜歡不讓自己被別人用到，並且享受拒絕任何形式的需要。
 隱藏個性→現實的摩羯座其實是很浪漫的。  
   
-**水瓶座（Aquarius）**
+**水瓶座 (Aquarius)**
 水瓶座的人完全不切實際而且非常魯鈍。您所能指望他們的只有撒謊，粗心大意，和不住地犯同樣的錯誤。水瓶座什麽都知道，但是卻什麽都不想。
 隱藏個性→很個性化的水瓶座，並不愛出風頭。  
   
-**雙魚座（Pisces）**
+**雙魚座 (Pisces)**
 雙魚座隨時隨地都能墜入情網。雙魚座非常聰明，但是卻沒有一位雙魚座學會運用自己的智慧。他們談戀愛只有一個理由，那就是當他們和情人鬧翻時，可以盡情地在悲苦裡打轉，然後他們就有藉口勾引他們所碰到的第一名異性做為補償。
 隱藏個性→溫馴的雙魚座，也有冷酷的一面。
 
 ----
 
-## **月亮與十二星座**
+**月亮與十二星座**
   
 **月亮 (掌管：情感、與女性的關係、飲食口味)**  
 月亮代表個人對於生活情境中情感的反應形式，月亮的位置還代表個人在家庭中和孩童時所深植的某種態度。它顯示出早期經驗如何影響情感的態度，決定了個人處理家庭生活及與母親、女性的關係。它還顯示了個人對一般公眾的反應，代表對日常事務、家務的態度。月亮的位置亦呈飲食習慣及食物偏好的指標。
@@ -949,7 +949,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1ODA2MDU0Myw5ODk3MzQ4MTEsLTI0Mj
-AzMzg0NSwtMTUwMTYyMDk3NSwxMDQ4OTY3NDAzLDIxNDMxMjUy
-OTUsMTM0MjA0ODk2N119
+eyJoaXN0b3J5IjpbMTkzNjU2MDY3MywtNDU4MDYwNTQzLDk4OT
+czNDgxMSwtMjQyMDMzODQ1LC0xNTAxNjIwOTc1LDEwNDg5Njc0
+MDMsMjE0MzEyNTI5NSwxMzQyMDQ4OTY3XX0=
 -->
