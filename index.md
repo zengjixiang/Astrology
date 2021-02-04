@@ -502,8 +502,7 @@ _雙魚座：2月19日-3月20日_
 
 **上昇 (掌管：容貌、舉止、性向) **  
 在一個人出生的那一刹那，由出生地向東延伸到黃道上，有一顆正要上昇的星座，就被稱為上昇星座。相對於太陽星座主導一個人的先天運勢，上升星座主導的則是後天運勢上昇星座對一個人的言行舉止、性向、癖好、外在容貌、風格、體質等較個人的因素影響，因此在不熟識你的人面前，上昇星座比你的太陽星座有更大的影響力。另一方面，一個人年輕時對自己的上昇星座並無太大知覺，而上昇星座將在四十歲後，增強它的影響力！  
-  
- 
+
 **上昇星座 **
   
 **上昇白羊座**
@@ -1674,7 +1673,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3Mzk2MDI5LC05MTk0Mjc4MzEsLTE0ND
+eyJoaXN0b3J5IjpbMTkxNDIyNTM5Nyw1ODczOTYwMjksLTE0ND
 k1MjQ5NzksLTE1MTQyNDQwMDgsLTE4OTk0MTE5ODEsLTEyNTQy
 MTIyOTksLTE5NDQzMDczMzksLTcxMTQ0OTM1NiwxOTg4NzQ2Nz
 Y5LDIxMTE2Nzc2MzksNTM5MTU4NzE3LDE5MjM5NjczNTAsLTM1
