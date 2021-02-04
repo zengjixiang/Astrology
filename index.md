@@ -915,7 +915,7 @@ _雙魚座：2月19日-3月20日_
   
 **★水星與星座：**
 
-●水星在十二星座的位置，表示出一個人以什麽樣的方式表達他們的思考能力。他們如何與外界溝通，對什麽樣的事物能引起他們的興趣
+●水星在十二星座的位置，表示出一個人以什麽樣的方式表達他們的思考能力。他們如何與外界溝通，對什麽樣的事物能引起他們的興趣。
 
 **土水星 VS. 十二星座**
 
@@ -1243,9 +1243,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5NzI2Nzc4LDYyMzQ3NTIzMCw0ODA0Nz
-g2NTksLTQ4MzczNTYsMTM0MjE1Mzc3MiwtNTE1NDMyOTgsMTU3
-MDI2MDUxMywtNzAwMzg4MSwtNDU4MDYwNTQzLDk4OTczNDgxMS
-wtMjQyMDMzODQ1LC0xNTAxNjIwOTc1LDEwNDg5Njc0MDMsMjE0
-MzEyNTI5NSwxMzQyMDQ4OTY3XX0=
+eyJoaXN0b3J5IjpbMjg3MjYzMzAwLDQ3OTcyNjc3OCw2MjM0Nz
+UyMzAsNDgwNDc4NjU5LC00ODM3MzU2LDEzNDIxNTM3NzIsLTUx
+NTQzMjk4LDE1NzAyNjA1MTMsLTcwMDM4ODEsLTQ1ODA2MDU0My
+w5ODk3MzQ4MTEsLTI0MjAzMzg0NSwtMTUwMTYyMDk3NSwxMDQ4
+OTY3NDAzLDIxNDMxMjUyOTUsMTM0MjA0ODk2N119
 -->
