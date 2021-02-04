@@ -1343,66 +1343,29 @@ _雙魚座：2月19日-3月20日_
 ★海王星與星座：  
 ●海王星所屬的星座代表一個世代的共同夢想如何表現。這樣的渴望，以何種形式表現出來，造成什麼樣的影響。
 
-----
-
-
-
-海王星星座代表一個14年世代的共同夢想如何表現、這樣的渴望以何種形式表現出來，造成什麽樣的影響。
-
- 
-
- 
-
 海王星在牡羊座
-
- 
 
 從一六八一年至一八七四年，海王星停留在牡羊座。在海王星停留於牡羊座期間出生的人，倡導了許多新的宗教觀念與哲學觀。他們都同樣擁有一種強烈的使命感，能表現出很大的想象力、創造力與自覺力。若相位受克，會使星盤主滿懷虛榮與自私的計謀，而且充滿邪惡的欲望。
 
- 
-
 當海王星出現在牡羊座時，會使這一代人在開創神秘宗教思想上有傑出的表現。這些人對於創新、改造精神性的事物有強烈的直覺及欲望。然而你的缺點，則是會表現出自大與自我主義。
-
-
- 
 
 海王星在金牛座
 
- 
-
 海王星最近一次出現在金牛座是一八七四到一八八七年。你對科學與藝術有一種實際的態度。你對音樂有所回應，然而你也有與生俱來的生意頭腦，對安全感有強烈需要，可能容易受他人誤會。對冥王星所形成的相位可能使你擁有治療的能力。海王星有不利相位時，可能導致對財產過於全神貫註，或者在處理金錢上會自我欺騙與粗心大意。
-
- 
 
 當海王星出現在金牛座時，會出現許多瘋狂於將金錢及資源作最好利用的理想主義者，這一代人想盡辦法將內心所勾勒的世界以實際的手段展現出來。你的缺點是先入為主地把金錢與物質的價值看得太重要。
 
-
- 
-
 海王星在雙子座
-
 
 海王星最近一次位在雙子座是從一八八七年到一九零一年。你會發展出許多有關貿易、商業、旅行與通訊的新理論。天性機警、好問與不安，你對新奇不同的經驗有種渴望，很難定得下來。有不利的相位時，你可能會全神貫註於膚淺的價值，易受外在影響，愛辯論、有手腕、心胸狹窄、愛說閑話。
 
- 
-
 海王星落在雙子座當海王星出現在雙子座時，會使這一代人，藉由文學及詩的創作不斷努力地來發展心靈的想象力及感受力。這些人有著活潑而且豐富的想象力，並能透過腦中對圖像的建構能力，將意識中最深不可知的訊息傳遞出來。你的缺點是容易被夢想中的世界及其表面的價值所蒙蔽，在現實中的思考及溝通會產生諸多問題。
-
- 
-
- 
 
 海王星在巨蟹座
 
- 
-
 海王星最近一次出現巨蟹座是從一九零一年到一九一五年。你對土地有強烈的感受聯系，對家庭與家人亦然。你是理想主義的，在情感上相當敏感。忠誠愛國，對宗教觀念采取開放態度，你願意為保護他人而犧牲。
 
- 
-
 當海王星出現在巨蟹座時，這一代人會對家庭、家人及土地產生強烈的依賴心。你非常具有同情心，敏感而且情緒化。有宗教傾向，但卻是以情緒化的方式信仰宗教。如果海王星的影響非常強烈，而且相位絕佳，就會有特殊的精神力量及與靈異界溝通的傾向。許多通靈人就是出生在海王星位於巨蟹座之時。你的缺點是過分敏感而導致脆弱、易受打擊：對家庭及國家的依賴有種獨占，情緒化的傾向。通靈的能力可能會產生誤導的現象，使得星象學的影響泛濫而變得毫無價值。
-
- 
 
 海王星在獅子座
 
@@ -1540,10 +1503,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTQ0OTM1Niw1ODI5NjIsMTk4ODc0Nj
-c2OSwyMTExNjc3NjM5LDUzOTE1ODcxNywxOTIzOTY3MzUwLC0z
-NTc5MDMzNjEsODI3MjE3ODMsMjg3MjYzMzAwLDYyMzQ3NTIzMC
-w0ODA0Nzg2NTksLTQ4MzczNTYsMTM0MjE1Mzc3MiwtNTE1NDMy
-OTgsMTU3MDI2MDUxMywtNzAwMzg4MSwtNDU4MDYwNTQzLDk4OT
-czNDgxMSwtMjQyMDMzODQ1LC0xNTAxNjIwOTc1XX0=
+eyJoaXN0b3J5IjpbLTEwMDM5MTUyNzMsLTcxMTQ0OTM1NiwxOT
+g4NzQ2NzY5LDIxMTE2Nzc2MzksNTM5MTU4NzE3LDE5MjM5Njcz
+NTAsLTM1NzkwMzM2MSw4MjcyMTc4MywyODcyNjMzMDAsNjIzND
+c1MjMwLDQ4MDQ3ODY1OSwtNDgzNzM1NiwxMzQyMTUzNzcyLC01
+MTU0MzI5OCwxNTcwMjYwNTEzLC03MDAzODgxLC00NTgwNjA1ND
+MsOTg5NzM0ODExLC0yNDIwMzM4NDUsLTE1MDE2MjA5NzVdfQ==
+
 -->
