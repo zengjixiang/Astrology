@@ -1070,12 +1070,7 @@ _雙魚座：2月19日-3月20日_
 **木星‧掌管：人生目標、人生哲學**  
 從木星在各星座中的位置，我們可以知道一個人的道德、宗教、哲學的標準及信念為何？同時我們也可以知各種不同木星的人是以何種方式來表達他們對哲學及高等教育的興趣？木星在各星座的位置更可以顯現出一個人在何處會表現出寬大的氣度。木星在各星座間的位置也可以指出一個人會以何種方式與他人分享他既得的東西，會如何寬大的造福社會大眾，並因此獲他人的的回饋及幫助。採取社會合作的原則，比單獨行事更可使一個人獲致更高的事業成就。
 
-**更多的星座愛情運勢↓↓↓**
-
-**[星座愛情專題系列 彙總~
-
-**  
-★木星：你的幸運**  
+★木星：你的幸運
   
 ●木星是太陽系中除了太陽之外，最大的星體。木星有著穩定和明亮的光芒，因此被視為象徵幸運的吉星。大約十二年繞行黃道宮一周，每一年行一宮；因此，同年齡的人在同星座中，幾乎都有木星。它總是和"擴展"這個觀念有關，代表一個人向外發展的能力。本命盤中的木星代表了一個人的幸運點及感到自信的地方，以及將之事轉化為智慧的能力。  
   
@@ -1195,9 +1190,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzc4OTc2LC00NjA4MDIwNjgsNDgwND
-c4NjU5LC00ODM3MzU2LDEzNDIxNTM3NzIsLTUxNTQzMjk4LDE1
-NzAyNjA1MTMsLTcwMDM4ODEsLTQ1ODA2MDU0Myw5ODk3MzQ4MT
-EsLTI0MjAzMzg0NSwtMTUwMTYyMDk3NSwxMDQ4OTY3NDAzLDIx
-NDMxMjUyOTUsMTM0MjA0ODk2N119
+eyJoaXN0b3J5IjpbLTE0ODgwNzQ3OTEsLTIxMzc4OTc2LDQ4MD
+Q3ODY1OSwtNDgzNzM1NiwxMzQyMTUzNzcyLC01MTU0MzI5OCwx
+NTcwMjYwNTEzLC03MDAzODgxLC00NTgwNjA1NDMsOTg5NzM0OD
+ExLC0yNDIwMzM4NDUsLTE1MDE2MjA5NzUsMTA0ODk2NzQwMywy
+MTQzMTI1Mjk1LDEzNDIwNDg5NjddfQ==
 -->
