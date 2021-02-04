@@ -1519,20 +1519,15 @@ _雙魚座：2月19日-3月20日_
  
 
 約在公元二千年左右，海王星會進入水瓶座，代表人類真正邁入水瓶座時期。這段期間，建立在人文主義再啟蒙基礎上的新文明將會誕生。在科學上，新形式的能源及科技將被發現並應用。這些文明的現象，代表人類將進入聖經中所揭示的千年以上的和平時代，人類的直覺能力和透視能力將有高度發展，在現實實際的生活中，也能發揮不分彼此的博愛精神，互相幫助。
-
-
  
 
 海王星在雙魚座
-
 
 海王星在自己的星座雙魚座中，這代表有靈感的、精神上的、敏感的與甚至有預知能力的。這個位置預示有時與音樂的天賦，對於那些身處困境中的人感同身受，並會出現新的文化掛念。
 
 海王星進入雙魚座之後，將繼續維持水瓶座時期以來的長久和平。這段時間內，人類將有機會一探靈魂深不可知的力量，並會發展出更高的音樂、藝術形式；醫療的能力也曾向前邁進一大步。水瓶座創造精神的最高理想將在這個時候出現，許多偉大的藝術家及精神領袖也曾在此時出生。
 
 ----
-
-
 
 ★冥王星：你的潛能  
 ●冥王星發現於1930年，是所有星體中移動最緩慢的一個，大約需要二百四十八年才能在黃道上繞行一周。在太陽系當中，冥王星是距離太陽最遠的行星，是一顆小及結實的星體。由於其軌道較異常，停留在每個星座的時間從十二年到三十年不等。在占星學當中，冥王星代表黑暗及神秘，代表毀滅與再造的力量。也代表一個人絕對在意的地方及狂熱的所在。冥王星與死生之事很有關係，也代表性與暴力及還有如命理玄學等玄秘的事物。冥王星亦代表一個人的洞悉環境的能力，代表一個人的覺察看力。本命盤中的冥王星代表一個人絕對重視及再意的地方，也代表一個人最狂熱的事情。
@@ -1606,10 +1601,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTQyMzQxMCwxOTg4NzQ2NzY5LDIxMT
-E2Nzc2MzksNTM5MTU4NzE3LDE5MjM5NjczNTAsLTM1NzkwMzM2
-MSw4MjcyMTc4MywyODcyNjMzMDAsNjIzNDc1MjMwLDQ4MDQ3OD
-Y1OSwtNDgzNzM1NiwxMzQyMTUzNzcyLC01MTU0MzI5OCwxNTcw
-MjYwNTEzLC03MDAzODgxLC00NTgwNjA1NDMsOTg5NzM0ODExLC
-0yNDIwMzM4NDUsLTE1MDE2MjA5NzUsMTA0ODk2NzQwM119
+eyJoaXN0b3J5IjpbMTQ2NjE5MzA0OCwxNjQ5NDIzNDEwLDE5OD
+g3NDY3NjksMjExMTY3NzYzOSw1MzkxNTg3MTcsMTkyMzk2NzM1
+MCwtMzU3OTAzMzYxLDgyNzIxNzgzLDI4NzI2MzMwMCw2MjM0Nz
+UyMzAsNDgwNDc4NjU5LC00ODM3MzU2LDEzNDIxNTM3NzIsLTUx
+NTQzMjk4LDE1NzAyNjA1MTMsLTcwMDM4ODEsLTQ1ODA2MDU0My
+w5ODk3MzQ4MTEsLTI0MjAzMzg0NSwtMTUwMTYyMDk3NV19
 -->
