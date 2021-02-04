@@ -622,7 +622,7 @@ _雙魚座：2月19日-3月20日_
 第八宮--[疾厄宮]  
 
 - 內在的潛能必須透過合作的結合啟發，但也引發佔有與轉變。第八宮也就是所謂的疾厄宮，他代表著地底，跟個人黑暗面與靈界相關，因此代表死生之事及一個人內心不願被觸及的深處。第八宮象徵著一個人結合外界的資源的過程，代表自己無法掌控之他人錢財及外界的資源，例如投資及負債及稅務問題。透過結合產生蛻變，第八宮通常和性與暴力有關，同時它代表了財團，遺產、保險以及社會黑暗面，所謂高風險高報酬，雖可獲得財富及權勢，但也可能造成極大的危險。  
-  
+
 
 第八宮掌控了死生之事，和一個人對死亡的態度有關，所以代表了一個人的疾厄，可看出一個人致命的疾病。第八宮和隱藏的事物有關，因此代表了命理玄學。如果有本宮有好的行星影響，就會對死亡有比較健康的態度。  
   
@@ -754,6 +754,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODc2Njg2NjIsMzQzNzA3NDc0LDIxND
+eyJoaXN0b3J5IjpbMzMxNzE0MDU4LC0xNjg3NjY4NjYyLDIxND
 MxMjUyOTUsMTM0MjA0ODk2N119
 -->
