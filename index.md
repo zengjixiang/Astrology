@@ -487,7 +487,9 @@ _雙魚座：2月19日-3月20日_
 
 - [蘇珊米勒-占星簡史和基礎知識（3、特質篇）](//)
 
-- [【蘇珊米勒】占星簡史和基礎知識（4、宮位篇）-占星簡史
+- [【蘇珊米勒】占星簡史和基礎知識（4、宮位篇）](//)
+
+<!--
 (以下內容暫時保留，日後編輯完成之後再刪除)
 
 You can use the [editor on GitHub](https://github.com/zengjixiang/astrology/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -524,7 +526,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3ODk0ODEwLDU2MjE2MjE4NiwxNjcyMD
-A4MDYxXX0=
+eyJoaXN0b3J5IjpbLTEzMDQ0NjkyNjYsNDI3ODk0ODEwLDE2Nz
+IwMDgwNjFdfQ==
 -->
