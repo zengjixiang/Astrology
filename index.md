@@ -1200,9 +1200,7 @@ _雙魚座：2月19日-3月20日_
 ●海王星為了幻象及假象，常會自我欺騙及自我犧牲，所以海王星代表一個人沉迷的地方。海王星的感受力很好，因此代表了藝術及美的事物，也代表著同情心、隨緣及與宗教有關的事物。在神話故事中，它是海神，代表了無盡、模糊、理想化，包容力，空想及混亂，掌管著浩瀚的海洋與無邊的夢境。  
 ●海王星是雙魚座的守護星。一般稱海王星跟藝術和宗教有關。海王星特徵明顯的人就會充滿想像力。重直覺，精神，常涉足和藝術有關的東西。不良的海王星影響力是：常自欺，不問世事，過於大意，容易相信別人而受騙，或太過於多愁善感。  
 ●海王星象徵憧憬或幻想，是影響世代的三顆行星中，力量最強大的一顆。因此，海王星落在各星座時，會對某一時代、某一群人造成特殊的影響，對個人的影響較不顯著。海王星所在的星座位置，顯示出不同年代出生的人，分享同一種精神性的心靈生活，也是種影響潛意識最深的精神力量，產生出不自覺且根深蒂固的觀念及思想。  
-  
-  
-  
+
 ●海王星是在1846被發現的，此時正值麻醉運用在醫學上，人們對心靈的體驗及超意識的好奇也開始萌芽，而同時如達爾文的進化論（1846年）、共產黨宣言（1848年）及社會主義的興起，都和非個人的集體特性有關。因此，海王星代表了心靈的、超意識的，往往是超越人們正常的體驗，常令人感到虛幻。海王星性格強的人，有很強的感受力，運用其豐富的想像力，能體會常人所無法體會的事物，所以，他們通常很喜歡藝術，從藝術中得到性靈的解放，但夢幻的特質常令人感到不切實際，而且對未來沒什麼目標，過於隨緣的性格，容易麻醉自己而自我欺騙甚至自我犧牲，會令人感到濫情而有曖昧及混亂的事情發生。海王星代表大海，大海是廣大而無邊際的，因此海王星代表一個人的包容力。海王星象徵美及靈性的二元性，代表藝術及宗教有關的事物，因此海王星有著宗教的隨緣性格，代表了同情心，也代表一個人適應環境的能力如何。  
   
 ★海王星與星座：  
@@ -1282,10 +1280,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1NzAyNzUzLDE5MjM5NjczNTAsLTM1Nz
-kwMzM2MSw4MjcyMTc4MywyODcyNjMzMDAsNjIzNDc1MjMwLDQ4
-MDQ3ODY1OSwtNDgzNzM1NiwxMzQyMTUzNzcyLC01MTU0MzI5OC
-wxNTcwMjYwNTEzLC03MDAzODgxLC00NTgwNjA1NDMsOTg5NzM0
-ODExLC0yNDIwMzM4NDUsLTE1MDE2MjA5NzUsMTA0ODk2NzQwMy
-wyMTQzMTI1Mjk1LDEzNDIwNDg5NjddfQ==
+eyJoaXN0b3J5IjpbNTM5MTU4NzE3LDQ2NTcwMjc1MywxOTIzOT
+Y3MzUwLC0zNTc5MDMzNjEsODI3MjE3ODMsMjg3MjYzMzAwLDYy
+MzQ3NTIzMCw0ODA0Nzg2NTksLTQ4MzczNTYsMTM0MjE1Mzc3Mi
+wtNTE1NDMyOTgsMTU3MDI2MDUxMywtNzAwMzg4MSwtNDU4MDYw
+NTQzLDk4OTczNDgxMSwtMjQyMDMzODQ1LC0xNTAxNjIwOTc1LD
+EwNDg5Njc0MDMsMjE0MzEyNTI5NSwxMzQyMDQ4OTY3XX0=
 -->
