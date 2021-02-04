@@ -858,7 +858,7 @@ _雙魚座：2月19日-3月20日_
 
 ●月亮所屬的星座代表一個人如何面對環境。如何運用過往的記憶，以何種方式反應他的情緒，及他們跟生活中重要的女性，是什麽樣的關係，對他們產生什麽樣的影響。  
 
-**月亮與十二星座**
+**月亮 VS. 十二星座**
   
 **月亮在白羊座：**  
 具有莽莽撞撞、有勇無謀且想踏出社會的趨勢。如果善用開拓者無畏的精神、則能臻製成功之境。適合當任企業家、政治家、記者、廣播業者、敬業的演員、職業運動者、竟走者、外科醫生、軍人、理髮師和廚師等工作。  
@@ -917,7 +917,7 @@ _雙魚座：2月19日-3月20日_
 
 ●水星在十二星座的位置，表示出一個人以什麽樣的方式表達他們的思考能力。他們如何與外界溝通，對什麽樣的事物能引起他們的興趣。
 
-**土水星 VS. 十二星座**
+**水星 VS. 十二星座**
 
 **水星在白羊座：**  
 由於說話態度過於肯定，以至於令人有種尖銳諷刺與狡猾的感覺。好議論。對技術方面發生興趣。  
@@ -1243,9 +1243,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3MjYzMzAwLDQ3OTcyNjc3OCw2MjM0Nz
-UyMzAsNDgwNDc4NjU5LC00ODM3MzU2LDEzNDIxNTM3NzIsLTUx
-NTQzMjk4LDE1NzAyNjA1MTMsLTcwMDM4ODEsLTQ1ODA2MDU0My
-w5ODk3MzQ4MTEsLTI0MjAzMzg0NSwtMTUwMTYyMDk3NSwxMDQ4
-OTY3NDAzLDIxNDMxMjUyOTUsMTM0MjA0ODk2N119
+eyJoaXN0b3J5IjpbODI3MjE3ODMsMjg3MjYzMzAwLDYyMzQ3NT
+IzMCw0ODA0Nzg2NTksLTQ4MzczNTYsMTM0MjE1Mzc3MiwtNTE1
+NDMyOTgsMTU3MDI2MDUxMywtNzAwMzg4MSwtNDU4MDYwNTQzLD
+k4OTczNDgxMSwtMjQyMDMzODQ1LC0xNTAxNjIwOTc1LDEwNDg5
+Njc0MDMsMjE0MzEyNTI5NSwxMzQyMDQ4OTY3XX0=
 -->
