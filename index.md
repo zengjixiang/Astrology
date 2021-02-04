@@ -519,7 +519,8 @@ _雙魚座：2月19日-3月20日_
   
 ●上昇星座所表現的特質與太陽星座所表現出來的形態很像，但是完全不同，太陽代表的個性的表現，他是一種能量的展現，而上升則是人格形成的表現，他是所有行星能量交互作用後的結果。  
   
-★第一宮小檔桉：●宮位意義：自己的個性、身體狀況、外貌、舉止、一般的健康、生命力、給人的第一印像。●相關星座：牡羊座  
+★第一宮
+●宮位意義：自己的個性、身體狀況、外貌、舉止、一般的健康、生命力、給人的第一印像。●相關星座：牡羊座  
   
 ★第一宮與星座：
 ●上昇星座所顯示是你出生時所選取的「面具」。在傳統的西洋占星學中，上昇星座被認為是用來表示「誕生」及「肉體」。這是你在這個世上所戴的第一個「面具」，表示肉體上的特徵或印象等。  
@@ -726,6 +727,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1MDQ4NzU3LDIxNDMxMjUyOTUsMTM0Mj
-A0ODk2N119
+eyJoaXN0b3J5IjpbMTEwODgwNzQ3Myw3MzUwNDg3NTcsMjE0Mz
+EyNTI5NSwxMzQyMDQ4OTY3XX0=
 -->
