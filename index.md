@@ -1315,8 +1315,6 @@ _雙魚座：2月19日-3月20日_
 
 如果天王星受困水瓶座，就可能造成放縱而不是自由，使人們無理的固執或不實際的特立獨行。如果天王星嚴重受困於此，可能造成人們不願遵守常規及法則的系統。
 
-  
-
 天王星在雙魚座
 
 你非常善變，不過在你的內心，總是懷著善意。天生就具有直覺力，帶點理想主義，也很有想象力。你有神秘的傾向，對於沈思，瑜珈術與東方哲學感到興趣。具有藝術氣質與美感，這對表演是個極佳的位置，因為你喜歡逃入不同的世界去。你可能是自我犧牲的，同時也可能經歷一種精神上的掙紮，追尋其他更為高貴的成就為目標。由於過分敏感，你的神經系統很容易激動。你需要放棄自己的限制，學會在身體與情緒上放松。如果有挑戰性的相位時，你可能會藉著酒精、藥物或性的幫助來逃避。天王星最近一次出現在雙魚座是從一九一九年到一九二七年。
@@ -1342,6 +1340,8 @@ _雙魚座：2月19日-3月20日_
   
 ★海王星與星座：  
 ●海王星所屬的星座代表一個世代的共同夢想如何表現。這樣的渴望，以何種形式表現出來，造成什麼樣的影響。
+
+海王星落在十二個星座的影響
 
 海王星在牡羊座
 
@@ -1597,10 +1597,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDQzMDczMzksMTg2OTE2NDA2MiwtNz
-ExNDQ5MzU2LDE5ODg3NDY3NjksMjExMTY3NzYzOSw1MzkxNTg3
-MTcsMTkyMzk2NzM1MCwtMzU3OTAzMzYxLDgyNzIxNzgzLDI4Nz
-I2MzMwMCw2MjM0NzUyMzAsNDgwNDc4NjU5LC00ODM3MzU2LDEz
-NDIxNTM3NzIsLTUxNTQzMjk4LDE1NzAyNjA1MTMsLTcwMDM4OD
-EsLTQ1ODA2MDU0Myw5ODk3MzQ4MTEsLTI0MjAzMzg0NV19
+eyJoaXN0b3J5IjpbNTI5MTY5OTc5LC0xOTQ0MzA3MzM5LC03MT
+E0NDkzNTYsMTk4ODc0Njc2OSwyMTExNjc3NjM5LDUzOTE1ODcx
+NywxOTIzOTY3MzUwLC0zNTc5MDMzNjEsODI3MjE3ODMsMjg3Mj
+YzMzAwLDYyMzQ3NTIzMCw0ODA0Nzg2NTksLTQ4MzczNTYsMTM0
+MjE1Mzc3MiwtNTE1NDMyOTgsMTU3MDI2MDUxMywtNzAwMzg4MS
+wtNDU4MDYwNTQzLDk4OTczNDgxMSwtMjQyMDMzODQ1XX0=
 -->
