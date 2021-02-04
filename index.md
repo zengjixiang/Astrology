@@ -54,7 +54,7 @@
 
 ----
 
-##**金星**
+### **金星**
 ###### 關鍵字：
 > 金星守護著情感、心、愛情生活及快樂之事，包括禮物。這一陰性能量的行星還掌管著美麗、時尚裝飾和藝術。這顆優雅之星令世界更具吸引力也更有樂趣。關於金星還有些不是很為人知的事情：金星在星盤中所處的位置，能帶來很強的財務恩惠及物質受益。
 > 
@@ -66,7 +66,7 @@
 
 ----
 
-**火星**
+### **火星**
 ###### 關鍵字：
 > 在十二宮中，火星能激發其他行星或者宮位。這是一個有進取心、堅定自信、強而有力、精力充沛、有勇氣、有競爭性且有膽量的一顆行星。 
 >
@@ -1676,11 +1676,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjA4ODg3Miw0MTY3NDQ5MDIsNTg3Mz
-k2MDI5LC0xNDQ5NTI0OTc5LC0xNTE0MjQ0MDA4LC0xODk5NDEx
-OTgxLC0xMjU0MjEyMjk5LC0xOTQ0MzA3MzM5LC03MTE0NDkzNT
-YsMTk4ODc0Njc2OSwyMTExNjc3NjM5LDUzOTE1ODcxNywxOTIz
-OTY3MzUwLC0zNTc5MDMzNjEsODI3MjE3ODMsMjg3MjYzMzAwLD
-YyMzQ3NTIzMCw0ODA0Nzg2NTksLTQ4MzczNTYsMTM0MjE1Mzc3
-Ml19
+eyJoaXN0b3J5IjpbMTM5NDkwMTk1MCwtNTM2MDg4ODcyLDU4Nz
+M5NjAyOSwtMTQ0OTUyNDk3OSwtMTUxNDI0NDAwOCwtMTg5OTQx
+MTk4MSwtMTI1NDIxMjI5OSwtMTk0NDMwNzMzOSwtNzExNDQ5Mz
+U2LDE5ODg3NDY3NjksMjExMTY3NzYzOSw1MzkxNTg3MTcsMTky
+Mzk2NzM1MCwtMzU3OTAzMzYxLDgyNzIxNzgzLDI4NzI2MzMwMC
+w2MjM0NzUyMzAsNDgwNDc4NjU5LC00ODM3MzU2LDEzNDIxNTM3
+NzJdfQ==
 -->
