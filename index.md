@@ -1303,8 +1303,6 @@ _雙魚座：2月19日-3月20日_
 
 如果天王星受困於此，你可能有過度的野心以及在追求事業進展上過度擴張自我。
 
-  
-
 天王星在水瓶座
 
 天王星位在它自己的天宮裏，天王星的力量非常強，具有穿透力、發明性，是科學的與玄奧的。你熱衷於為人類的福祉作任何方面的努力與改變，不過你的方法可能是古怪的，而且也一定是個人主義式的。你的領導能力無庸置疑。一個自由的思想者對任何新的觀念都是采開放態度的。你有才智、冷漠，有時候會為了自己過於遺世獨立。有不利的相位時，可能會反傳統，不切實際與甚至有渴望革命。天王星最近一次出現於水瓶座是從一九一二年到一九一九年，在一九九五到二零零二年，會再回來。
@@ -1417,11 +1415,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDIxMjM0NjcsLTEwOTk0MDIwNTksMj
-ExMTY3NzYzOSw1MzkxNTg3MTcsMTkyMzk2NzM1MCwtMzU3OTAz
-MzYxLDgyNzIxNzgzLDI4NzI2MzMwMCw2MjM0NzUyMzAsNDgwND
-c4NjU5LC00ODM3MzU2LDEzNDIxNTM3NzIsLTUxNTQzMjk4LDE1
-NzAyNjA1MTMsLTcwMDM4ODEsLTQ1ODA2MDU0Myw5ODk3MzQ4MT
-EsLTI0MjAzMzg0NSwtMTUwMTYyMDk3NSwxMDQ4OTY3NDAzXX0=
+eyJoaXN0b3J5IjpbMTk4ODc0Njc2OSwtMTcwMjEyMzQ2NywyMT
+ExNjc3NjM5LDUzOTE1ODcxNywxOTIzOTY3MzUwLC0zNTc5MDMz
+NjEsODI3MjE3ODMsMjg3MjYzMzAwLDYyMzQ3NTIzMCw0ODA0Nz
+g2NTksLTQ4MzczNTYsMTM0MjE1Mzc3MiwtNTE1NDMyOTgsMTU3
+MDI2MDUxMywtNzAwMzg4MSwtNDU4MDYwNTQzLDk4OTczNDgxMS
+wtMjQyMDMzODQ1LC0xNTAxNjIwOTc1LDEwNDg5Njc0MDNdfQ==
 
 -->
