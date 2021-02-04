@@ -1606,6 +1606,7 @@ _雙魚座：2月19日-3月20日_
 ●第十一宮，代表交際，不同種類的人際關係；也代表你的理想，渴望得到的事物和工作上的酬勞。此宮亦代表了繼父母，養子及在你控制範圍外的環境。從此宮可看出你的交際手法和處事方式。
 
 ★第十一宮與星座：
+
 ●第十一宮與個人交際有關。因此朋友、同好、社團要看此宮，另外，他也跟一個人的興趣、集體的願望有關。從第十一宮上的星座可看出一個人如何如何與他人分工合作。
 
 
@@ -1684,11 +1685,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwOTUwNDc4NywtMTIzODcyNjM0NSwtMT
-QxNjE4MjE0MiwxMzk0OTAxOTUwLDU4NzM5NjAyOSwtMTQ0OTUy
-NDk3OSwtMTUxNDI0NDAwOCwtMTg5OTQxMTk4MSwtMTI1NDIxMj
-I5OSwtMTk0NDMwNzMzOSwtNzExNDQ5MzU2LDE5ODg3NDY3Njks
-MjExMTY3NzYzOSw1MzkxNTg3MTcsMTkyMzk2NzM1MCwtMzU3OT
-AzMzYxLDgyNzIxNzgzLDI4NzI2MzMwMCw2MjM0NzUyMzAsNDgw
-NDc4NjU5XX0=
+eyJoaXN0b3J5IjpbLTEzNjA5Mzg3NzksMTMwOTUwNDc4NywtMT
+IzODcyNjM0NSwtMTQxNjE4MjE0MiwxMzk0OTAxOTUwLDU4NzM5
+NjAyOSwtMTQ0OTUyNDk3OSwtMTUxNDI0NDAwOCwtMTg5OTQxMT
+k4MSwtMTI1NDIxMjI5OSwtMTk0NDMwNzMzOSwtNzExNDQ5MzU2
+LDE5ODg3NDY3NjksMjExMTY3NzYzOSw1MzkxNTg3MTcsMTkyMz
+k2NzM1MCwtMzU3OTAzMzYxLDgyNzIxNzgzLDI4NzI2MzMwMCw2
+MjM0NzUyMzBdfQ==
 -->
