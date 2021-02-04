@@ -583,8 +583,8 @@ _雙魚座：2月19日-3月20日_
   
 ★第五宮
 
-宮位意義：創造力、表現力、娛樂、愛情、藝術、休閒活動、禮物、偏財運、賭博、宴會。
-●相關星座：獅子座  
+- 宮位意義：創造力、表現力、娛樂、愛情、藝術、休閒活動、禮物、偏財運、賭博、宴會。
+相關星座：獅子座  
   
 ★第五宮與星座：
 ●第五宮與創造快樂有關。因此跟戀愛、遊戲、玩樂以及子女的事物都要看此宮，另外，一個人的賭運、創意、休閒娛樂也要看這宮。從一個人第五宮上的星座可以看出一個人是以什麽樣的方式追求快樂。  
@@ -743,6 +743,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjU1Mjg4MzAsMjIxNTUyMzI1LDIxND
+eyJoaXN0b3J5IjpbMzQzNzA3NDc0LC0xOTI1NTI4ODMwLDIxND
 MxMjUyOTUsMTM0MjA0ODk2N119
 -->
