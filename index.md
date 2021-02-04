@@ -604,7 +604,7 @@ _雙魚座：2月19日-3月20日_
 **太陽在雙魚座**  
 才華洋溢，喜歡幻想。依賴心強，能適應不同的環境和立場。有豐富的創造能力和藝術才華，沉溺於詩般的情節和夢想，認為真正的幸福是身靈合的世界。選擇遠離俗世的生活，在物質上不會有太大的成就。富於同情，有犧牲自我的精神，尤其同情社會上的弱者和不幸的人。  
   
-#**太陽星座的黑暗面**  
+### **太陽星座的黑暗面**  
   
 **白羊座 (Aries)**
 大部分的白羊座總喜歡四處亂跑，但是僅止於五分鐘熱度。白羊座喜愛支配弱小，而且受到任何其形式的智慧的威脅。在他們粉飾的面具之下，是大量的拐彎抹角，不安和猶豫不決。
@@ -1679,11 +1679,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3Mjg0Mzc0MiwxMzk0OTAxOTUwLDU4Nz
-M5NjAyOSwtMTQ0OTUyNDk3OSwtMTUxNDI0NDAwOCwtMTg5OTQx
-MTk4MSwtMTI1NDIxMjI5OSwtMTk0NDMwNzMzOSwtNzExNDQ5Mz
-U2LDE5ODg3NDY3NjksMjExMTY3NzYzOSw1MzkxNTg3MTcsMTky
-Mzk2NzM1MCwtMzU3OTAzMzYxLDgyNzIxNzgzLDI4NzI2MzMwMC
-w2MjM0NzUyMzAsNDgwNDc4NjU5LC00ODM3MzU2LDEzNDIxNTM3
-NzJdfQ==
+eyJoaXN0b3J5IjpbLTE0MTYxODIxNDIsMTE3Mjg0Mzc0MiwxMz
+k0OTAxOTUwLDU4NzM5NjAyOSwtMTQ0OTUyNDk3OSwtMTUxNDI0
+NDAwOCwtMTg5OTQxMTk4MSwtMTI1NDIxMjI5OSwtMTk0NDMwNz
+MzOSwtNzExNDQ5MzU2LDE5ODg3NDY3NjksMjExMTY3NzYzOSw1
+MzkxNTg3MTcsMTkyMzk2NzM1MCwtMzU3OTAzMzYxLDgyNzIxNz
+gzLDI4NzI2MzMwMCw2MjM0NzUyMzAsNDgwNDc4NjU5LC00ODM3
+MzU2XX0=
 -->
