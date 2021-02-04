@@ -1047,7 +1047,7 @@ _雙魚座：2月19日-3月20日_
   
 **火星在巨蟹座：**  
 感情派。常以保護者自居而照顧家庭，但是，脾氣來的快而較難以取悅，也想接受他人的幫助，不過，態度會稍微卑屈些。  
-**  
+** 
 火星在獅子座：**  
 性情活潑，喜歡運動。富創造能力，工作態度認真，然常會變得很傲慢，維能就擁有強烈的目標意識和誠心。  
   
@@ -1134,9 +1134,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3NTk3OTQ1LDQ4MDQ3ODY1OSwtNDgzNz
-M1NiwxMzQyMTUzNzcyLC01MTU0MzI5OCwxNTcwMjYwNTEzLC03
-MDAzODgxLC00NTgwNjA1NDMsOTg5NzM0ODExLC0yNDIwMzM4ND
-UsLTE1MDE2MjA5NzUsMTA0ODk2NzQwMywyMTQzMTI1Mjk1LDEz
-NDIwNDg5NjddfQ==
+eyJoaXN0b3J5IjpbLTEwMTc2MjAwMjMsNDU3NTk3OTQ1LDQ4MD
+Q3ODY1OSwtNDgzNzM1NiwxMzQyMTUzNzcyLC01MTU0MzI5OCwx
+NTcwMjYwNTEzLC03MDAzODgxLC00NTgwNjA1NDMsOTg5NzM0OD
+ExLC0yNDIwMzM4NDUsLTE1MDE2MjA5NzUsMTA0ODk2NzQwMywy
+MTQzMTI1Mjk1LDEzNDIwNDg5NjddfQ==
 -->
