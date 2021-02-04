@@ -658,21 +658,6 @@ _雙魚座：2月19日-3月20日_
 
 - 達成志業便可以創造理想，改變世界。第十一宮也就是所謂的交友宮，和一個人對團體的態度有關，所以舉凡朋友、社團與人群……等等都和本宮有關，代表一個人的社團活動及交友狀況。第十一宮代表著同好及朋友關係，是非地緣及血緣關係的，因為第十一宮具有疏離感的特質，對我們來說，代表和我們不熟的朋友或同學、社交場合當中所認識的朋友，雖然可能僅是泛泛之交，但卻可能成為我們的重要資源，跟集體的目標實現相關。  
   
-- 第十一宮象徵著一個人的理想，他跟現有環境的改變有關。第十一宮代表創新及獨立也象徵外太空，因此代表未知的未來。另外網路也跟第十一宮有關。同時，十一宮代表分工，每個人在大機器下如何發揮屬於他個人的能力。如果本宮有太多星，可能會有太重視朋友而忽視身旁的人的傾向，如果本宮有不好的星落入或是宮中的星受剋嚴重，則可能對團體不滿或有疏離感。  
-  
-★第十一宮
-
-- 宮位意義：朋友、社會觀、志同道合、社團、讀書會、願望、理想、社會意識、未來有關的、俱樂部、政黨、別人的小孩。
-
-- 相關星座：水瓶座  
-  
-★第十一宮與星座：
-
-- 第十一宮與個人交際有關。因此朋友、同好、社團要看此宮，另外，他也跟一個人的興趣、集體的願望有關。從第十一宮上的星座可看出一個人如何如何與他人分工合作。  
-  
-第十二宮--[秘密宮]  
-
-- 最後個人超越意識，進入內在的層次。第十二宮也就
  
 **上昇星座 **
   
@@ -1844,11 +1829,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODc2NzkyNiwtMTc3NTU3NTc4NCwtMT
-Q0OTUyNDk3OSwtMTUxNDI0NDAwOCwtMTg5OTQxMTk4MSwtMTI1
-NDIxMjI5OSwtMTk0NDMwNzMzOSwtNzExNDQ5MzU2LDE5ODg3ND
-Y3NjksMjExMTY3NzYzOSw1MzkxNTg3MTcsMTkyMzk2NzM1MCwt
-MzU3OTAzMzYxLDgyNzIxNzgzLDI4NzI2MzMwMCw2MjM0NzUyMz
-AsNDgwNDc4NjU5LC00ODM3MzU2LDEzNDIxNTM3NzIsLTUxNTQz
-Mjk4XX0=
+eyJoaXN0b3J5IjpbLTkxOTQyNzgzMSwyMTM4NzY3OTI2LC0xND
+Q5NTI0OTc5LC0xNTE0MjQ0MDA4LC0xODk5NDExOTgxLC0xMjU0
+MjEyMjk5LC0xOTQ0MzA3MzM5LC03MTE0NDkzNTYsMTk4ODc0Nj
+c2OSwyMTExNjc3NjM5LDUzOTE1ODcxNywxOTIzOTY3MzUwLC0z
+NTc5MDMzNjEsODI3MjE3ODMsMjg3MjYzMzAwLDYyMzQ3NTIzMC
+w0ODA0Nzg2NTksLTQ4MzczNTYsMTM0MjE1Mzc3MiwtNTE1NDMy
+OThdfQ==
 -->
