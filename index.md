@@ -1248,8 +1248,6 @@ _雙魚座：2月19日-3月20日_
 
 天王星位於獅子座的人可能是很固執的，你很難與他人溝通或妥協。如果天王星受困於此，你會堅持完全以自己的方式做事而拒絕與他人合作。
 
-  
-
 天王星在處女座
 
 對工作的態度有原則性，而且你夠實際，能獲得大多數人的接受。這是電腦的時代，技術上的進步將正對你的胃口。那些出生於天王星最近位置在處女座上的人（從一九六二年到一九六八年），還太過年輕，還無法證明他們自己，展露他們的潛能。天王星進入此宮時生態學、自然食物等議題重新受到註意。你的本性是用功的，有發明天賦與仁愛心。而且會是個好老師。你那種實事求是的態度與辨別的能力在是非常有幫助的，出生在這段期間的人是建造者。有不利的相位時，可能會牽涉到太多的神秘事物，或使你可能會有不尋常的健康問題。
@@ -1420,11 +1418,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjAyODIwMjMsMjExMTY3NzYzOSw1Mz
-kxNTg3MTcsMTkyMzk2NzM1MCwtMzU3OTAzMzYxLDgyNzIxNzgz
-LDI4NzI2MzMwMCw2MjM0NzUyMzAsNDgwNDc4NjU5LC00ODM3Mz
-U2LDEzNDIxNTM3NzIsLTUxNTQzMjk4LDE1NzAyNjA1MTMsLTcw
-MDM4ODEsLTQ1ODA2MDU0Myw5ODk3MzQ4MTEsLTI0MjAzMzg0NS
-wtMTUwMTYyMDk3NSwxMDQ4OTY3NDAzLDIxNDMxMjUyOTVdfQ==
+eyJoaXN0b3J5IjpbLTEwOTk0MDIwNTksLTE4MjAyODIwMjMsMj
+ExMTY3NzYzOSw1MzkxNTg3MTcsMTkyMzk2NzM1MCwtMzU3OTAz
+MzYxLDgyNzIxNzgzLDI4NzI2MzMwMCw2MjM0NzUyMzAsNDgwND
+c4NjU5LC00ODM3MzU2LDEzNDIxNTM3NzIsLTUxNTQzMjk4LDE1
+NzAyNjA1MTMsLTcwMDM4ODEsLTQ1ODA2MDU0Myw5ODk3MzQ4MT
+EsLTI0MjAzMzg0NSwtMTUwMTYyMDk3NSwxMDQ4OTY3NDAzXX0=
 
 -->
