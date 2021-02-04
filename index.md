@@ -840,12 +840,6 @@ _雙魚座：2月19日-3月20日_
 **月亮 (掌管：情感、與女性的關係、飲食口味)**  
 月亮代表個人對於生活情境中情感的反應形式，月亮的位置還代表個人在家庭中和孩童時所深植的某種態度。它顯示出早期經驗如何影響情感的態度，決定了個人處理家庭生活及與母親、女性的關係。它還顯示了個人對一般公眾的反應，代表對日常事務、家務的態度。月亮的位置亦呈飲食習慣及食物偏好的指標。
 
-**更多的星座愛情運勢
-
-
-↓↓↓**
-
-
 
 **★月亮：你的情緒**  
   
@@ -954,7 +948,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIxMTE4OTQsLTEyNjM4MTkxMzIsLTI0Mj
-AzMzg0NSwtMTUwMTYyMDk3NSwxMDQ4OTY3NDAzLDIxNDMxMjUy
-OTUsMTM0MjA0ODk2N119
+eyJoaXN0b3J5IjpbMTE2MjE5MDgxOCw3MjExMTg5NCwtMjQyMD
+MzODQ1LC0xNTAxNjIwOTc1LDEwNDg5Njc0MDMsMjE0MzEyNTI5
+NSwxMzQyMDQ4OTY3XX0=
 -->
