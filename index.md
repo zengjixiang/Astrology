@@ -1193,9 +1193,9 @@ _雙魚座：2月19日-3月20日_
 ●天王星是位於土星之外第一顆被發現的星體，天王星被發現於1781年，在當時正值美國獨立戰爭（1781年）、法國大革命（1789年）、以及科技上的興盛，造成了工業革命。因此，天王星代表了分離主義及科技的發展，重視個人獨立的空間。天王星性格強的人，行事風格特異獨行，思想新潮前衛，不顧他人異樣眼光，常會有驚人之舉，有人道主義的精神，往往會為群眾從事些慈善活動，不過卻很注重人我之間的分際，不喜歡特權及階級，喜歡創新及改革，有很強的邏輯概念，所以多半在科技研究方面有很大的成就。天王星科學的本性代表電方面的研究，也代表天文學及星象學。天王星和改革有關，可以看出一個人致力革新的方向以及變通的能力，也可看出一個人與眾不同的特色。此外，天王星和社團及群眾有關，代表一個人社交活動的狀況。  
   
 ★天王星與星座：  
-●天王星所屬的星座代表一個世代的改變以何種方式表現。這種改變如何進行，跟什麼相關。 
+●天王星星座具有世代象徵意義，代表一個七年的整體性改變以何種方式表現、這種改變如何進行、跟什麽相關。
 
-天王星星座具有世代象徵意義，代表一個七年的整體性改變以何種方式表現、這種改變如何進行、跟什麽相關。
+天王星落在十二個星座的影響
 
 天王星在牡羊座
 
@@ -1597,10 +1597,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5MTY5OTc5LC0xOTQ0MzA3MzM5LC03MT
-E0NDkzNTYsMTk4ODc0Njc2OSwyMTExNjc3NjM5LDUzOTE1ODcx
-NywxOTIzOTY3MzUwLC0zNTc5MDMzNjEsODI3MjE3ODMsMjg3Mj
-YzMzAwLDYyMzQ3NTIzMCw0ODA0Nzg2NTksLTQ4MzczNTYsMTM0
-MjE1Mzc3MiwtNTE1NDMyOTgsMTU3MDI2MDUxMywtNzAwMzg4MS
-wtNDU4MDYwNTQzLDk4OTczNDgxMSwtMjQyMDMzODQ1XX0=
+eyJoaXN0b3J5IjpbLTE1MDk0ODU0NjIsLTE5NDQzMDczMzksLT
+cxMTQ0OTM1NiwxOTg4NzQ2NzY5LDIxMTE2Nzc2MzksNTM5MTU4
+NzE3LDE5MjM5NjczNTAsLTM1NzkwMzM2MSw4MjcyMTc4MywyOD
+cyNjMzMDAsNjIzNDc1MjMwLDQ4MDQ3ODY1OSwtNDgzNzM1Niwx
+MzQyMTUzNzcyLC01MTU0MzI5OCwxNTcwMjYwNTEzLC03MDAzOD
+gxLC00NTgwNjA1NDMsOTg5NzM0ODExLC0yNDIwMzM4NDVdfQ==
+
 -->
