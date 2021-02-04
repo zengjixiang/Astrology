@@ -513,9 +513,7 @@ _雙魚座：2月19日-3月20日_
 第七宮=夫妻宮= 天秤座
 第八宮=疾厄宮=天蠍座
 第九宮=遷移宮=射手座
-第十宮=事業宮=魔羯座
-第十一宮=交友宮=水瓶座
-第十二宮=秘密宮=
+第十宮=事業宮=
   
 第一宮 --[命宮]  
 ●上昇星座是占星學中出生圖上“定宮”的主要起始點，因此地位也相對的格外重要。上昇星座是第一宮的起始，而第一宮的主要影響就是人格；在占星學上第一宮，是和一個人心理人格的形成有關，他可以說是一個人到世間所選擇的扮演角色，第一宮就是所謂的上昇星座，是代觀測者的東方地平線第一個昇起的星座，因此它和開始有關，代表了和個體生命有關的事物，他代表一個人的個性、長相及體型。第一宮象徵一個人待人處事的表現態度，是一種經過修飾的個性，也就是心理學中所說的「自我」，和「我」有關的事情都是看第一宮，也就是代表一個人初次與人接觸所展現的性格。  
@@ -791,6 +789,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjA1MDAyOSwtMTUwMTYyMDk3NSwxMD
-Q4OTY3NDAzLDIxNDMxMjUyOTUsMTM0MjA0ODk2N119
+eyJoaXN0b3J5IjpbLTI0MjAzMzg0NSwxOTA2MDUwMDI5LC0xNT
+AxNjIwOTc1LDEwNDg5Njc0MDMsMjE0MzEyNTI5NSwxMzQyMDQ4
+OTY3XX0=
 -->
