@@ -672,19 +672,7 @@ _雙魚座：2月19日-3月20日_
   
 第十二宮--[秘密宮]  
 
-- 最後個人超越意識，進入內在的層次。第十二宮也就是所謂的秘密宮，他代表大海，象徵著夢的世界，與內心及潛意識有關，代表一個人潛在的煩惱及最擔心的事情。第十二宮象徵著一個人退休及休息，當我們離開社會舞臺後，開始面對自我的內心深處，這時我們重視的是心理的層面，很容易投身於宗教中，希望從其中參透超現實的意識，因此第十二宮是一個人引發同情心以感受力之宮位和一個人無私的愛及犧牲有關，第十二宮可看出一個人是否有愛心。所代表的是慈善事業。  
-  
-- 從另一個角度來看，第十二宮所呈現的是一種逃避現實的心態，也代表一個人潛在的敵人及隱藏看不到的問題。如果有太多星在本宮，一個人可能過度的隱藏或逃避，還可能太容易同情別人而吃虧。  
-  
-★第十二宮
-
-- 宮位意義：限制、隱藏的敵人、坐禪、幕後工作、內在的自我、人生的歸結、不收錢的服務。
-
-- 相關星座：雙魚座  
-  
-★第十二宮與星座：
-
-- 第十二宮代表一個人精神渴望的層面。所以秘密、隱私、夢跟此宮有關。另外，還跟超現實的部份、逃避、及隱藏的敵人、個人的犧牲都由此宮瞭解。由第十二宮上的星座可以看出一個人如何自己獨處。  
+- 最後個人超越意識，進入內在的層次。第十二宮也就是所謂的秘密宮，他代表大海，象徵著夢的世界，與內心及潛意識有關，代表一個人潛在
  
 **上昇星座 **
   
@@ -1856,11 +1844,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDk1MjQ5NzksLTE1MTQyNDQwMDgsLT
-E4OTk0MTE5ODEsLTEyNTQyMTIyOTksLTE5NDQzMDczMzksLTcx
-MTQ0OTM1NiwxOTg4NzQ2NzY5LDIxMTE2Nzc2MzksNTM5MTU4Nz
-E3LDE5MjM5NjczNTAsLTM1NzkwMzM2MSw4MjcyMTc4MywyODcy
-NjMzMDAsNjIzNDc1MjMwLDQ4MDQ3ODY1OSwtNDgzNzM1NiwxMz
-QyMTUzNzcyLC01MTU0MzI5OCwxNTcwMjYwNTEzLC03MDAzODgx
-XX0=
+eyJoaXN0b3J5IjpbLTE3NzU1NzU3ODQsLTE0NDk1MjQ5NzksLT
+E1MTQyNDQwMDgsLTE4OTk0MTE5ODEsLTEyNTQyMTIyOTksLTE5
+NDQzMDczMzksLTcxMTQ0OTM1NiwxOTg4NzQ2NzY5LDIxMTE2Nz
+c2MzksNTM5MTU4NzE3LDE5MjM5NjczNTAsLTM1NzkwMzM2MSw4
+MjcyMTc4MywyODcyNjMzMDAsNjIzNDc1MjMwLDQ4MDQ3ODY1OS
+wtNDgzNzM1NiwxMzQyMTUzNzcyLC01MTU0MzI5OCwxNTcwMjYw
+NTEzXX0=
 -->
