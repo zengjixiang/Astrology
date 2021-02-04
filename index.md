@@ -918,8 +918,8 @@ _雙魚座：2月19日-3月20日_
   
 
 **水星 VS. 十二星座**
-  
-水星在白羊座：**  
+
+**水星在白羊座：**  
 由於說話態度過於肯定，以至於令人有種尖銳諷刺與狡猾的感覺。好議論。對技術方面發生興趣。  
   
 **水星在金牛座：**  
@@ -1015,8 +1015,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjM2MjkyNCwxMzQyMTUzNzcyLC01MT
-U0MzI5OCwxNTcwMjYwNTEzLC03MDAzODgxLC00NTgwNjA1NDMs
-OTg5NzM0ODExLC0yNDIwMzM4NDUsLTE1MDE2MjA5NzUsMTA0OD
-k2NzQwMywyMTQzMTI1Mjk1LDEzNDIwNDg5NjddfQ==
+eyJoaXN0b3J5IjpbLTQ4MzczNTYsLTI0NjM2MjkyNCwxMzQyMT
+UzNzcyLC01MTU0MzI5OCwxNTcwMjYwNTEzLC03MDAzODgxLC00
+NTgwNjA1NDMsOTg5NzM0ODExLC0yNDIwMzM4NDUsLTE1MDE2Mj
+A5NzUsMTA0ODk2NzQwMywyMTQzMTI1Mjk1LDEzNDIwNDg5Njdd
+fQ==
 -->
