@@ -778,7 +778,7 @@ _雙魚座：2月19日-3月20日_
 **太陽在摩羯座**  
 充滿智慧，思緒周密。有高度的耐力，在嚴苛的現實環境下仍然能夠耐心等待。為了使計畫周全，可以熬過漫長艱辛的準備時期，絕不鬆懈。思想深沉，熟知人間之事。或許行動不夠敏捷，但是一定會持之以恆。個性嚴謹踏實，容易孤獨。從不掩飾利己之心，但是大致上仍能獲得上位者的信賴，也頗具社會使命感，而且懂得驅吉避凶，為自己規畫出一個立身處世的藍圖。  
   
-**太陽在水瓶座**  
+**太陽在水瓶座**
 個性獨立而執著。經常有一些激進、革新式的見地，屬於新時代的人物，有豐富的同胞愛和民主意識，能夠打破社會階級和人種的差異，培育真正的友情。對於一些既成的觀念，為了忠於自的信念，會激動地試圖抵抗。這種類型的人，經常見於為了達成共同目的面結朋組黨，發起運動的人。  
   
 **太陽在雙魚座**  
@@ -951,7 +951,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDI2MDUxMywtNzAwMzg4MSwtNDU4MD
-YwNTQzLDk4OTczNDgxMSwtMjQyMDMzODQ1LC0xNTAxNjIwOTc1
-LDEwNDg5Njc0MDMsMjE0MzEyNTI5NSwxMzQyMDQ4OTY3XX0=
+eyJoaXN0b3J5IjpbLTc3ODc5MDMwMywxNTcwMjYwNTEzLC03MD
+AzODgxLC00NTgwNjA1NDMsOTg5NzM0ODExLC0yNDIwMzM4NDUs
+LTE1MDE2MjA5NzUsMTA0ODk2NzQwMywyMTQzMTI1Mjk1LDEzND
+IwNDg5NjddfQ==
 -->
