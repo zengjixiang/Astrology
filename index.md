@@ -1134,9 +1134,9 @@ _雙魚座：2月19日-3月20日_
 土星每二十九年完成一次運行，其在各星座的位置指出一個人要如何負擔起責任及發展自己的成熟度。由於土星是摩羯座的主宰行星，所以土星是決定一個人事業的重要因素。透過土星在星座的位置，可找出一個人適合何種工作，和他所願意追求那一種事業的重要線索。人們的土星星象微弱時，無法好好的發展自己的事業。土星的位置也暗示一個人被迫面對的各種責任以及他所必須學習的課題，土星主宰很嚴的事，例如：由努力的工作來面對人生中各部分所遭遇的困難，藉此，他找到了安全秩序。土星暗示我們可能會經歷到的困難及限制。我們知道羅馬不是一天造成的，因此需要時間及努力才能使理想付諸實現。在這些過程中所付出的專注及努力，使我們試煉出了識別力、意志力及耐力，這些都是發展精神力所需的要件  
   
 
-**更多的星座愛情運勢↓↓↓**
+更多的星座愛情運勢↓↓↓
 
-**[星座愛情專題系列 彙總~~](http://www.go4134.com/26143242312356038988.html)
+[星座愛情專題系列 彙總~~](http://www.go4134.com/26143242312356038988.htm
 
   
 **★土星：你的責任**  
@@ -1249,9 +1249,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2NzI5MSwtMjAyNTg4MTI1NSw0ODA0Nz
-g2NTksLTQ4MzczNTYsMTM0MjE1Mzc3MiwtNTE1NDMyOTgsMTU3
-MDI2MDUxMywtNzAwMzg4MSwtNDU4MDYwNTQzLDk4OTczNDgxMS
-wtMjQyMDMzODQ1LC0xNTAxNjIwOTc1LDEwNDg5Njc0MDMsMjE0
-MzEyNTI5NSwxMzQyMDQ4OTY3XX0=
+eyJoaXN0b3J5IjpbNjIzNDc1MjMwLDY4NjcyOTEsNDgwNDc4Nj
+U5LC00ODM3MzU2LDEzNDIxNTM3NzIsLTUxNTQzMjk4LDE1NzAy
+NjA1MTMsLTcwMDM4ODEsLTQ1ODA2MDU0Myw5ODk3MzQ4MTEsLT
+I0MjAzMzg0NSwtMTUwMTYyMDk3NSwxMDQ4OTY3NDAzLDIxNDMx
+MjUyOTUsMTM0MjA0ODk2N119
 -->
