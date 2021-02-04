@@ -1372,6 +1372,7 @@ _雙魚座：2月19日-3月20日_
 
 ★第一宮象徵：
 ●第一宮，顯出你的人格型態、外貌氣質、自我認同、外在形象及個人的獨特性及表現自己的方法。它還表示他人怎看待你，以及你希望他人怎看待你。它還表示出你的體形，健康，及早年的歲月。它顯示了你對生命及世界的看法。它亦顯現出你的容貌，言行舉止及事業的開端。同時，它也影響到你給別人的印象。
+
 ★第一宮與星座：
 ●上昇星座所顯示是你出生時所選取的「面具」。在傳統的西洋占星學中，上昇星座被認為是用來表示「誕生」及「肉體」。這是你在這個世上所戴的第一個「面具」，表示肉體上的特徵或印象等。
 
@@ -1439,6 +1440,7 @@ _雙魚座：2月19日-3月20日_
 ★第四宮象徵：
 
 ●第四宮，代表你的家庭，雙親及你的根源，亦即是你的遺傳，遺產，心理根源及潛意識。它還表示不動產，房屋。它也代表結束，如晚年的生活，墳墓和死後的名聲。它亦顯示了你童年時父母對你的影響力。也表示你的自我及主觀的看法。
+
 ★第四宮與星座：
 
 ●第四宮跟一個人的自我領域有關。所以，與家、房子、根等事件。都可看此宮。他也跟受保護有關，因此，代表男性的媽媽與女性的爸爸。另外，晚年的運勢與人生的結果也是看此宮。從第四宮上的星座，可以看出一個人的家庭是什麼樣子。
@@ -1495,7 +1497,7 @@ _雙魚座：2月19日-3月20日_
 
 ★第七宮小檔案
 ●宮位意義：婚姻、合夥人、股東、人與人間的關係、密友、公開的敵人、合約、吵架、口角、法律、訴訟。
-●相關星座：天平座
+●相關星座：天秤座
 ●宮位主星：金星
 ●後天三分：主動宮位
 ●後天四分：關係之宮
@@ -1585,7 +1587,7 @@ _雙魚座：2月19日-3月20日_
 
 ★第十一宮小檔案
 ●宮位意義：朋友、社會觀、志同道合、社團、讀書會、願望、理想、社會意識、未來有關的、俱樂部、政黨、別人的小孩
-●相關星座：寶瓶座
+●相關星座：水瓶座
 ●宮位主星：天王星
 ●後天三分：固定宮位
 ●後天四分：關係之宮
@@ -1673,11 +1675,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDIyNTM5Nyw1ODczOTYwMjksLTE0ND
-k1MjQ5NzksLTE1MTQyNDQwMDgsLTE4OTk0MTE5ODEsLTEyNTQy
-MTIyOTksLTE5NDQzMDczMzksLTcxMTQ0OTM1NiwxOTg4NzQ2Nz
-Y5LDIxMTE2Nzc2MzksNTM5MTU4NzE3LDE5MjM5NjczNTAsLTM1
-NzkwMzM2MSw4MjcyMTc4MywyODcyNjMzMDAsNjIzNDc1MjMwLD
-Q4MDQ3ODY1OSwtNDgzNzM1NiwxMzQyMTUzNzcyLC01MTU0MzI5
-OF19
+eyJoaXN0b3J5IjpbLTE5Nzc1ODIzNjYsNTg3Mzk2MDI5LC0xND
+Q5NTI0OTc5LC0xNTE0MjQ0MDA4LC0xODk5NDExOTgxLC0xMjU0
+MjEyMjk5LC0xOTQ0MzA3MzM5LC03MTE0NDkzNTYsMTk4ODc0Nj
+c2OSwyMTExNjc3NjM5LDUzOTE1ODcxNywxOTIzOTY3MzUwLC0z
+NTc5MDMzNjEsODI3MjE3ODMsMjg3MjYzMzAwLDYyMzQ3NTIzMC
+w0ODA0Nzg2NTksLTQ4MzczNTYsMTM0MjE1Mzc3MiwtNTE1NDMy
+OThdfQ==
 -->
