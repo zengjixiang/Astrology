@@ -1195,8 +1195,7 @@ _雙魚座：2月19日-3月20日_
 ★天王星與星座：  
 ●天王星所屬的星座代表一個世代的改變以何種方式表現。這種改變如何進行，跟什麼相關。  
 
-
-
+----
 
 ★海王星：你的渴望  
 ●海王星於1846年時被發現，繞行黃道一周約需時一百六十四年，在每個星座約停留十四年左右，為天王星的兩倍，在太陽系中，海王星是一顆模糊難辨的一顆行星。在占星學中，海王星代表了夢幻及想像。象徵不切實際及曖昧不明的事物，由於其虛幻的特質，常造成一種混亂的局面。本命盤中的海王星，代表一個人沈溺的地方，象徵無悔的僻好。海王星在星盤上的宮位，顯示出個人追尋理想的領域，也是個人傾向於自欺或欺人的領域。  
@@ -1239,11 +1238,7 @@ _雙魚座：2月19日-3月20日_
 - [蘇珊米勒占星簡史和基礎知識（4、宮位篇）](//)
 
 
-- 上昇星座VS. 十二星座
-
-- 太陽個性與十二星座VS星座的黑暗面
-
-- 月亮你的情緒與十二星座
+- 
 
 
 <!-- (註解)
@@ -1286,7 +1281,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDc3Mzk5MSw1MzkxNTg3MTcsMTkyMz
+eyJoaXN0b3J5IjpbLTI2OTQxNDc0Myw1MzkxNTg3MTcsMTkyMz
 k2NzM1MCwtMzU3OTAzMzYxLDgyNzIxNzgzLDI4NzI2MzMwMCw2
 MjM0NzUyMzAsNDgwNDc4NjU5LC00ODM3MzU2LDEzNDIxNTM3Nz
 IsLTUxNTQzMjk4LDE1NzAyNjA1MTMsLTcwMDM4ODEsLTQ1ODA2
