@@ -847,7 +847,6 @@ _雙魚座：2月19日-3月20日_
 
 
 
-
 **★月亮：你的情緒**  
   
 ●月亮是在太陽以外在出生圖上最中要的星體，佔性格上百分之三十以上。月亮是地球的衛星，離地球最近，對地球的引力最大，運行的速度也最快。所以月亮對我們的影響也很大。在占星學中，月亮代表情緒反應及生活習慣也代表一個人對習慣的反應及本能行為模式的表現。本命盤月亮的位置代表一個人的內心情感和關心的事物。月亮運行地很快，事實上它只須二十八天即可經過整個黃道面的十二個星座，所以為什麽兩個出生相差幾分鐘的人，會有基本個性上的不同，因為月亮在這短短時間內改變了星座位置。  
@@ -955,7 +954,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjM4MTkxMzIsMjAwNDI0MjQ4NCwtMj
-QyMDMzODQ1LC0xNTAxNjIwOTc1LDEwNDg5Njc0MDMsMjE0MzEy
-NTI5NSwxMzQyMDQ4OTY3XX0=
+eyJoaXN0b3J5IjpbNzIxMTE4OTQsLTEyNjM4MTkxMzIsLTI0Mj
+AzMzg0NSwtMTUwMTYyMDk3NSwxMDQ4OTY3NDAzLDIxNDMxMjUy
+OTUsMTM0MjA0ODk2N119
 -->
