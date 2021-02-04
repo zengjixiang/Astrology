@@ -1183,7 +1183,7 @@ _雙魚座：2月19日-3月20日_
 
 ----
 
-**天王星掌管：選擇朋友、加入團體、機會**  
+**天王星 (掌管：選擇朋友、加入團體、機會)**  
 天王星顯示一個人對自己及人格的追求方式。它顯示出了人們如何與世界建立直覺關聯，藉此他們認識生命，進而解決問題。天王星的星座位置顯示出一個人的希望及目標背後所隱藏的動機。它還指出了一個人可能尋找哪一種類型的朋友，以及他屬於那一種思想和風格的團體。因為天王星每隔七年運行黃道十二宮一週，所以只要在某特定的七年中出生，他們的天王星就是在自己的星座中，這七年天王星在各宮的位置不同。因此，天王星在星座中的位置很重要地指出了世代的差異－－也就是同時期一群人的共同命運，它也指出一個人在過去宿命的限制中，所能得到的機會及自由，使他可以更富創造性地表達自己。  
 
 **★天王星：你的改變**  
@@ -1259,10 +1259,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NzkwMzM2MSw4MjcyMTc4MywyODcyNj
-MzMDAsNjIzNDc1MjMwLDQ4MDQ3ODY1OSwtNDgzNzM1NiwxMzQy
-MTUzNzcyLC01MTU0MzI5OCwxNTcwMjYwNTEzLC03MDAzODgxLC
-00NTgwNjA1NDMsOTg5NzM0ODExLC0yNDIwMzM4NDUsLTE1MDE2
-MjA5NzUsMTA0ODk2NzQwMywyMTQzMTI1Mjk1LDEzNDIwNDg5Nj
-ddfQ==
+eyJoaXN0b3J5IjpbMTkyMzk2NzM1MCwtMzU3OTAzMzYxLDgyNz
+IxNzgzLDI4NzI2MzMwMCw2MjM0NzUyMzAsNDgwNDc4NjU5LC00
+ODM3MzU2LDEzNDIxNTM3NzIsLTUxNTQzMjk4LDE1NzAyNjA1MT
+MsLTcwMDM4ODEsLTQ1ODA2MDU0Myw5ODk3MzQ4MTEsLTI0MjAz
+Mzg0NSwtMTUwMTYyMDk3NSwxMDQ4OTY3NDAzLDIxNDMxMjUyOT
+UsMTM0MjA0ODk2N119
 -->
