@@ -915,7 +915,9 @@ _雙魚座：2月19日-3月20日_
   
 **★水星與星座：**
 
-●水星在十二星座的位置，表示出一個人以什麽樣的方式表達他們的思考能力。他們如何與外界溝通，對什麽樣的事物能引起他們的興趣。
+●水星在十二星座的位置，表示出一個人以什麽樣的方式表達他們的思考能力。他們如何與外界溝通，對什麽樣的事物能引起他們的興趣
+
+**土水星 VS. 十二星座**
 
 **水星在白羊座：**  
 由於說話態度過於肯定，以至於令人有種尖銳諷刺與狡猾的感覺。好議論。對技術方面發生興趣。  
@@ -1067,7 +1069,7 @@ _雙魚座：2月19日-3月20日_
 
 ----
 
-**木星‧掌管：人生目標、人生哲學**  
+**木星 (掌管：人生目標、人生哲學)**  
 從木星在各星座中的位置，我們可以知道一個人的道德、宗教、哲學的標準及信念為何？同時我們也可以知各種不同木星的人是以何種方式來表達他們對哲學及高等教育的興趣？木星在各星座的位置更可以顯現出一個人在何處會表現出寬大的氣度。木星在各星座間的位置也可以指出一個人會以何種方式與他人分享他既得的東西，會如何寬大的造福社會大眾，並因此獲他人的的回饋及幫助。採取社會合作的原則，比單獨行事更可使一個人獲致更高的事業成就。
 
 ★木星：你的幸運
@@ -1241,9 +1243,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODI4NzQ1Miw2MjM0NzUyMzAsNDgwND
-c4NjU5LC00ODM3MzU2LDEzNDIxNTM3NzIsLTUxNTQzMjk4LDE1
-NzAyNjA1MTMsLTcwMDM4ODEsLTQ1ODA2MDU0Myw5ODk3MzQ4MT
-EsLTI0MjAzMzg0NSwtMTUwMTYyMDk3NSwxMDQ4OTY3NDAzLDIx
-NDMxMjUyOTUsMTM0MjA0ODk2N119
+eyJoaXN0b3J5IjpbNDc5NzI2Nzc4LDYyMzQ3NTIzMCw0ODA0Nz
+g2NTksLTQ4MzczNTYsMTM0MjE1Mzc3MiwtNTE1NDMyOTgsMTU3
+MDI2MDUxMywtNzAwMzg4MSwtNDU4MDYwNTQzLDk4OTczNDgxMS
+wtMjQyMDMzODQ1LC0xNTAxNjIwOTc1LDEwNDg5Njc0MDMsMjE0
+MzEyNTI5NSwxMzQyMDQ4OTY3XX0=
 -->
