@@ -477,6 +477,8 @@ _雙魚座：2月19日-3月20日_
   
 第十二宮受到精神心靈與自我犧牲的海王星，以及富於同情心的雙魚座守護。
 
+
+
 ##### <參考資料>
 
 - [蘇珊米勒-占星簡史和基礎知識（1、行星篇）](//)
@@ -484,6 +486,8 @@ _雙魚座：2月19日-3月20日_
 - [蘇珊米勒-占星簡史和基礎知識（2、元素篇）](//)
 
 - [蘇珊米勒-占星簡史和基礎知識（3、特質篇）](//)
+
+- [蘇珊米勒-占星簡史和基礎知識（4、宮位篇）](//)
 
 (以下內容暫時保留，日後編輯完成之後再移除)
 
@@ -520,8 +524,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zengjixiang/astrology/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzk3NTIwNTZdfQ==
+eyJoaXN0b3J5IjpbMTE5MjQ0NzU2Nl19
 -->
