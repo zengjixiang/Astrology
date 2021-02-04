@@ -1251,7 +1251,7 @@ _雙魚座：2月19日-3月20日_
 
 ----
 
-★冥王星：你的潛能  
+### ★冥王星：你的潛能  
 ●冥王星發現於1930年，是所有星體中移動最緩慢的一個，大約需要二百四十八年才能在黃道上繞行一周。在太陽系當中，冥王星是距離太陽最遠的行星，是一顆小及結實的星體。由於其軌道較異常，停留在每個星座的時間從十二年到三十年不等。在占星學當中，冥王星代表黑暗及神秘，代表毀滅與再造的力量。也代表一個人絕對在意的地方及狂熱的所在。冥王星與死生之事很有關係，也代表性與暴力及還有如命理玄學等玄秘的事物。冥王星亦代表一個人的洞悉環境的能力，代表一個人的覺察看力。本命盤中的冥王星代表一個人絕對重視及再意的地方，也代表一個人最狂熱的事情。
   
 ●冥王星是天蠍座的守護星。影響的事是使一般人覺得絕望的事卻東山再起。另創新局，同時它也跟做大生意有關，或者對事物有抽絲剝繭的能力。負面方面有殘忍，陰險，虐待性的影響力。在神話故事中，它是冥王，代表神秘、死亡、黑暗及再生。冥王星象徵人類將受到壓抑的潛意識予以實體化的力量，一般認為那是與太陽相反的力量。他象徵一個人的黑暗面、同時也是未知潛能的根源。  
@@ -1678,11 +1678,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTE5MzcwOCwtMTQxNjE4MjE0MiwxMz
-k0OTAxOTUwLDU4NzM5NjAyOSwtMTQ0OTUyNDk3OSwtMTUxNDI0
-NDAwOCwtMTg5OTQxMTk4MSwtMTI1NDIxMjI5OSwtMTk0NDMwNz
-MzOSwtNzExNDQ5MzU2LDE5ODg3NDY3NjksMjExMTY3NzYzOSw1
-MzkxNTg3MTcsMTkyMzk2NzM1MCwtMzU3OTAzMzYxLDgyNzIxNz
-gzLDI4NzI2MzMwMCw2MjM0NzUyMzAsNDgwNDc4NjU5LC00ODM3
-MzU2XX0=
+eyJoaXN0b3J5IjpbLTEyMzg3MjYzNDUsLTE0MTYxODIxNDIsMT
+M5NDkwMTk1MCw1ODczOTYwMjksLTE0NDk1MjQ5NzksLTE1MTQy
+NDQwMDgsLTE4OTk0MTE5ODEsLTEyNTQyMTIyOTksLTE5NDQzMD
+czMzksLTcxMTQ0OTM1NiwxOTg4NzQ2NzY5LDIxMTE2Nzc2Mzks
+NTM5MTU4NzE3LDE5MjM5NjczNTAsLTM1NzkwMzM2MSw4MjcyMT
+c4MywyODcyNjMzMDAsNjIzNDc1MjMwLDQ4MDQ3ODY1OSwtNDgz
+NzM1Nl19
 -->
