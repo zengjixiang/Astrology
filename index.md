@@ -967,12 +967,10 @@ _雙魚座：2月19日-3月20日_
 ●金星更時常的代表美與安逸的賜予。人生鐘有關快樂與奢華享受情形？必須知道金星在個人星點陣圖的位置。在個人星點陣圖中的金星，意味著社交是否受人歡迎，異性間的寵惡，惰性與追求快樂，而金星有些意味著人生表面的歡樂態度，它也暗示著幸運。金星是金牛座和天秤座的守護星，它代表著和諧，美感，愛情等。金星影響一個人的社交生活，是否具有吸引力，適應力強弱等。同時有時也代表金錢，物質慾望。因此，金星強的人會使人有美貌和魅力，但負面可能使人懶惰，猶豫不決，意志薄弱等。  
   
 ●金星代表了平衡和諧，金星性格強的人，比較重視人與人之間的關係的和諧，比較會替他人設想，不喜歡與人爭執，但有時會為了求平衡站在弱勢者的這一邊。金星也代表一個人的審美觀及個人價值觀，所以和情感喜好及金錢觀念有關。金星代表了藝術鑑賞的能力及喜歡的音樂，也可看出一個人享受及奢華的程度。  
-  
 
+**金星 VS. 十二星座**  
   
-**金星 VS. 十二星座  
-  
-金星在白羊座：**  
+**金星在白羊座：**  
 擅諷刺、熱情。操利己主義。態度積極而直覺性高，不過，在此位置的金星無法由這些長處得到利益。  
 **  
 金星在金牛座：**  
@@ -1068,7 +1066,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwNDc4NjU5LDE4ODg2NTQ5OTcsLTQ4Mz
+eyJoaXN0b3J5IjpbLTMxNjc4ODEyMSw0ODA0Nzg2NTksLTQ4Mz
 czNTYsMTM0MjE1Mzc3MiwtNTE1NDMyOTgsMTU3MDI2MDUxMywt
 NzAwMzg4MSwtNDU4MDYwNTQzLDk4OTczNDgxMSwtMjQyMDMzOD
 Q1LC0xNTAxNjIwOTc1LDEwNDg5Njc0MDMsMjE0MzEyNTI5NSwx
