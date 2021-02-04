@@ -1024,7 +1024,7 @@ _雙魚座：2月19日-3月20日_
 ●火星代表武力與戰鬥，因此代表了積極及激烈的本性。火星性格強的人，作事很積極，行事勇敢果決，是個行動派的人，性子很急，凡事先作再說，但卻容易讓人有莽撞的感覺。火星可以看出一個人努力的方向及積極從事的地方，和一個人的求勝心有關，可以看出一個人性急的程度。此外，火星也代表了個人的欲望，可以看出一個人欲望的發洩。  
   
 **★火星與星座：  
-​** 
+​
 ●火星所屬的星座代表一個人以何種方式完成他們的慾望。他們的脾氣如何，以什麽樣的方式與他人競爭。如何展現他們的精力。  
 
 **火星 VS. 十二星座**
@@ -1127,9 +1127,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzg2MTU2NDAsLTEwMTc2MjAwMjMsND
-gwNDc4NjU5LC00ODM3MzU2LDEzNDIxNTM3NzIsLTUxNTQzMjk4
-LDE1NzAyNjA1MTMsLTcwMDM4ODEsLTQ1ODA2MDU0Myw5ODk3Mz
-Q4MTEsLTI0MjAzMzg0NSwtMTUwMTYyMDk3NSwxMDQ4OTY3NDAz
-LDIxNDMxMjUyOTUsMTM0MjA0ODk2N119
+eyJoaXN0b3J5IjpbMTMwNjQ2NDg3MiwtMTEzODYxNTY0MCw0OD
+A0Nzg2NTksLTQ4MzczNTYsMTM0MjE1Mzc3MiwtNTE1NDMyOTgs
+MTU3MDI2MDUxMywtNzAwMzg4MSwtNDU4MDYwNTQzLDk4OTczND
+gxMSwtMjQyMDMzODQ1LC0xNTAxNjIwOTc1LDEwNDg5Njc0MDMs
+MjE0MzEyNTI5NSwxMzQyMDQ4OTY3XX0=
 -->
