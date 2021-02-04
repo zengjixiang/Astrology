@@ -672,7 +672,7 @@ _雙魚座：2月19日-3月20日_
   
 第十二宮--[秘密宮]  
 
-- 最後個人超越意識，進入內在的層次。第十二宮也就是所謂的秘密宮，他代表大海，象徵著夢的世界，與內心及潛意識有關，代表一個人潛在
+- 最後個人超越意識，進入內在的層次。第十二宮也就
  
 **上昇星座 **
   
@@ -1844,11 +1844,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzU1NzU3ODQsLTE0NDk1MjQ5NzksLT
-E1MTQyNDQwMDgsLTE4OTk0MTE5ODEsLTEyNTQyMTIyOTksLTE5
-NDQzMDczMzksLTcxMTQ0OTM1NiwxOTg4NzQ2NzY5LDIxMTE2Nz
-c2MzksNTM5MTU4NzE3LDE5MjM5NjczNTAsLTM1NzkwMzM2MSw4
-MjcyMTc4MywyODcyNjMzMDAsNjIzNDc1MjMwLDQ4MDQ3ODY1OS
-wtNDgzNzM1NiwxMzQyMTUzNzcyLC01MTU0MzI5OCwxNTcwMjYw
-NTEzXX0=
+eyJoaXN0b3J5IjpbMjEzODc2NzkyNiwtMTc3NTU3NTc4NCwtMT
+Q0OTUyNDk3OSwtMTUxNDI0NDAwOCwtMTg5OTQxMTk4MSwtMTI1
+NDIxMjI5OSwtMTk0NDMwNzMzOSwtNzExNDQ5MzU2LDE5ODg3ND
+Y3NjksMjExMTY3NzYzOSw1MzkxNTg3MTcsMTkyMzk2NzM1MCwt
+MzU3OTAzMzYxLDgyNzIxNzgzLDI4NzI2MzMwMCw2MjM0NzUyMz
+AsNDgwNDc4NjU5LC00ODM3MzU2LDEzNDIxNTM3NzIsLTUxNTQz
+Mjk4XX0=
 -->
