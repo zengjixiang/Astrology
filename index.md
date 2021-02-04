@@ -359,9 +359,9 @@ _雙魚座：2月19日-3月20日_
   
 **第一宮**  
   
-究竟是什麼令你獨一無二，這大部分取決於第一宮——你的樣貌、性格、驅動力、目標和優先級。這一宮支配著你的自我、天性，你向世界展現自己的方式，你的能量、活力以及內心深處的渴望。  
+>究竟是什麼令你獨一無二，這大部分取決於第一宮——你的樣貌、性格、驅動力、目標和優先級。這一宮支配著你的自我、天性，你向世界展現自己的方式，你的能量、活力以及內心深處的渴望。  
   
-當把第一宮與第六宮（稍後會提到）結合起來看的時候，也能反映出你的健康和活力情況。  
+> 當把第一宮與第六宮（稍後會提到）結合起來看的時候，也能反映出你的健康和活力情況。  
   
 > 當我們觀察任何重要的新趨勢和周期時，我們會看第一宮。這一宮也是占星師最難解讀的宮位，因為渴望這種東西實在是太個體化了！這一宮還支配著你意志力、個性及決心。  
   
@@ -535,6 +535,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MzIzMzQwMiwtMTAzNDY2ODY3NCwtMT
+eyJoaXN0b3J5IjpbLTE3ODA5MjAwOTYsLTI4MzIzMzQwMiwtMT
 kxODA0OTU0Niw0Mjc4OTQ4MTAsMTY3MjAwODA2MV19
 -->
