@@ -1441,11 +1441,10 @@ _雙魚座：2月19日-3月20日_
 ●冥王星於1930年被發現，此時發現原子的分裂，法西斯主義及史達林主義、強權的興起、國際恐怖主義及有組織的犯罪等。因此，冥王星代表著毀滅及黑暗，代表著黑暗世界神秘的力量，以及毀滅與再造的特性。冥王星性格強的人，個性較為極端，往往有著「寧為玉碎，不為瓦全的心態」，對事情要求絕對地掌控，有很強的洞悉力及觀察力，住往能一針見血看出事情的關鍵，了解藏於黑暗世界的心靈力量，有向困難挑戰的魄力並且善於謀略，雖然遭遇失敗挫折卻能在絕處逢生。冥王星和死亡有關，因此代表人、事、物的死亡及毀滅，也代表了隱藏及消失，是一個人最在意而又最不願觸及的事物。冥王星代表了性及暴力犯罪，因此可以看出一個人對性的態度及一個人的犯罪或暴力傾向，也代表了對金錢權勢的狂熱。冥王星代表了再生能力，可以看出一個人疾病痊癒復原的快慢。冥王星和調查有關，因此代表一個人的洞察力，在職業中代表了軍警。此外，冥王星代表玄秘的事物，因此它和命理玄學有關。  
   
 ★冥王星與星座：  
-●冥王星所屬的星座代表一個世代的劇烈轉變以何種形式表現，這樣的蛻變可能帶來新生，也可能造成毀滅。
+●冥王星所屬的星座代表一個20年世代的劇烈轉變以何種形式表現，這樣的蛻變可能帶來新生，也可能造成毀滅。
 
-----
 
-冥王星星座代表一個20年世代的劇烈轉變以何種形式表現，這種蛻變可能帶來新生，也可能造成毀滅。
+
 
 冥王星在牡羊座
 
@@ -1597,10 +1596,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5Mzc2NzYxLC03MTE0NDkzNTYsMTk4OD
-c0Njc2OSwyMTExNjc3NjM5LDUzOTE1ODcxNywxOTIzOTY3MzUw
-LC0zNTc5MDMzNjEsODI3MjE3ODMsMjg3MjYzMzAwLDYyMzQ3NT
-IzMCw0ODA0Nzg2NTksLTQ4MzczNTYsMTM0MjE1Mzc3MiwtNTE1
-NDMyOTgsMTU3MDI2MDUxMywtNzAwMzg4MSwtNDU4MDYwNTQzLD
-k4OTczNDgxMSwtMjQyMDMzODQ1LC0xNTAxNjIwOTc1XX0=
+eyJoaXN0b3J5IjpbLTExODc4MDk4MTMsLTcxMTQ0OTM1NiwxOT
+g4NzQ2NzY5LDIxMTE2Nzc2MzksNTM5MTU4NzE3LDE5MjM5Njcz
+NTAsLTM1NzkwMzM2MSw4MjcyMTc4MywyODcyNjMzMDAsNjIzND
+c1MjMwLDQ4MDQ3ODY1OSwtNDgzNzM1NiwxMzQyMTUzNzcyLC01
+MTU0MzI5OCwxNTcwMjYwNTEzLC03MDAzODgxLC00NTgwNjA1ND
+MsOTg5NzM0ODExLC0yNDIwMzM4NDUsLTE1MDE2MjA5NzVdfQ==
+
 -->
