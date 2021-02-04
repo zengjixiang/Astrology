@@ -1443,8 +1443,9 @@ _雙魚座：2月19日-3月20日_
 ★冥王星與星座：  
 ●冥王星所屬的星座代表一個20年世代的劇烈轉變以何種形式表現，這樣的蛻變可能帶來新生，也可能造成毀滅。
 
+----
 
-
+冥王星落在十二星座的影響
 
 冥王星在牡羊座
 
@@ -1596,11 +1597,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODc4MDk4MTMsLTcxMTQ0OTM1NiwxOT
-g4NzQ2NzY5LDIxMTE2Nzc2MzksNTM5MTU4NzE3LDE5MjM5Njcz
-NTAsLTM1NzkwMzM2MSw4MjcyMTc4MywyODcyNjMzMDAsNjIzND
-c1MjMwLDQ4MDQ3ODY1OSwtNDgzNzM1NiwxMzQyMTUzNzcyLC01
-MTU0MzI5OCwxNTcwMjYwNTEzLC03MDAzODgxLC00NTgwNjA1ND
-MsOTg5NzM0ODExLC0yNDIwMzM4NDUsLTE1MDE2MjA5NzVdfQ==
-
+eyJoaXN0b3J5IjpbMTg2OTE2NDA2MiwtNzExNDQ5MzU2LDE5OD
+g3NDY3NjksMjExMTY3NzYzOSw1MzkxNTg3MTcsMTkyMzk2NzM1
+MCwtMzU3OTAzMzYxLDgyNzIxNzgzLDI4NzI2MzMwMCw2MjM0Nz
+UyMzAsNDgwNDc4NjU5LC00ODM3MzU2LDEzNDIxNTM3NzIsLTUx
+NTQzMjk4LDE1NzAyNjA1MTMsLTcwMDM4ODEsLTQ1ODA2MDU0My
+w5ODk3MzQ4MTEsLTI0MjAzMzg0NSwtMTUwMTYyMDk3NV19
 -->
