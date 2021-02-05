@@ -395,7 +395,7 @@ _雙魚座：2月19日-3月20日_
   
 **★太陽與星座：**  
 > 太陽所屬的星座代表一個人表現自我的個性與意志時是以什麽樣的形式來呈現，一個人如何運用他的基本潛能。可以看出他是一個什麽樣個性的人。他們如何與重要的男性相處，及受到他們什麽樣的影響。  
-  
+
 
 **太陽與十二星座**  
   
@@ -1457,11 +1457,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0MzA1LC0xNjUzNDE3NzI3LDEwMDg4Nz
-AwOTcsMTk2OTA3NDkwNSwxODE0NTkzMDU3LDE4MDQzMzk3NDgs
-OTk0ODY3MTYyLDM2NjkzNTQ1MiwzMTY3MTE5NTgsLTEyNDczNj
-c3NDAsNjEyNzE2NDI5LC0xMzkwNDYzMTUsLTcwNzk4Nzg2Nywt
-MTM2MDkzODc3OSwtMTIzODcyNjM0NSwtMTQxNjE4MjE0MiwxMz
-k0OTAxOTUwLDU4NzM5NjAyOSwtMTQ0OTUyNDk3OSwtMTUxNDI0
-NDAwOF19
+eyJoaXN0b3J5IjpbLTExMzA4MTkzNTksNzM0MzA1LC0xNjUzND
+E3NzI3LDEwMDg4NzAwOTcsMTk2OTA3NDkwNSwxODE0NTkzMDU3
+LDE4MDQzMzk3NDgsOTk0ODY3MTYyLDM2NjkzNTQ1MiwzMTY3MT
+E5NTgsLTEyNDczNjc3NDAsNjEyNzE2NDI5LC0xMzkwNDYzMTUs
+LTcwNzk4Nzg2NywtMTM2MDkzODc3OSwtMTIzODcyNjM0NSwtMT
+QxNjE4MjE0MiwxMzk0OTAxOTUwLDU4NzM5NjAyOSwtMTQ0OTUy
+NDk3OV19
 -->
