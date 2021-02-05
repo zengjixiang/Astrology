@@ -1383,6 +1383,7 @@ _雙魚座：2月19日-3月20日_
 >- 宮位主星：天王星
 >- 後天三分：固定宮位
 >- 後天四分：關係之宮
+>- 含義：泛泛之交、社團活動、擁護支持者、精神和文化層次、對環保公益和人權的態度。
 
 ★第十一宮象徵：
 > 第十一宮，代表交際，不同種類的人際關係；也代表你的理想，渴望得到的事物和工作上的酬勞。此宮亦代表了繼父母，養子及在你控制範圍外的環境。從此宮可看出你的交際手法和處事方式。
@@ -1402,7 +1403,7 @@ _雙魚座：2月19日-3月20日_
 >- 宮位主星：海王星
 >- 後天三分：變動宮位
 >- 後天四分：結束之宮
->- 關鍵字：慈善、修行、逃避、隱居、詐欺、隱密（敵人、交易、戀情、謀殺、自殺）、潛意識
+>- 含義：慈善、修行、逃避、隱居、詐欺、隱密（敵人、交易、戀情、謀殺、自殺）、潛意識
 
 ★第十二宮象徵：
 > 第十二宮，代表你的潛能或弱點；也代表悲傷，痛苦，限制，祕密，隱居，挫折，幕後工作；也代表禁制，放逐，隱藏敵人，危機和自我的毀滅；也表示出背景，主觀信念，內在意識形態，下意識，心靈上的收獲；亦同時代表同情心，慈善服務，公眾福利。在這領域中，我們會試圖掩飾痛苦或困難的事情。
@@ -1454,7 +1455,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMDc2NjkwOSwxODY0MzAzMzEsLTg2Nj
+eyJoaXN0b3J5IjpbMTc4Njg4NjkyNywxODY0MzAzMzEsLTg2Nj
 QxNjc4MSwtMTY1MzQxNzcyNywxMDA4ODcwMDk3LDE5NjkwNzQ5
 MDUsMTgxNDU5MzA1NywxODA0MzM5NzQ4LDk5NDg2NzE2MiwzNj
 Y5MzU0NTIsMzE2NzExOTU4LC0xMjQ3MzY3NzQwLDYxMjcxNjQy
