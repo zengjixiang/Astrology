@@ -1528,8 +1528,8 @@ _雙魚座：2月19日-3月20日_
 ★第八宮小檔案：
 
 >- 宮位意義：別人的錢（不是自己賺的）、別人要不要買你的商品、銀行、結婚對方帶過來的錢、性、死亡、神秘、保險、稅捐。
->相關星座：天蠍座
-●宮位主星：冥王星
+>- 相關星座：天蠍座
+>宮位主星：冥王星
 ●後天三分：固定宮位
 ●後天四分：結束之宮
 
@@ -1671,11 +1671,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjMzNTc2LDMxNjcxMTk1OCwtMTI0Nz
-M2Nzc0MCw2MTI3MTY0MjksLTEzOTA0NjMxNSwtNzA3OTg3ODY3
-LC0xMzYwOTM4Nzc5LC0xMjM4NzI2MzQ1LC0xNDE2MTgyMTQyLD
-EzOTQ5MDE5NTAsNTg3Mzk2MDI5LC0xNDQ5NTI0OTc5LC0xNTE0
-MjQ0MDA4LC0xODk5NDExOTgxLC0xMjU0MjEyMjk5LC0xOTQ0Mz
-A3MzM5LC03MTE0NDkzNTYsMTk4ODc0Njc2OSwyMTExNjc3NjM5
-LDUzOTE1ODcxN119
+eyJoaXN0b3J5IjpbMzY2OTM1NDUyLC03NTYzMzU3NiwzMTY3MT
+E5NTgsLTEyNDczNjc3NDAsNjEyNzE2NDI5LC0xMzkwNDYzMTUs
+LTcwNzk4Nzg2NywtMTM2MDkzODc3OSwtMTIzODcyNjM0NSwtMT
+QxNjE4MjE0MiwxMzk0OTAxOTUwLDU4NzM5NjAyOSwtMTQ0OTUy
+NDk3OSwtMTUxNDI0NDAwOCwtMTg5OTQxMTk4MSwtMTI1NDIxMj
+I5OSwtMTk0NDMwNzMzOSwtNzExNDQ5MzU2LDE5ODg3NDY3Njks
+MjExMTY3NzYzOV19
 -->
