@@ -1200,6 +1200,7 @@ _雙魚座：2月19日-3月20日_
 >- 宮位主星：火星
 >- 後天三分：(基本宮位)
 >- 後天四分：生命之宮
+>- 含義：人格、企圖、態度、生命力、早年環境、身材外貌、體質狀況、自我發展能力
 
 ★第一宮象徵：
 > 第一宮，顯出你的人格型態、外貌氣質、自我認同、外在形象及個人的獨特性及表現自己的方法。它還表示他人怎看待你，以及你希望他人怎看待你。它還表示出你的體形，健康，及早年的歲月。它顯示了你對生命及世界的看法。它亦顯現出你的容貌，言行舉止及事業的開端。同時，它也影響到你給別人的印象。
@@ -1218,7 +1219,7 @@ _雙魚座：2月19日-3月20日_
 >- 宮位主星：金星
 >- 後天三分：固定宮位
 >- 後天四分：物質之宮
->
+>- 含義：財運、欲望、資源、價值觀、賺錢能力、物質生活、有價證券（股票、債券）
 
 ★第二宮象徵：
 > 第二宮，代表經濟狀況，財產﹝不動產除外﹞，投資、賺錢及處理錢財的能力。它表示你的內在天賦與智能，你的現實需要，自我價值和價值觀。它亦是個代表自由的『後天宮』。
@@ -1463,11 +1464,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODAxMzg2OSwtMTg1NTc4MTcsMTg2ND
-MwMzMxLC04NjY0MTY3ODEsLTE2NTM0MTc3MjcsMTAwODg3MDA5
-NywxOTY5MDc0OTA1LDE4MTQ1OTMwNTcsMTgwNDMzOTc0OCw5OT
-Q4NjcxNjIsMzY2OTM1NDUyLDMxNjcxMTk1OCwtMTI0NzM2Nzc0
-MCw2MTI3MTY0MjksLTEzOTA0NjMxNSwtNzA3OTg3ODY3LC0xMz
-YwOTM4Nzc5LC0xMjM4NzI2MzQ1LC0xNDE2MTgyMTQyLDEzOTQ5
-MDE5NTBdfQ==
+eyJoaXN0b3J5IjpbLTE3MzQzMjQ3NDgsLTQ2ODAxMzg2OSwxOD
+Y0MzAzMzEsLTg2NjQxNjc4MSwtMTY1MzQxNzcyNywxMDA4ODcw
+MDk3LDE5NjkwNzQ5MDUsMTgxNDU5MzA1NywxODA0MzM5NzQ4LD
+k5NDg2NzE2MiwzNjY5MzU0NTIsMzE2NzExOTU4LC0xMjQ3MzY3
+NzQwLDYxMjcxNjQyOSwtMTM5MDQ2MzE1LC03MDc5ODc4NjcsLT
+EzNjA5Mzg3NzksLTEyMzg3MjYzNDUsLTE0MTYxODIxNDIsMTM5
+NDkwMTk1MF19
 -->
