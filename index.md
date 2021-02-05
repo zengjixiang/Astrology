@@ -1513,7 +1513,7 @@ _雙魚座：2月19日-3月20日_
 
 ★第七宮象徵：
 
-●第七宮，代表貿易，配偶，婚姻，離婚，合約，法律，訴訟，交易，協議，股東，合夥人及一切與大眾有關的往來及大眾的反應。它代表你的敵人及你最缺乏的部分。它亦代表了你對婚姻的態度及婚姻的狀況。同時它也表示你的祖父母以
+●第七宮，代表貿易，配偶，婚姻，離婚，合約，法律，訴訟，交易，協議，股東，合夥人及一切與大眾有關的往來及大眾的反應。它代表你的敵人及你最缺乏的部分。它亦代表了你對婚姻的態度及婚姻的狀況。同時它也表示你的祖父母以外任何贊助或替代你的人。
 
 ★第七宮與星座：
 >- 第七宮跟與他人合作有關。因此，在人生中，夫妻關係由此看出，一個人的結婚運、配偶要看此宮，另外，個人與他人之間的合作、訴訟、法律規範、還有對手都跟此宮相關。由第七宮上的星座可看出一個人以何種方式與人相處。
@@ -1668,11 +1668,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4MDkyODk1LDM2NjkzNTQ1MiwzMTY3MT
-E5NTgsLTEyNDczNjc3NDAsNjEyNzE2NDI5LC0xMzkwNDYzMTUs
-LTcwNzk4Nzg2NywtMTM2MDkzODc3OSwtMTIzODcyNjM0NSwtMT
-QxNjE4MjE0MiwxMzk0OTAxOTUwLDU4NzM5NjAyOSwtMTQ0OTUy
-NDk3OSwtMTUxNDI0NDAwOCwtMTg5OTQxMTk4MSwtMTI1NDIxMj
-I5OSwtMTk0NDMwNzMzOSwtNzExNDQ5MzU2LDE5ODg3NDY3Njks
-MjExMTY3NzYzOV19
+eyJoaXN0b3J5IjpbLTE0NjgwOTMxNzYsMzY2OTM1NDUyLDMxNj
+cxMTk1OCwtMTI0NzM2Nzc0MCw2MTI3MTY0MjksLTEzOTA0NjMx
+NSwtNzA3OTg3ODY3LC0xMzYwOTM4Nzc5LC0xMjM4NzI2MzQ1LC
+0xNDE2MTgyMTQyLDEzOTQ5MDE5NTAsNTg3Mzk2MDI5LC0xNDQ5
+NTI0OTc5LC0xNTE0MjQ0MDA4LC0xODk5NDExOTgxLC0xMjU0Mj
+EyMjk5LC0xOTQ0MzA3MzM5LC03MTE0NDkzNTYsMTk4ODc0Njc2
+OSwyMTExNjc3NjM5XX0=
 -->
