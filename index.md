@@ -1377,10 +1377,10 @@ _雙魚座：2月19日-3月20日_
 >- 相關星座：牡羊座
 >- 宮位主星：火星
 >- 後天三分：(基本宮位)
->
-●後天四分：生命之宮
+>- 後天四分：生命之宮
 
 ★第一宮象徵：
+
 ●第一宮，顯出你的人格型態、外貌氣質、自我認同、外在形象及個人的獨特性及表現自己的方法。它還表示他人怎看待你，以及你希望他人怎看待你。它還表示出你的體形，健康，及早年的歲月。它顯示了你對生命及世界的看法。它亦顯現出你的容貌，言行舉止及事業的開端。同時，它也影響到你給別人的印象。
 
 ★第一宮與星座：
@@ -1646,7 +1646,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzcwODAzNzYsMTU5MDI1NDA2Myw5OT
+eyJoaXN0b3J5IjpbMTgwNDMzOTc0OCwtMTQzNzA4MDM3Niw5OT
 Q4NjcxNjIsMzY2OTM1NDUyLDMxNjcxMTk1OCwtMTI0NzM2Nzc0
 MCw2MTI3MTY0MjksLTEzOTA0NjMxNSwtNzA3OTg3ODY3LC0xMz
 YwOTM4Nzc5LC0xMjM4NzI2MzQ1LC0xNDE2MTgyMTQyLDEzOTQ5
