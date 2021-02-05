@@ -1536,7 +1536,6 @@ _雙魚座：2月19日-3月20日_
 ★第八宮與星座：
 > 第八宮跟與個人未知的部份及與他人共有有關。因此生死、性、個人內在深沈的一面，都跟此宮有關，另外，配偶的錢運，他人的錢財也要看此宮。由第八宮上的星座可以看出個人如何與他人共有資源。
 
-
 第九宮--[遷移宮]
 > 能力必須向外發展更加提升。第九宮也就是所謂的遷移宮，代表一個人向外探索生命的過程，與遠地旅遊及進修、環境的變遷和國外相關。當我們在社會中生活，發現有時必需限制並壓抑「自我」時，我們便會開始進修深造，所謂「行萬里路，讀萬卷書」，吸收別人的智慧及經驗使自己更加成熟，因此，第九宮和大學或高深的學術研究有關，代表了心理學中所謂的「超我」，反應出一個人的宗教、哲學觀點及法律相關的事物。同時第九宮與未知的環境和文化有關，代表陌生的風土民情。
 > 
@@ -1668,11 +1667,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjgwOTMxNzYsMzY2OTM1NDUyLDMxNj
-cxMTk1OCwtMTI0NzM2Nzc0MCw2MTI3MTY0MjksLTEzOTA0NjMx
-NSwtNzA3OTg3ODY3LC0xMzYwOTM4Nzc5LC0xMjM4NzI2MzQ1LC
-0xNDE2MTgyMTQyLDEzOTQ5MDE5NTAsNTg3Mzk2MDI5LC0xNDQ5
-NTI0OTc5LC0xNTE0MjQ0MDA4LC0xODk5NDExOTgxLC0xMjU0Mj
-EyMjk5LC0xOTQ0MzA3MzM5LC03MTE0NDkzNTYsMTk4ODc0Njc2
-OSwyMTExNjc3NjM5XX0=
+eyJoaXN0b3J5IjpbOTk0ODY3MTYyLDM2NjkzNTQ1MiwzMTY3MT
+E5NTgsLTEyNDczNjc3NDAsNjEyNzE2NDI5LC0xMzkwNDYzMTUs
+LTcwNzk4Nzg2NywtMTM2MDkzODc3OSwtMTIzODcyNjM0NSwtMT
+QxNjE4MjE0MiwxMzk0OTAxOTUwLDU4NzM5NjAyOSwtMTQ0OTUy
+NDk3OSwtMTUxNDI0NDAwOCwtMTg5OTQxMTk4MSwtMTI1NDIxMj
+I5OSwtMTk0NDMwNzMzOSwtNzExNDQ5MzU2LDE5ODg3NDY3Njks
+MjExMTY3NzYzOV19
 -->
