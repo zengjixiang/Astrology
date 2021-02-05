@@ -590,22 +590,21 @@ _雙魚座：2月19日-3月20日_
 > 脾氣剛強，觸感敏銳。富研究精神，稍顯乖僻，常沉默不語，可是，具備敏銳的洞察能力。對神秘、死、偵探、精神分析、金融發生興趣。  
   
 **水星在射手座：**  
-
 > 性急，但求知慾旺盛。喜歡旅行和學習外國語言。對出版、國外旅行、外國語文、法律學、宗教發生興趣。
   
 **水星在摩羯座：**  
-不和悅，意志力薄弱，但是，胸懷踏實，忍耐力強。常常將目標集中於實際利益方面。對化學、宗教、政治、命運發生興趣。  
+> 不和悅，意志力薄弱，但是，胸懷踏實，忍耐力強。常常將目標集中於實際利益方面。對化學、宗教、政治、命運發生興趣。  
   
 **水星在水瓶座：**  
-喜歡藝術和學問之智者。喜歡說話，然嚴守交際禮節。對發明、發掘、考古學、未來、飛機和照明發生興趣。  
+> 喜歡藝術和學問之智者。喜歡說話，然嚴守交際禮節。對發明、發掘、考古學、未來、飛機和照明發生興趣。  
   
 **水星在雙魚座：**  
-直覺而富同情心。對藝術、心理方面之事發生強烈的感受性。慈善事業、神靈、音樂、跳舞、海洋、藥品發生興趣。
+> 直覺而富同情心。對藝術、心理方面之事發生強烈的感受性。慈善事業、神靈、音樂、跳舞、海洋、藥品發生興趣。
 
 ----
 
-### **金星‧掌管：男性欣賞異性類型、女性如何吸引異性、審美觀**  
-金星對於私人關係中如何表達情感是很重要的，尤其是愛情及婚姻；此外亦可由此而充分瞭解個人對於金錢、財產、生理舒適度、社會及美學價值等的態度。
+### **金星 (掌管：男性欣賞異性類型、女性如何吸引異性、審美觀)**  
+> 金星對於私人關係中如何表達情感是很重要的，尤其是愛情及婚姻；此外亦可由此而充分瞭解個人對於金錢、財產、生理舒適度、社會及美學價值等的態度。
   
 **★金星：你的愛情**  
   
@@ -1454,11 +1453,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjQxNjc4MSwtMTY4MTYyNTUxNSwtMT
-Y1MzQxNzcyNywxMDA4ODcwMDk3LDE5NjkwNzQ5MDUsMTgxNDU5
-MzA1NywxODA0MzM5NzQ4LDk5NDg2NzE2MiwzNjY5MzU0NTIsMz
-E2NzExOTU4LC0xMjQ3MzY3NzQwLDYxMjcxNjQyOSwtMTM5MDQ2
-MzE1LC03MDc5ODc4NjcsLTEzNjA5Mzg3NzksLTEyMzg3MjYzND
-UsLTE0MTYxODIxNDIsMTM5NDkwMTk1MCw1ODczOTYwMjksLTE0
-NDk1MjQ5NzldfQ==
+eyJoaXN0b3J5IjpbMTg2NDMwMzMxLC04NjY0MTY3ODEsLTE2NT
+M0MTc3MjcsMTAwODg3MDA5NywxOTY5MDc0OTA1LDE4MTQ1OTMw
+NTcsMTgwNDMzOTc0OCw5OTQ4NjcxNjIsMzY2OTM1NDUyLDMxNj
+cxMTk1OCwtMTI0NzM2Nzc0MCw2MTI3MTY0MjksLTEzOTA0NjMx
+NSwtNzA3OTg3ODY3LC0xMzYwOTM4Nzc5LC0xMjM4NzI2MzQ1LC
+0xNDE2MTgyMTQyLDEzOTQ5MDE5NTAsNTg3Mzk2MDI5LC0xNDQ5
+NTI0OTc5XX0=
 -->
