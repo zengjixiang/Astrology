@@ -1307,7 +1307,7 @@ _雙魚座：2月19日-3月20日_
 >- 宮位主星：金星
 >- 後天三分：主動宮位
 >- 後天四分：關係之宮
->- 含義：同居、婚姻、藝術、契約、訴訟、合夥（包括配偶、讚助人）、公共關系、公開的敵人
+>- 含義：同居、婚姻、藝術、契約、訴訟、合夥（包括配偶、贊助人）、公共關系、公開的敵人
 
 ★第七宮象徵：
 > 第七宮，代表貿易，配偶，婚姻，離婚，合約，法律，訴訟，交易，協議，股東，合夥人及一切與大眾有關的往來及大眾的反應。它代表你的敵人及你最缺乏的部分。它亦代表了你對婚姻的態度及婚姻的狀況。同時它也表示你的祖父母以外任何贊助或替代你的人。
@@ -1459,11 +1459,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTc5NzMxOCwxODY0MzAzMzEsLTg2Nj
-QxNjc4MSwtMTY1MzQxNzcyNywxMDA4ODcwMDk3LDE5NjkwNzQ5
-MDUsMTgxNDU5MzA1NywxODA0MzM5NzQ4LDk5NDg2NzE2MiwzNj
-Y5MzU0NTIsMzE2NzExOTU4LC0xMjQ3MzY3NzQwLDYxMjcxNjQy
-OSwtMTM5MDQ2MzE1LC03MDc5ODc4NjcsLTEzNjA5Mzg3NzksLT
-EyMzg3MjYzNDUsLTE0MTYxODIxNDIsMTM5NDkwMTk1MCw1ODcz
-OTYwMjldfQ==
+eyJoaXN0b3J5IjpbMjA4NDc1MjI5OCwtMzQxNzk3MzE4LDE4Nj
+QzMDMzMSwtODY2NDE2NzgxLC0xNjUzNDE3NzI3LDEwMDg4NzAw
+OTcsMTk2OTA3NDkwNSwxODE0NTkzMDU3LDE4MDQzMzk3NDgsOT
+k0ODY3MTYyLDM2NjkzNTQ1MiwzMTY3MTE5NTgsLTEyNDczNjc3
+NDAsNjEyNzE2NDI5LC0xMzkwNDYzMTUsLTcwNzk4Nzg2NywtMT
+M2MDkzODc3OSwtMTIzODcyNjM0NSwtMTQxNjE4MjE0MiwxMzk0
+OTAxOTUwXX0=
 -->
