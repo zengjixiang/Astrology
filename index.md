@@ -1569,9 +1569,9 @@ _雙魚座：2月19日-3月20日_
 
 ●向著目標發展，建立個人的地位。第十宮也就是所謂的事業宮，與事業及名望有關，代表一個人的人生志業及社會地位。第十宮象徵著建立自我城堡的過程，是個人精神層面的領域。一個人在經社會磨鍊而變得成熟穩重時，開始懂得朝向自己的人生目標邁進，因此開始創造出個人在社會的價值及地位，所以第十宮是滿足我們社會認同的需求和一個人的自我實現有關。第十宮是代表一個人突破困難並堅持努力的結果，代表一個人的成就，同時第十宮也代表官祿宮，代表了官運及受老闆賞識程度。如果一個人有不好的星在本宮或是宮中的星嚴重受剋，可能會在事業上遇到較多困難，另一方面來說，也會有不滿足的感覺。
 
-●MC表示出生宮位圖的天頂，是你意圖掌握人生目標的面具。許多人，尤其是男性，都認為人生的目標幾乎等於社會上的地位，或職業上的成就。所以，在傳統的西洋占星學上，MC被視為表示"社會上的成功"或"天職"的部分，但我認為MC是作為社會上或人生目標的"面具"。 　
+> MC表示出生宮位圖的天頂，是你意圖掌握人生目標的面具。許多人，尤其是男性，都認為人生的目標幾乎等於社會上的地位，或職業上的成就。所以，在傳統的西洋占星學上，MC被視為表示"社會上的成功"或"天職"的部分，但我認為MC是作為社會上或人生目標的"面具"。 　
 
-心理占星學的權威LizGreene和HowardSasportas等人認為MC表示母親，其相反方向的IC則表示父親。在傳統的西洋占星學中，MC 表示父親，IC表示母親。因此，熟悉過去占星學書籍的人，可能會覺得有些混亂。可是，根據研究許多出生宮位圖的經驗來看，LizGreene他們的意見很正確。MC的星座或天頂附近的行星，事實上與母親的形象非常一致。而且MC的星座，實際上與母親所生的星座和月亮的星座相吻合，這些事實一點也不稀奇。　
+> 心理占星學的權威LizGreene和HowardSasportas等人認為MC表示母親，其相反方向的IC則表示父親。在傳統的西洋占星學中，MC 表示父親，IC表示母親。因此，熟悉過去占星學書籍的人，可能會覺得有些混亂。可是，根據研究許多出生宮位圖的經驗來看，LizGreene他們的意見很正確。MC的星座或天頂附近的行星，事實上與母親的形象非常一致。而且MC的星座，實際上與母親所生的星座和月亮的星座相吻合，這些事實一點也不稀奇。　
 
 > 這可能是現在的家庭環境與過去不同的緣故。不只是歐洲，甚至在東方也如此。與往昔不一樣的是，最常與小孩子接觸，而且成為小孩子心目中的偶像，母親佔絕大多數。王侯貴族、工匠或商人的兒子，可能會視其"父親"為目標或偶像，但在嚴肅的討論"父親經常不在"這個問題的今日，MC＝母親的說法，具有充分的說服力。說不定還可使這個說法更單純，更公式化。換句話說，MC對小孩子來講，表示在他們心目中所占份量較大的父親或母親。
 
@@ -1679,11 +1679,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNzU4MTA3MCwtMTI0NzM2Nzc0MCw2MT
-I3MTY0MjksLTEzOTA0NjMxNSwtNzA3OTg3ODY3LC0xMzYwOTM4
-Nzc5LC0xMjM4NzI2MzQ1LC0xNDE2MTgyMTQyLDEzOTQ5MDE5NT
-AsNTg3Mzk2MDI5LC0xNDQ5NTI0OTc5LC0xNTE0MjQ0MDA4LC0x
-ODk5NDExOTgxLC0xMjU0MjEyMjk5LC0xOTQ0MzA3MzM5LC03MT
-E0NDkzNTYsMTk4ODc0Njc2OSwyMTExNjc3NjM5LDUzOTE1ODcx
-NywxOTIzOTY3MzUwXX0=
+eyJoaXN0b3J5IjpbMzMyNjkxODI1LDEwMzc1ODEwNzAsLTEyND
+czNjc3NDAsNjEyNzE2NDI5LC0xMzkwNDYzMTUsLTcwNzk4Nzg2
+NywtMTM2MDkzODc3OSwtMTIzODcyNjM0NSwtMTQxNjE4MjE0Mi
+wxMzk0OTAxOTUwLDU4NzM5NjAyOSwtMTQ0OTUyNDk3OSwtMTUx
+NDI0NDAwOCwtMTg5OTQxMTk4MSwtMTI1NDIxMjI5OSwtMTk0ND
+MwNzMzOSwtNzExNDQ5MzU2LDE5ODg3NDY3NjksMjExMTY3NzYz
+OSw1MzkxNTg3MTddfQ==
 -->
