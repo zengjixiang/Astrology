@@ -1527,19 +1527,17 @@ _雙魚座：2月19日-3月20日_
 
 ★第八宮小檔案：
 
-●宮位意義：別人的錢（不是自己賺的）、別人要不要買你的商品、銀行、結婚對方帶過來的錢、性、死亡、神秘、保險、稅捐。
-●相關星座：天蠍座
+>- 宮位意義：別人的錢（不是自己賺的）、別人要不要買你的商品、銀行、結婚對方帶過來的錢、性、死亡、神秘、保險、稅捐。
+>相關星座：天蠍座
 ●宮位主星：冥王星
 ●後天三分：固定宮位
 ●後天四分：結束之宮
 
 ★第八宮象徵：
-
-●第八宮，代表外間的助力，包括經濟，道德，心靈與物質方面。它還表示遺產、信託、遺囑、賦稅和保險的狀況，以及秘密、性、心靈與物質上的繁衍；心理上的新生、墮落與死亡。它代表神秘的事物和高深的研究，也代表夥伴的資產及贍養費。它同時也是外科手術之宮，所以也能顯示疾病的狀況。
+> 第八宮，代表外間的助力，包括經濟，道德，心靈與物質方面。它還表示遺產、信託、遺囑、賦稅和保險的狀況，以及秘密、性、心靈與物質上的繁衍；心理上的新生、墮落與死亡。它代表神秘的事物和高深的研究，也代表夥伴的資產及贍養費。它同時也是外科手術之宮，所以也能顯示疾病的狀況。
 
 ★第八宮與星座：
-
-●第八宮跟與個人未知的部份及與他人共有有關。因此生死、性、個人內在深沈的一面，都跟此宮有關，另外，配偶的錢運，他人的錢財也要看此宮。由第八宮上的星座可以看出個人如何與他人共有資源。
+> 第八宮跟與個人未知的部份及與他人共有有關。因此生死、性、個人內在深沈的一面，都跟此宮有關，另外，配偶的錢運，他人的錢財也要看此宮。由第八宮上的星座可以看出個人如何與他人共有資源。
 
 
 第九宮--[遷移宮]
@@ -1588,7 +1586,7 @@ _雙魚座：2月19日-3月20日_
 > 第十一宮象徵著一個人的理想，他跟現有環境的改變有關。第十一宮代表創新及獨立也象徵外太空，因此代表未知的未來。另外網路也跟第十一宮有關。同時，十一宮代表分工，每個人在大機器下如何發揮屬於他個人的能力。如果本宮有太多星，可能會有太重視朋友而忽視身旁的人的傾向，如果本宮有不好的星落入或是宮中的星受剋嚴重，則可能對團體不滿或有疏離感。
 
 ★第十一宮小檔案
-> 宮位意義：朋友、社會觀、志同道合、社團、讀書會、願望、理想、社會意識、未來有關的、俱樂部、政黨、別人的小孩。
+>- 宮位意義：朋友、社會觀、志同道合、社團、讀書會、願望、理想、社會意識、未來有關的、俱樂部、政黨、別人的小孩。
 >- 相關星座：水瓶座
 >- 宮位主星：天王星
 >- 後天三分：固定宮位
@@ -1607,7 +1605,7 @@ _雙魚座：2月19日-3月20日_
 
 
 ★第十二宮小檔案
->宮位意義：限制、隱藏的敵人、坐禪、幕後工作、內在的自我、人生的歸結、不收錢的服務。
+>- 宮位意義：限制、隱藏的敵人、坐禪、幕後工作、內在的自我、人生的歸結、不收錢的服務。
 >- 相關星座：雙魚座
 >- 宮位主星：海王星
 >- 後天三分：變動宮位
@@ -1673,11 +1671,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDA3OTM5NSwzMTY3MTE5NTgsLTEyND
-czNjc3NDAsNjEyNzE2NDI5LC0xMzkwNDYzMTUsLTcwNzk4Nzg2
-NywtMTM2MDkzODc3OSwtMTIzODcyNjM0NSwtMTQxNjE4MjE0Mi
-wxMzk0OTAxOTUwLDU4NzM5NjAyOSwtMTQ0OTUyNDk3OSwtMTUx
-NDI0NDAwOCwtMTg5OTQxMTk4MSwtMTI1NDIxMjI5OSwtMTk0ND
-MwNzMzOSwtNzExNDQ5MzU2LDE5ODg3NDY3NjksMjExMTY3NzYz
-OSw1MzkxNTg3MTddfQ==
+eyJoaXN0b3J5IjpbLTc1NjMzNTc2LDMxNjcxMTk1OCwtMTI0Nz
+M2Nzc0MCw2MTI3MTY0MjksLTEzOTA0NjMxNSwtNzA3OTg3ODY3
+LC0xMzYwOTM4Nzc5LC0xMjM4NzI2MzQ1LC0xNDE2MTgyMTQyLD
+EzOTQ5MDE5NTAsNTg3Mzk2MDI5LC0xNDQ5NTI0OTc5LC0xNTE0
+MjQ0MDA4LC0xODk5NDExOTgxLC0xMjU0MjEyMjk5LC0xOTQ0Mz
+A3MzM5LC03MTE0NDkzNTYsMTk4ODc0Njc2OSwyMTExNjc3NjM5
+LDUzOTE1ODcxN119
 -->
