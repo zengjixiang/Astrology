@@ -379,11 +379,12 @@ _雙魚座：2月19日-3月20日_
 
 ----
 
-### **太陽‧掌管：人生觀、性格**
+### **太陽 (掌管：人生觀、性格)**
 > 太陽星座可說是命盤最重要的影響因素，它主宰著每個人如何表達他的潛能、創造力、如何長大成人發揮成獨立的個性。太陽星座同時也象徵每個人外表成長的各個階段，期間學習、適應社會的過程。太陽星座也構成了一個人的人生觀、人生目標，他如何完成他的意志力與想法，如何發揮自己的優缺點與個性，都是太陽星座的影響範圍，因此太陽星座是星盤上影響最大的一顆星。
 
-**★太陽：你的個性**  
-●太陽是太陽系中心，是光和熱的泉源，是地球上所有生物不可或缺的元素。因此在占星學中，太陽代表著生命力及創造力、活力及權勢。本命盤中太陽所在的位置，代表一個人的外在表現及重視的地方。此外，太陽光四射使得太陽的外在顯得比實際來得大，因此太陽代表著外在表像，誇大的表現。這是一般人最常掛在嘴邊討論的星座話題。的確，在占星學上太陽的配置，最具權威性；它能告訴你有關你的個性與人生。在神話故事中，它是太陽神，代表著創造、熱情、光明、慷慨。  
+**★太陽：你的個性**
+
+> 太陽是太陽系中心，是光和熱的泉源，是地球上所有生物不可或缺的元素。因此在占星學中，太陽代表著生命力及創造力、活力及權勢。本命盤中太陽所在的位置，代表一個人的外在表現及重視的地方。此外，太陽光四射使得太陽的外在顯得比實際來得大，因此太陽代表著外在表像，誇大的表現。這是一般人最常掛在嘴邊討論的星座話題。的確，在占星學上太陽的配置，最具權威性；它能告訴你有關你的個性與人生。在神話故事中，它是太陽神，代表著創造、熱情、光明、慷慨。  
   
 ●基本上若太陽強烈地影響你個人的星點陣圖時，你會顯得特別地勇敢、積極，擁有自信能力，不畏艱難，往往能在同儕中成為領導者。太陽星座表示一個人的形象，或是給別人的印象。太陽星座也影響個人的意識，動態活動或自我表達的方式。太陽的位置在個人出生圖的位置好的話，其正面特徵為：自信，活力，活潑的氣質就會表達出來，通常這樣的人身體都很正常且健壯。太陽掌管人類的視力、背部、動脈、和心臟。若你的右眼視力特別好，通常太陽位置配合得很好。　  
   
@@ -1455,11 +1456,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjE3MjU3OSwtMTY1MzQxNzcyNywxMD
-A4ODcwMDk3LDE5NjkwNzQ5MDUsMTgxNDU5MzA1NywxODA0MzM5
-NzQ4LDk5NDg2NzE2MiwzNjY5MzU0NTIsMzE2NzExOTU4LC0xMj
-Q3MzY3NzQwLDYxMjcxNjQyOSwtMTM5MDQ2MzE1LC03MDc5ODc4
-NjcsLTEzNjA5Mzg3NzksLTEyMzg3MjYzNDUsLTE0MTYxODIxND
-IsMTM5NDkwMTk1MCw1ODczOTYwMjksLTE0NDk1MjQ5NzksLTE1
-MTQyNDQwMDhdfQ==
+eyJoaXN0b3J5IjpbLTExNDgwMDgyNTQsLTE2NTM0MTc3MjcsMT
+AwODg3MDA5NywxOTY5MDc0OTA1LDE4MTQ1OTMwNTcsMTgwNDMz
+OTc0OCw5OTQ4NjcxNjIsMzY2OTM1NDUyLDMxNjcxMTk1OCwtMT
+I0NzM2Nzc0MCw2MTI3MTY0MjksLTEzOTA0NjMxNSwtNzA3OTg3
+ODY3LC0xMzYwOTM4Nzc5LC0xMjM4NzI2MzQ1LC0xNDE2MTgyMT
+QyLDEzOTQ5MDE5NTAsNTg3Mzk2MDI5LC0xNDQ5NTI0OTc5LC0x
+NTE0MjQ0MDA4XX0=
 -->
