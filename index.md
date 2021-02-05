@@ -504,7 +504,7 @@ _雙魚座：2月19日-3月20日_
 >
 > 大型動物也受到第十二宮的支配，這一點甚少為人所知。  
 >
-> 第十二宮受到精神心靈與自我犧牲的海王星，以及富於同情心的雙魚座守護。
+> 第十二宮受到精神心靈與自我犧牲的海王星，以及富於同情心的雙魚座守護
 
 ----
 
@@ -1641,11 +1641,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjUzNzY0NTksMTgxNDU5MzA1NywxOD
-A0MzM5NzQ4LDk5NDg2NzE2MiwzNjY5MzU0NTIsMzE2NzExOTU4
-LC0xMjQ3MzY3NzQwLDYxMjcxNjQyOSwtMTM5MDQ2MzE1LC03MD
-c5ODc4NjcsLTEzNjA5Mzg3NzksLTEyMzg3MjYzNDUsLTE0MTYx
-ODIxNDIsMTM5NDkwMTk1MCw1ODczOTYwMjksLTE0NDk1MjQ5Nz
-ksLTE1MTQyNDQwMDgsLTE4OTk0MTE5ODEsLTEyNTQyMTIyOTks
-LTE5NDQzMDczMzldfQ==
+eyJoaXN0b3J5IjpbMTk2OTA3NDkwNSwxODE0NTkzMDU3LDE4MD
+QzMzk3NDgsOTk0ODY3MTYyLDM2NjkzNTQ1MiwzMTY3MTE5NTgs
+LTEyNDczNjc3NDAsNjEyNzE2NDI5LC0xMzkwNDYzMTUsLTcwNz
+k4Nzg2NywtMTM2MDkzODc3OSwtMTIzODcyNjM0NSwtMTQxNjE4
+MjE0MiwxMzk0OTAxOTUwLDU4NzM5NjAyOSwtMTQ0OTUyNDk3OS
+wtMTUxNDI0NDAwOCwtMTg5OTQxMTk4MSwtMTI1NDIxMjI5OSwt
+MTk0NDMwNzMzOV19
 -->
