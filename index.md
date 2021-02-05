@@ -1,7 +1,7 @@
-## /02/05 更新)占星資訊彙整(【上昇、十大行星(太陽、月亮、木星、火星,、土星、金星水星、天王星、海王星、冥王星)】、十二宮位、
+## /02/05 更新)占星資訊彙整(【上昇、十大行星(太陽、月亮、木星、火星,、土星、金星、水星、天王星、海王星、冥王星)】、十二宮位、
 
 
-
+##### (2021／0205 更新)
 
 ![封面圖片](://123.jpg)
 
@@ -1694,7 +1694,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjQ5MTEyMCwxNjQxNDMwMDkyLC0xMz
+eyJoaXN0b3J5IjpbLTg1ODU0NTk5NCwyMDA2NDkxMTIwLC0xMz
 kwNDYzMTUsLTcwNzk4Nzg2NywtMTM2MDkzODc3OSwtMTIzODcy
 NjM0NSwtMTQxNjE4MjE0MiwxMzk0OTAxOTUwLDU4NzM5NjAyOS
 wtMTQ0OTUyNDk3OSwtMTUxNDI0NDAwOCwtMTg5OTQxMTk4MSwt
