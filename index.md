@@ -1512,11 +1512,10 @@ _雙魚座：2月19日-3月20日_
 ●後天四分：關係之宮
 
 ★第七宮象徵：
-
-●第七宮，代表貿易，配偶，婚姻，離婚，合約，法律，訴訟，交易，協議，股東，合夥人及一切與大眾有關的往來及大眾的反應。它代表你的敵人及你最缺乏的部分。它亦代表了你對婚姻的態度及婚姻的狀況。同時它也表示你的祖父母以外任何贊助或替代你的人。
+> 第七宮，代表貿易，配偶，婚姻，離婚，合約，法律，訴訟，交易，協議，股東，合夥人及一切與大眾有關的往來及大眾的反應。它代表你的敵人及你最缺乏的部分。它亦代表了你對婚姻的態度及婚姻的狀況。同時它也表示你的祖父母以外任何贊助或替代你的人。
 
 ★第七宮與星座：
->- 第七宮跟與他人合作有關。因此，在人生中，夫妻關係由此看出，一個人的結婚運、配偶要看此宮，另外，個人與他人之間的合作、訴訟、法律規範、還有對手都跟此宮相關。由第七宮上的星座可看出一個人以何種方式與人相處。
+> 第七宮跟與他人合作有關。因此，在人生中，夫妻關係由此看出，一個人的結婚運、配偶要看此宮，另外，個人與他人之間的合作、訴訟、法律規範、還有對手都跟此宮相關。由第七宮上的星座可看出一個人以何種方式與人相處。
 
 第八宮--[疾厄宮]
 > 內在的潛能必須透過合作的結合啟發，但也引發佔有與轉變。第八宮也就是所謂的疾厄宮，他代表著地底，跟個人黑暗面與靈界相關，因此代表死生之事及一個人內心不願被觸及的深處。第八宮象徵著一個人結合外界的資源的過程，代表自己無法掌控之他人錢財及外界的資源，例如投資及負債及稅務問題。透過結合產生蛻變，第八宮通常和性與暴力有關，同時它代表了財團，遺產、保險以及社會黑暗面，所謂高風險高報酬，雖可獲得財富及權勢，但也可能造成極大的危險。
@@ -1552,7 +1551,7 @@ _雙魚座：2月19日-3月20日_
 > 第九宮，代表高等心智，潛意識，宗教，法律，科學，理念，高深學問，哲學，心理學，夢境，靈視，宇宙觀和大智慧。它還代表了長途旅行，國際貿易，出進口業務。它亦代表了作為心靈支柱的教會，外孫，直覺，倫理，輿論和生活的體驗。
 
 ★第九宮與星座：
->第九宮與一個人的向外發展有關。因此活動能力、旅行、外地發展等要看此宮。另外，他也跟提升個人層次有關，跟大學、高等教育、人生大道裡有關。由第九宮上的星座可看出一個人如何向外發展，提升自我。
+> 第九宮與一個人的向外發展有關。因此活動能力、旅行、外地發展等要看此宮。另外，他也跟提升個人層次有關，跟大學、高等教育、人生大道裡有關。由第九宮上的星座可看出一個人如何向外發展，提升自我。
 
 第十宮--[事業宮]
 > 向著目標發展，建立個人的地位。第十宮也就是所謂的事業宮，與事業及名望有關，代表一個人的人生志業及社會地位。第十宮象徵著建立自我城堡的過程，是個人精神層面的領域。一個人在經社會磨鍊而變得成熟穩重時，開始懂得朝向自己的人生目標邁進，因此開始創造出個人在社會的價值及地位，所以第十宮是滿足我們社會認同的需求和一個人的自我實現有關。第十宮是代表一個人突破困難並堅持努力的結果，代表一個人的成就，同時第十宮也代表官祿宮，代表了官運及受老闆賞識程度。如果一個人有不好的星在本宮或是宮中的星嚴重受剋，可能會在事業上遇到較多困難，另一方面來說，也會有不滿足的感覺。
@@ -1667,11 +1666,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0ODY3MTYyLDM2NjkzNTQ1MiwzMTY3MT
-E5NTgsLTEyNDczNjc3NDAsNjEyNzE2NDI5LC0xMzkwNDYzMTUs
-LTcwNzk4Nzg2NywtMTM2MDkzODc3OSwtMTIzODcyNjM0NSwtMT
-QxNjE4MjE0MiwxMzk0OTAxOTUwLDU4NzM5NjAyOSwtMTQ0OTUy
-NDk3OSwtMTUxNDI0NDAwOCwtMTg5OTQxMTk4MSwtMTI1NDIxMj
-I5OSwtMTk0NDMwNzMzOSwtNzExNDQ5MzU2LDE5ODg3NDY3Njks
-MjExMTY3NzYzOV19
+eyJoaXN0b3J5IjpbLTExNzE4MzcyODIsOTk0ODY3MTYyLDM2Nj
+kzNTQ1MiwzMTY3MTE5NTgsLTEyNDczNjc3NDAsNjEyNzE2NDI5
+LC0xMzkwNDYzMTUsLTcwNzk4Nzg2NywtMTM2MDkzODc3OSwtMT
+IzODcyNjM0NSwtMTQxNjE4MjE0MiwxMzk0OTAxOTUwLDU4NzM5
+NjAyOSwtMTQ0OTUyNDk3OSwtMTUxNDI0NDAwOCwtMTg5OTQxMT
+k4MSwtMTI1NDIxMjI5OSwtMTk0NDMwNzMzOSwtNzExNDQ5MzU2
+LDE5ODg3NDY3NjldfQ==
 -->
