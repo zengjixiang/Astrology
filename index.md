@@ -1617,17 +1617,17 @@ _雙魚座：2月19日-3月20日_
 
 第十二宮--[秘密宮]
 
-●最後個人超越意識，進入內在的層次。第十二宮也就是所謂的秘密宮，他代表大海，象徵著夢的世界，與內心及潛意識有關，代表一個人潛在的煩惱及最擔心的事情。第十二宮象徵著一個人退休及休息，當我們離開社會舞台後，開始面對自我的內心深處，這時我們重視的是心理的層面，很容易投身於宗教中，希望從其中參透超現實的意識，因此第十二宮是一個人引發同情心以感受力之宮位和一個人無私的愛及犧牲有關，第十二宮可看出一個人是否有愛心。所代表的是慈善事業。
+> 最後個人超越意識，進入內在的層次。第十二宮也就是所謂的秘密宮，他代表大海，象徵著夢的世界，與內心及潛意識有關，代表一個人潛在的煩惱及最擔心的事情。第十二宮象徵著一個人退休及休息，當我們離開社會舞台後，開始面對自我的內心深處，這時我們重視的是心理的層面，很容易投身於宗教中，希望從其中參透超現實的意識，因此第十二宮是一個人引發同情心以感受力之宮位和一個人無私的愛及犧牲有關，第十二宮可看出一個人是否有愛心。所代表的是慈善事業。
 
-●從另一個角度來看，第十二宮所呈現的是一種逃避現實的心態，也代表一個人潛在的敵人及隱藏看不到的問題。如果有太多星在本宮，一個人可能過度的隱藏或逃避，還可能太容易同情別人而吃虧。
+> 從另一個角度來看，第十二宮所呈現的是一種逃避現實的心態，也代表一個人潛在的敵人及隱藏看不到的問題。如果有太多星在本宮，一個人可能過度的隱藏或逃避，還可能太容易同情別人而吃虧。
 
 
 ★第十二宮小檔案
 >宮位意義：限制、隱藏的敵人、坐禪、幕後工作、內在的自我、人生的歸結、不收錢的服務。
-相關-星座：雙魚座
-●宮位主星：海王星
-●後天三分：變動宮位
-●後天四分：結束之宮
+>- 相關星座：雙魚座
+>- 宮位主星：海王星
+>- 後天三分：變動宮位
+>- 後天四分：結束之宮
 
 ★第十二宮象徵：
 > 第十二宮，代表你的潛能或弱點；也代表悲傷，痛苦，限制，祕密，隱居，挫折，幕後工作；也代表禁制，放逐，隱藏敵人，危機和自我的毀滅；也表示出背景，主觀信念，內在意識形態，下意識，心靈上的收獲；亦同時代表同情心，慈善服務，公眾福利。在這領域中，我們會試圖掩飾痛苦或困難的事情。
@@ -1689,11 +1689,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDczNjc3NDAsNjMxNTcwNDg3LDYxMj
-cxNjQyOSwtMTM5MDQ2MzE1LC03MDc5ODc4NjcsLTEzNjA5Mzg3
-NzksLTEyMzg3MjYzNDUsLTE0MTYxODIxNDIsMTM5NDkwMTk1MC
-w1ODczOTYwMjksLTE0NDk1MjQ5NzksLTE1MTQyNDQwMDgsLTE4
-OTk0MTE5ODEsLTEyNTQyMTIyOTksLTE5NDQzMDczMzksLTcxMT
-Q0OTM1NiwxOTg4NzQ2NzY5LDIxMTE2Nzc2MzksNTM5MTU4NzE3
-LDE5MjM5NjczNTBdfQ==
+eyJoaXN0b3J5IjpbLTE2OTc4NDI5ODgsLTEyNDczNjc3NDAsNj
+EyNzE2NDI5LC0xMzkwNDYzMTUsLTcwNzk4Nzg2NywtMTM2MDkz
+ODc3OSwtMTIzODcyNjM0NSwtMTQxNjE4MjE0MiwxMzk0OTAxOT
+UwLDU4NzM5NjAyOSwtMTQ0OTUyNDk3OSwtMTUxNDI0NDAwOCwt
+MTg5OTQxMTk4MSwtMTI1NDIxMjI5OSwtMTk0NDMwNzMzOSwtNz
+ExNDQ5MzU2LDE5ODg3NDY3NjksMjExMTY3NzYzOSw1MzkxNTg3
+MTcsMTkyMzk2NzM1MF19
 -->
