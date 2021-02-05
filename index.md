@@ -1455,8 +1455,7 @@ _雙魚座：2月19日-3月20日_
 
 
 第五宮--[子女宮]
-
-有了領域，便可以開始尋求自我的快樂。第五宮也就是所謂的子女宮，與嘗試和表現有關，和一個人純粹的快樂有關，所以舉凡戀愛、賭博、浪漫、玩樂……等等都和本宮有關，也代表著一個人的休閒生活及創造力。第五宮與一個人嘗試錯誤的過程有關。在人生舞台中，在我們不斷地嘗試錯誤的過程中追求樂趣、表現自己。因此第五宮也滿足了我們的被尊重的需求。
+> 有了領域，便可以開始尋求自我的快樂。第五宮也就是所謂的子女宮，與嘗試和表現有關，和一個人純粹的快樂有關，所以舉凡戀愛、賭博、浪漫、玩樂……等等都和本宮有關，也代表著一個人的休閒生活及創造力。第五宮與一個人嘗試錯誤的過程有關。在人生舞台中，在我們不斷地嘗試錯誤的過程中追求樂趣、表現自己。因此第五宮也滿足了我們的被尊重的需求。
 
 > 第五宮代表創造力，因此也代表子女的宮位，和一個人生的孩子有關，所以如果有星落入本宮，可以看出他對戀愛的態度，也能推測他對小孩的看法，當然，如果有不好的星星落入本宮，可能會在戀愛方面有比較大的困難。
 
@@ -1657,11 +1656,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjM1MjIyNjMsLTE4Mzg4NzU0NTgsOT
-k0ODY3MTYyLDM2NjkzNTQ1MiwzMTY3MTE5NTgsLTEyNDczNjc3
-NDAsNjEyNzE2NDI5LC0xMzkwNDYzMTUsLTcwNzk4Nzg2NywtMT
-M2MDkzODc3OSwtMTIzODcyNjM0NSwtMTQxNjE4MjE0MiwxMzk0
-OTAxOTUwLDU4NzM5NjAyOSwtMTQ0OTUyNDk3OSwtMTUxNDI0ND
-AwOCwtMTg5OTQxMTk4MSwtMTI1NDIxMjI5OSwtMTk0NDMwNzMz
-OSwtNzExNDQ5MzU2XX0=
+eyJoaXN0b3J5IjpbLTMzOTY4MzAxNSwtMTM2MzUyMjI2Myw5OT
+Q4NjcxNjIsMzY2OTM1NDUyLDMxNjcxMTk1OCwtMTI0NzM2Nzc0
+MCw2MTI3MTY0MjksLTEzOTA0NjMxNSwtNzA3OTg3ODY3LC0xMz
+YwOTM4Nzc5LC0xMjM4NzI2MzQ1LC0xNDE2MTgyMTQyLDEzOTQ5
+MDE5NTAsNTg3Mzk2MDI5LC0xNDQ5NTI0OTc5LC0xNTE0MjQ0MD
+A4LC0xODk5NDExOTgxLC0xMjU0MjEyMjk5LC0xOTQ0MzA3MzM5
+LC03MTE0NDkzNTZdfQ==
 -->
