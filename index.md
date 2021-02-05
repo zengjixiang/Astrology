@@ -1494,22 +1494,20 @@ _雙魚座：2月19日-3月20日_
 
 ★第六宮象徵：
 
-●第六宮，表示你的工作，健康與習慣。它顯示了下屬和奴僕的狀況。亦顯示了你為他人提供的服務，衣著及飲食健康。這宮亦代表了表叔伯等旁系長輩，以及心智中的無意識部份。
-
+>-第六宮，表示你的工作，健康與習慣。它顯示了下屬和奴僕的狀況。亦顯示了你為他人提供的服務，衣著及飲食健康。這宮亦代表了表叔伯等旁系長輩，以及心智中的無意識部份。
 
 第七宮--[夫妻宮]
-
-●一個人不可能獨居於世，他必須與人合作。第七宮也就是所謂的夫妻宮，和一個人對「一對一關係」的態度也就是人際關係有關，代表一個人的婚姻生活及合作關係。第七宮象徵著一個人與別人相處的態度，代表合作對象或是我們的對手。在我們自己努力的過程中，慢慢地我們會藉重他人的力量來幫我們完成某件事，因此我們會與他人合作，而合作關係通常具有法律的效力，例如會與他人簽訂合同或契約，而這些就是第七宮所代表的事情。而婚姻生活亦是被看待成與配偶建立合作關係 (也具有法律的效力)來共度人生的過程，所以第七宮代表了婚姻關係的宮位。
-
-●另一方面來說，本宮和第一宮有對宮的關係，所以當有太多星在第七宮時，會太在意別人的想法而缺乏主見，如果有不好的星在本宮，也可能有在婚姻方面有較大的困難。
+> 一個人不可能獨居於世，他必須與人合作。第七宮也就是所謂的夫妻宮，和一個人對「一對一關係」的態度也就是人際關係有關，代表一個人的婚姻生活及合作關係。第七宮象徵著一個人與別人相處的態度，代表合作對象或是我們的對手。在我們自己努力的過程中，慢慢地我們會藉重他人的力量來幫我們完成某件事，因此我們會與他人合作，而合作關係通常具有法律的效力，例如會與他人簽訂合同或契約，而這些就是第七宮所代表的事情。而婚姻生活亦是被看待成與配偶建立合作關係 (也具有法律的效力)來共度人生的過程，所以第七宮代表了婚姻關係的宮位。
+> 
+> 另一方面來說，本宮和第一宮有對宮的關係，所以當有太多星在第七宮時，會太在意別人的想法而缺乏主見，如果有不好的星在本宮，也可能有在婚姻方面有較大的困難。
 
 ★第七宮小檔案
 
-●宮位意義：婚姻、合夥人、股東、人與人間的關係、密友、公開的敵人、合約、吵架、口角、法律、訴訟。
-●相關星座：天秤座
-●宮位主星：金星
-●後天三分：主動宮位
-●後天四分：關係之宮
+>- 宮位意義：婚姻、合夥人、股東、人與人間的關係、密友、公開的敵人、合約、吵架、口角、法律、訴訟。
+>- 相關星座：天秤座
+>- 宮位主星：金星
+>- 後天三分：主動宮位
+>- 後天四分：關係之宮
 
 ★第七宮象徵：
 > 第七宮，代表貿易，配偶，婚姻，離婚，合約，法律，訴訟，交易，協議，股東，合夥人及一切與大眾有關的往來及大眾的反應。它代表你的敵人及你最缺乏的部分。它亦代表了你對婚姻的態度及婚姻的狀況。同時它也表示你的祖父母以外任何贊助或替代你的人。
@@ -1666,11 +1664,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzE4MzcyODIsOTk0ODY3MTYyLDM2Nj
-kzNTQ1MiwzMTY3MTE5NTgsLTEyNDczNjc3NDAsNjEyNzE2NDI5
-LC0xMzkwNDYzMTUsLTcwNzk4Nzg2NywtMTM2MDkzODc3OSwtMT
-IzODcyNjM0NSwtMTQxNjE4MjE0MiwxMzk0OTAxOTUwLDU4NzM5
-NjAyOSwtMTQ0OTUyNDk3OSwtMTUxNDI0NDAwOCwtMTg5OTQxMT
-k4MSwtMTI1NDIxMjI5OSwtMTk0NDMwNzMzOSwtNzExNDQ5MzU2
-LDE5ODg3NDY3NjldfQ==
+eyJoaXN0b3J5IjpbMTQ3ODkyNzQzOCw5OTQ4NjcxNjIsMzY2OT
+M1NDUyLDMxNjcxMTk1OCwtMTI0NzM2Nzc0MCw2MTI3MTY0Mjks
+LTEzOTA0NjMxNSwtNzA3OTg3ODY3LC0xMzYwOTM4Nzc5LC0xMj
+M4NzI2MzQ1LC0xNDE2MTgyMTQyLDEzOTQ5MDE5NTAsNTg3Mzk2
+MDI5LC0xNDQ5NTI0OTc5LC0xNTE0MjQ0MDA4LC0xODk5NDExOT
+gxLC0xMjU0MjEyMjk5LC0xOTQ0MzA3MzM5LC03MTE0NDkzNTYs
+MTk4ODc0Njc2OV19
 -->
