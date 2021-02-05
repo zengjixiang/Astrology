@@ -1402,6 +1402,7 @@ _雙魚座：2月19日-3月20日_
 >- 宮位主星：海王星
 >- 後天三分：變動宮位
 >- 後天四分：結束之宮
+>- 關鍵字：慈善、修行、逃避、隱居、詐欺、隱密（敵人、交易、戀情、謀殺、自殺）、潛意識
 
 ★第十二宮象徵：
 > 第十二宮，代表你的潛能或弱點；也代表悲傷，痛苦，限制，祕密，隱居，挫折，幕後工作；也代表禁制，放逐，隱藏敵人，危機和自我的毀滅；也表示出背景，主觀信念，內在意識形態，下意識，心靈上的收獲；亦同時代表同情心，慈善服務，公眾福利。在這領域中，我們會試圖掩飾痛苦或困難的事情。
@@ -1453,11 +1454,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDMwMzMxLC04NjY0MTY3ODEsLTE2NT
-M0MTc3MjcsMTAwODg3MDA5NywxOTY5MDc0OTA1LDE4MTQ1OTMw
-NTcsMTgwNDMzOTc0OCw5OTQ4NjcxNjIsMzY2OTM1NDUyLDMxNj
-cxMTk1OCwtMTI0NzM2Nzc0MCw2MTI3MTY0MjksLTEzOTA0NjMx
-NSwtNzA3OTg3ODY3LC0xMzYwOTM4Nzc5LC0xMjM4NzI2MzQ1LC
-0xNDE2MTgyMTQyLDEzOTQ5MDE5NTAsNTg3Mzk2MDI5LC0xNDQ5
-NTI0OTc5XX0=
+eyJoaXN0b3J5IjpbMTAwMDc2NjkwOSwxODY0MzAzMzEsLTg2Nj
+QxNjc4MSwtMTY1MzQxNzcyNywxMDA4ODcwMDk3LDE5NjkwNzQ5
+MDUsMTgxNDU5MzA1NywxODA0MzM5NzQ4LDk5NDg2NzE2MiwzNj
+Y5MzU0NTIsMzE2NzExOTU4LC0xMjQ3MzY3NzQwLDYxMjcxNjQy
+OSwtMTM5MDQ2MzE1LC03MDc5ODc4NjcsLTEzNjA5Mzg3NzksLT
+EyMzg3MjYzNDUsLTE0MTYxODIxNDIsMTM5NDkwMTk1MCw1ODcz
+OTYwMjldfQ==
 -->
