@@ -1427,7 +1427,7 @@ _雙魚座：2月19日-3月20日_
 
 第四宮--[家庭宮]
 
-●接觸了外在，因此必須為自我劃定範圍，與別人分別，保護自我的安全。第四宮也就是所謂的田宅宮，與家庭有關，代表著一個人的居家生活及生活習慣。第四宮象徵著一個人的領域。孩提時的家庭生活對一個人來說，是個遮蔽風雨休憩的場所，它保護我們，滿足我們的安全需求，代表從小父母給我們的呵護，所以一個人的家庭觀，和父、母的關係和在家中的表現都是和本宮有關，第四宮代表男生的父親、女生的母親。此外，第四宮代表基礎及根本，是一種「代」的關係，同時也和家族有關，延伸後代表一個人的家國觀念。
+●接觸了外在，因此必須為自我劃定範圍，與別人分別，保護自我的安全。第四宮也就是所謂的田宅宮，與家庭有關，代表著一個人的居家生活及生活習慣。第四宮象徵著一個人的領域。孩提時的家庭生活對一個人來說，是個遮蔽風雨休憩的場所，它保護我們，滿足我們的安全需求，代表從小父母給我們的呵護，所以一個人的家庭觀，和父、母的關係和在家中的表現都是和本宮有關，第四宮代表男生的父親、女生的母親。此外，第四宮代表基礎及根本，是一種「代」的關係，同時也和家族有關，延伸後代表一個人的國家觀念。
 
 ●當有星星落入本宮，可以看出他在家庭中的表現，如果是不好的星，可能在家中會格外的壞脾氣。
 
@@ -1687,11 +1687,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzk4Nzg2NywtMTM2MDkzODc3OSwtMT
-IzODcyNjM0NSwtMTQxNjE4MjE0MiwxMzk0OTAxOTUwLDU4NzM5
-NjAyOSwtMTQ0OTUyNDk3OSwtMTUxNDI0NDAwOCwtMTg5OTQxMT
-k4MSwtMTI1NDIxMjI5OSwtMTk0NDMwNzMzOSwtNzExNDQ5MzU2
-LDE5ODg3NDY3NjksMjExMTY3NzYzOSw1MzkxNTg3MTcsMTkyMz
-k2NzM1MCwtMzU3OTAzMzYxLDgyNzIxNzgzLDI4NzI2MzMwMCw2
-MjM0NzUyMzBdfQ==
+eyJoaXN0b3J5IjpbOTQ3NDYwMjcxLC03MDc5ODc4NjcsLTEzNj
+A5Mzg3NzksLTEyMzg3MjYzNDUsLTE0MTYxODIxNDIsMTM5NDkw
+MTk1MCw1ODczOTYwMjksLTE0NDk1MjQ5NzksLTE1MTQyNDQwMD
+gsLTE4OTk0MTE5ODEsLTEyNTQyMTIyOTksLTE5NDQzMDczMzks
+LTcxMTQ0OTM1NiwxOTg4NzQ2NzY5LDIxMTE2Nzc2MzksNTM5MT
+U4NzE3LDE5MjM5NjczNTAsLTM1NzkwMzM2MSw4MjcyMTc4Mywy
+ODcyNjMzMDBdfQ==
 -->
