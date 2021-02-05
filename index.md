@@ -1599,24 +1599,19 @@ _雙魚座：2月19日-3月20日_
 ●第十一宮象徵著一個人的理想，他跟現有環境的改變有關。第十一宮代表創新及獨立也象徵外太空，因此代表未知的未來。另外網路也跟第十一宮有關。同時，十一宮代表分工，每個人在大機器下如何發揮屬於他個人的能力。如果本宮有太多星，可能會有太重視朋友而忽視身旁的人的傾向，如果本宮有不好的星落入或是宮中的星受剋嚴重，則可能對團體不滿或有疏離感。
 
 ★第十一宮小檔案
-
-●宮位意義：朋友、社會觀、志同道合、社團、讀書會、願望、理想、社會意識、未來有關的、俱樂部、政黨、別人的小孩
-●相關星座：水瓶座
-●宮位主星：天王星
-●後天三分：固定宮位
-●後天四分：關係之宮
+> 宮位意義：朋友、社會觀、志同道合、社團、讀書會、願望、理想、社會意識、未來有關的、俱樂部、政黨、別人的小孩
+>- 相關星座：水瓶座
+>- 宮位主星：天王星
+>- 後天三分：固定宮位
+>- 後天四分：關係之宮
 
 ★第十一宮象徵：
-
-●第十一宮，代表交際，不同種類的人際關係；也代表你的理想，渴望得到的事物和工作上的酬勞。此宮亦代表了繼父母，養子及在你控制範圍外的環境。從此宮可看出你的交際手法和處事方式。
+> 第十一宮，代表交際，不同種類的人際關係；也代表你的理想，渴望得到的事物和工作上的酬勞。此宮亦代表了繼父母，養子及在你控制範圍外的環境。從此宮可看出你的交際手法和處事方式。
 
 ★第十一宮與星座：
-
-●第十一宮與個人交際有關。因此朋友、同好、社團要看此宮，另外，他也跟一個人的興趣、集體的願望有關。從第十一宮上的星座可看出一個人如何如何與他人分工合作。
-
+> 第十一宮與個人交際有關。因此朋友、同好、社團要看此宮，另外，他也跟一個人的興趣、集體的願望有關。從第十一宮上的星座可看出一個人如何如何與他人分工合作。
 
 第十二宮--[秘密宮]
-
 > 最後個人超越意識，進入內在的層次。第十二宮也就是所謂的秘密宮，他代表大海，象徵著夢的世界，與內心及潛意識有關，代表一個人潛在的煩惱及最擔心的事情。第十二宮象徵著一個人退休及休息，當我們離開社會舞台後，開始面對自我的內心深處，這時我們重視的是心理的層面，很容易投身於宗教中，希望從其中參透超現實的意識，因此第十二宮是一個人引發同情心以感受力之宮位和一個人無私的愛及犧牲有關，第十二宮可看出一個人是否有愛心。所代表的是慈善事業。
 
 > 從另一個角度來看，第十二宮所呈現的是一種逃避現實的心態，也代表一個人潛在的敵人及隱藏看不到的問題。如果有太多星在本宮，一個人可能過度的隱藏或逃避，還可能太容易同情別人而吃虧。
@@ -1689,11 +1684,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc4NDI5ODgsLTEyNDczNjc3NDAsNj
-EyNzE2NDI5LC0xMzkwNDYzMTUsLTcwNzk4Nzg2NywtMTM2MDkz
-ODc3OSwtMTIzODcyNjM0NSwtMTQxNjE4MjE0MiwxMzk0OTAxOT
-UwLDU4NzM5NjAyOSwtMTQ0OTUyNDk3OSwtMTUxNDI0NDAwOCwt
-MTg5OTQxMTk4MSwtMTI1NDIxMjI5OSwtMTk0NDMwNzMzOSwtNz
-ExNDQ5MzU2LDE5ODg3NDY3NjksMjExMTY3NzYzOSw1MzkxNTg3
-MTcsMTkyMzk2NzM1MF19
+eyJoaXN0b3J5IjpbMjc3MTk1NjU3LC0xMjQ3MzY3NzQwLDYxMj
+cxNjQyOSwtMTM5MDQ2MzE1LC03MDc5ODc4NjcsLTEzNjA5Mzg3
+NzksLTEyMzg3MjYzNDUsLTE0MTYxODIxNDIsMTM5NDkwMTk1MC
+w1ODczOTYwMjksLTE0NDk1MjQ5NzksLTE1MTQyNDQwMDgsLTE4
+OTk0MTE5ODEsLTEyNTQyMTIyOTksLTE5NDQzMDczMzksLTcxMT
+Q0OTM1NiwxOTg4NzQ2NzY5LDIxMTE2Nzc2MzksNTM5MTU4NzE3
+LDE5MjM5NjczNTBdfQ==
 -->
