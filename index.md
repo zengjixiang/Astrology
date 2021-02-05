@@ -1624,7 +1624,7 @@ _雙魚座：2月19日-3月20日_
 
 ★第十二宮小檔案
 >宮位意義：限制、隱藏的敵人、坐禪、幕後工作、內在的自我、人生的歸結、不收錢的服務。
-相關星座：雙魚座
+相關-星座：雙魚座
 ●宮位主星：海王星
 ●後天三分：變動宮位
 ●後天四分：結束之宮
@@ -1689,11 +1689,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxNTcwNDg3LDYxMjcxNjQyOSwtMTM5MD
-Q2MzE1LC03MDc5ODc4NjcsLTEzNjA5Mzg3NzksLTEyMzg3MjYz
-NDUsLTE0MTYxODIxNDIsMTM5NDkwMTk1MCw1ODczOTYwMjksLT
-E0NDk1MjQ5NzksLTE1MTQyNDQwMDgsLTE4OTk0MTE5ODEsLTEy
-NTQyMTIyOTksLTE5NDQzMDczMzksLTcxMTQ0OTM1NiwxOTg4Nz
-Q2NzY5LDIxMTE2Nzc2MzksNTM5MTU4NzE3LDE5MjM5NjczNTAs
-LTM1NzkwMzM2MV19
+eyJoaXN0b3J5IjpbLTEyNDczNjc3NDAsNjMxNTcwNDg3LDYxMj
+cxNjQyOSwtMTM5MDQ2MzE1LC03MDc5ODc4NjcsLTEzNjA5Mzg3
+NzksLTEyMzg3MjYzNDUsLTE0MTYxODIxNDIsMTM5NDkwMTk1MC
+w1ODczOTYwMjksLTE0NDk1MjQ5NzksLTE1MTQyNDQwMDgsLTE4
+OTk0MTE5ODEsLTEyNTQyMTIyOTksLTE5NDQzMDczMzksLTcxMT
+Q0OTM1NiwxOTg4NzQ2NzY5LDIxMTE2Nzc2MzksNTM5MTU4NzE3
+LDE5MjM5NjczNTBdfQ==
 -->
