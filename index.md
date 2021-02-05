@@ -1218,6 +1218,7 @@ _雙魚座：2月19日-3月20日_
 >- 宮位主星：金星
 >- 後天三分：固定宮位
 >- 後天四分：物質之宮
+>
 
 ★第二宮象徵：
 > 第二宮，代表經濟狀況，財產﹝不動產除外﹞，投資、賺錢及處理錢財的能力。它表示你的內在天賦與智能，你的現實需要，自我價值和價值觀。它亦是個代表自由的『後天宮』。
@@ -1462,7 +1463,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTU3ODE3LDIwOTk4MDUzMjQsMTg2ND
+eyJoaXN0b3J5IjpbLTQ2ODAxMzg2OSwtMTg1NTc4MTcsMTg2ND
 MwMzMxLC04NjY0MTY3ODEsLTE2NTM0MTc3MjcsMTAwODg3MDA5
 NywxOTY5MDc0OTA1LDE4MTQ1OTMwNTcsMTgwNDMzOTc0OCw5OT
 Q4NjcxNjIsMzY2OTM1NDUyLDMxNjcxMTk1OCwtMTI0NzM2Nzc0
