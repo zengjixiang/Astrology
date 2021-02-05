@@ -1456,21 +1456,19 @@ _雙魚座：2月19日-3月20日_
 
 第五宮--[子女宮]
 
-●有了領域，便可以開始尋求自我的快樂。第五宮也就是所謂的子女宮，與嘗試和表現有關，和一個人純粹的快樂有關，所以舉凡戀愛、賭博、浪漫、玩樂……等等都和本宮有關，也代表著一個人的休閒生活及創造力。第五宮與一個人嘗試錯誤的過程有關。在人生舞台中，在我們不斷地嘗試錯誤的過程中追求樂趣、表現自己。因此第五宮也滿足了我們的被尊重的需求。
+有了領域，便可以開始尋求自我的快樂。第五宮也就是所謂的子女宮，與嘗試和表現有關，和一個人純粹的快樂有關，所以舉凡戀愛、賭博、浪漫、玩樂……等等都和本宮有關，也代表著一個人的休閒生活及創造力。第五宮與一個人嘗試錯誤的過程有關。在人生舞台中，在我們不斷地嘗試錯誤的過程中追求樂趣、表現自己。因此第五宮也滿足了我們的被尊重的需求。
 
-●第五宮代表創造力，因此也代表子女的宮位，和一個人生的孩子有關，所以如果有星落入本宮，可以看出他對戀愛的態度，也能推測他對小孩的看法，當然，如果有不好的星星落入本宮，可能會在戀愛方面有比較大的困難。
+> 第五宮代表創造力，因此也代表子女的宮位，和一個人生的孩子有關，所以如果有星落入本宮，可以看出他對戀愛的態度，也能推測他對小孩的看法，當然，如果有不好的星星落入本宮，可能會在戀愛方面有比較大的困難。
 
 ★第五宮小檔案
-●宮位意義：創造力、表現力、娛樂、愛情、藝術、休閒活動、禮物、偏財運、賭博、宴會。
-●相關星座：獅子座
-●宮位主星：太陽
-●後天三分：固定宮位
-●後天四分：生命之宮
+>- 宮位意義：創造力、表現力、娛樂、愛情、藝術、休閒活動、禮物、偏財運、賭博、宴會。
+>- 相關星座：獅子座
+>- 宮位主星：太陽
+>- 後天三分：固定宮位
+>- 後天四分：生命之宮
 
 ★第五宮象徵：
-
-●第五宮，表示子女，愛情，羅曼史，娛樂，假期，遊戲，賭注，嗜好與副業。它代表你的創造力和藝術的才華。它亦表示了情感的表達方式。它還代表出頭，政治，純藝術，社交，懷孕及子女的教育。
-
+> 第五宮，表示子女，愛情，羅曼史，娛樂，假期，遊戲，賭注，嗜好與副業。它代表你的創造力和藝術的才華。它亦表示了情感的表達方式。它還代表出頭，政治，純藝術，社交，懷孕及子女的教育。
 
 ★第五宮與星座：
 > 第五宮與創造快樂有關。因此跟戀愛、遊戲、玩樂以及子女的事物都要看此宮，另外，一個人的賭運、創意、休閒娛樂也要看這宮。
@@ -1659,11 +1657,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzg4NzU0NTgsLTgzODY5MTY5NSw5OT
-Q4NjcxNjIsMzY2OTM1NDUyLDMxNjcxMTk1OCwtMTI0NzM2Nzc0
-MCw2MTI3MTY0MjksLTEzOTA0NjMxNSwtNzA3OTg3ODY3LC0xMz
-YwOTM4Nzc5LC0xMjM4NzI2MzQ1LC0xNDE2MTgyMTQyLDEzOTQ5
-MDE5NTAsNTg3Mzk2MDI5LC0xNDQ5NTI0OTc5LC0xNTE0MjQ0MD
-A4LC0xODk5NDExOTgxLC0xMjU0MjEyMjk5LC0xOTQ0MzA3MzM5
-LC03MTE0NDkzNTZdfQ==
+eyJoaXN0b3J5IjpbLTEzNjM1MjIyNjMsLTE4Mzg4NzU0NTgsOT
+k0ODY3MTYyLDM2NjkzNTQ1MiwzMTY3MTE5NTgsLTEyNDczNjc3
+NDAsNjEyNzE2NDI5LC0xMzkwNDYzMTUsLTcwNzk4Nzg2NywtMT
+M2MDkzODc3OSwtMTIzODcyNjM0NSwtMTQxNjE4MjE0MiwxMzk0
+OTAxOTUwLDU4NzM5NjAyOSwtMTQ0OTUyNDk3OSwtMTUxNDI0ND
+AwOCwtMTg5OTQxMTk4MSwtMTI1NDIxMjI5OSwtMTk0NDMwNzMz
+OSwtNzExNDQ5MzU2XX0=
 -->
