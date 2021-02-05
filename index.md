@@ -1473,8 +1473,7 @@ _雙魚座：2月19日-3月20日_
 
 
 ★第五宮與星座：
-
-●第五宮與創造快樂有關。因此跟戀愛、遊戲、玩樂以及子女的事物都要看此宮，另外，一個人的賭運、創意、休閒娛樂也要看這宮。
+> 第五宮與創造快樂有關。因此跟戀愛、遊戲、玩樂以及子女的事物都要看此宮，另外，一個人的賭運、創意、休閒娛樂也要看這宮。
 從一個人第五宮上的星座可以看出一個人是以什麼樣的方式追求快樂。
 
 第六宮--[健康宮]
@@ -1660,7 +1659,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODY5MTY5NSwtMTg1MTQ4NDg2Miw5OT
+eyJoaXN0b3J5IjpbLTE4Mzg4NzU0NTgsLTgzODY5MTY5NSw5OT
 Q4NjcxNjIsMzY2OTM1NDUyLDMxNjcxMTk1OCwtMTI0NzM2Nzc0
 MCw2MTI3MTY0MjksLTEzOTA0NjMxNSwtNzA3OTg3ODY3LC0xMz
 YwOTM4Nzc5LC0xMjM4NzI2MzQ1LC0xNDE2MTgyMTQyLDEzOTQ5
