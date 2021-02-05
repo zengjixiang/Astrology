@@ -398,6 +398,7 @@ _雙魚座：2月19日-3月20日_
 > 您出生時所配戴的面具是「官僚」。您給人的印象決不是闊氣或有顯著的才能，但卻具有冷靜的判斷力及堅忍不拔的特性。生輕時雖不見得是如此，但隨著年齡的增長，敦厚高尚的品格就會顯現出來。屬於此上昇星座的人體型苗條、骨骼發達。乍見之下，弱不禁風，但潛藏著耐力，也擁有能經得起長期痛苦的體力。您往往被現實或社會的規則所束縛。當您懷著極大夢想時，您的面具就會違背您真正的意志，而說道：「這件事當然辦不到，需要找對門路，也必須花筆錢。」於是您被這句話所約束，而放棄了夢想。您的面具生活在社會上極其方便，但必須注意，不要被面具所束縛，而遺忘了您多年的夢想。★屬於此上昇星座的著名人士馬基雅弗利、達爾文、羅丹、米開朗基羅、達文西等。這幾位都很會忍耐。  
   
 **上昇水瓶座**
+>
 您出生時所配戴的面具是「發明家」。您的面具很難忍受「與人相同」這件事。一立以蔽之，您非常有個性而且智慧高。給人的印象是獨特、有點古怪、不太會感情用事、看起來很冷漠。五官端正、鵝蛋臉、額頭很高、中等身材、脾氣古怪，極端時，看起來就像是個機器人。但是，如果您將這個面具與自已本身視為一體的話，就會有點麻煩。您不想和別人一樣，因此，往往會熱衷於古怪的思想和作風，或被新奇事物強烈的吸引。然而，那是相當辛苦的事。您的確與別人不一樣，但共通的地方也很多。如果您斷然的摘下面具，應當會有很多人能瞭解您的本意。★屬於此上昇星座的著名人士湯瑪斯．傑佛遜、卡爾．馬克思、容格、羅貝斯．皮耶魯等。這幾位人士具有獨特而嶄新的思想，富有革命的氣息。  
   
 **上昇雙魚座的人**
@@ -1481,11 +1482,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTA1OTIxNSwxOTY5MDc0OTA1LDE4MT
-Q1OTMwNTcsMTgwNDMzOTc0OCw5OTQ4NjcxNjIsMzY2OTM1NDUy
-LDMxNjcxMTk1OCwtMTI0NzM2Nzc0MCw2MTI3MTY0MjksLTEzOT
-A0NjMxNSwtNzA3OTg3ODY3LC0xMzYwOTM4Nzc5LC0xMjM4NzI2
-MzQ1LC0xNDE2MTgyMTQyLDEzOTQ5MDE5NTAsNTg3Mzk2MDI5LC
-0xNDQ5NTI0OTc5LC0xNTE0MjQ0MDA4LC0xODk5NDExOTgxLC0x
-MjU0MjEyMjk5XX0=
+eyJoaXN0b3J5IjpbOTYzODA5ODIzLDE0NTUwNTkyMTUsMTk2OT
+A3NDkwNSwxODE0NTkzMDU3LDE4MDQzMzk3NDgsOTk0ODY3MTYy
+LDM2NjkzNTQ1MiwzMTY3MTE5NTgsLTEyNDczNjc3NDAsNjEyNz
+E2NDI5LC0xMzkwNDYzMTUsLTcwNzk4Nzg2NywtMTM2MDkzODc3
+OSwtMTIzODcyNjM0NSwtMTQxNjE4MjE0MiwxMzk0OTAxOTUwLD
+U4NzM5NjAyOSwtMTQ0OTUyNDk3OSwtMTUxNDI0NDAwOCwtMTg5
+OTQxMTk4MV19
 -->
