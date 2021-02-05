@@ -431,8 +431,8 @@ _雙魚座：2月19日-3月20日_
 **太陽在水瓶座**
 > 個性獨立而執著。經常有一些激進、革新式的見地，屬於新時代的人物，有豐富的同胞愛和民主意識，能夠打破社會階級和人種的差異，培育真正的友情。對於一些既成的觀念，為了忠於自的信念，會激動地試圖抵抗。這種類型的人，經常見於為了達成共同目的面結朋組黨，發起運動的人。  
   
-**太陽在雙魚座** > 
-才華洋溢，喜歡幻想。依賴心強，能適應不同的環境和立場。有豐富的創造能力和藝術才華，沉溺於詩般的情節和夢想，認為真正的幸福是身靈合的世界。選擇遠離俗世的生活，在物質上不會有太大的成就。富於同情，有犧牲自我的精神，尤其同情社會上的弱者和不幸的人。  
+**太陽在雙魚座**
+> 才華洋溢，喜歡幻想。依賴心強，能適應不同的環境和立場。有豐富的創造能力和藝術才華，沉溺於詩般的情節和夢想，認為真正的幸福是身靈合的世界。選擇遠離俗世的生活，在物質上不會有太大的成就。富於同情，有犧牲自我的精神，尤其同情社會上的弱者和不幸的人。  
   
 ### **太陽星座的黑暗面**  
   
@@ -1456,11 +1456,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzc1NzMxLC0yNDYzMzI5MDksLTE2NT
-M0MTc3MjcsMTAwODg3MDA5NywxOTY5MDc0OTA1LDE4MTQ1OTMw
-NTcsMTgwNDMzOTc0OCw5OTQ4NjcxNjIsMzY2OTM1NDUyLDMxNj
-cxMTk1OCwtMTI0NzM2Nzc0MCw2MTI3MTY0MjksLTEzOTA0NjMx
-NSwtNzA3OTg3ODY3LC0xMzYwOTM4Nzc5LC0xMjM4NzI2MzQ1LC
-0xNDE2MTgyMTQyLDEzOTQ5MDE5NTAsNTg3Mzk2MDI5LC0xNDQ5
-NTI0OTc5XX0=
+eyJoaXN0b3J5IjpbMjk0NjM0NzI1LC01MTM3NTczMSwtMTY1Mz
+QxNzcyNywxMDA4ODcwMDk3LDE5NjkwNzQ5MDUsMTgxNDU5MzA1
+NywxODA0MzM5NzQ4LDk5NDg2NzE2MiwzNjY5MzU0NTIsMzE2Nz
+ExOTU4LC0xMjQ3MzY3NzQwLDYxMjcxNjQyOSwtMTM5MDQ2MzE1
+LC03MDc5ODc4NjcsLTEzNjA5Mzg3NzksLTEyMzg3MjYzNDUsLT
+E0MTYxODIxNDIsMTM5NDkwMTk1MCw1ODczOTYwMjksLTE0NDk1
+MjQ5NzldfQ==
 -->
