@@ -1406,9 +1406,8 @@ _雙魚座：2月19日-3月20日_
 
 ●第二宮跟個人的金錢有關，代表一個人實質上的擁有與價值觀。所以有關利益、財產、資金、收入等都可以由第二宮來判斷。由第二宮所屬的星座可以看出一個人對價值的處理以何種方式表現出來。
 
-
 第三宮--[兄弟宮]
->有了我的基礎，便開始了對外的接觸。第三宮也就是所謂的兄弟宮，與溝通和學習有關，代表著一個人的思考方式、與人的溝通方式、運用語言和文字的能力。第三宮象徵著與外界互通有無，也就是我們開始和別人接觸時所表現的個性，因此第三宮說明著我們小時候與周遭人物互動的關係，例如兄弟姐妹、小學同學及小時候的玩伴，同時也代表了交通，但第三宮是指近距離的交通。
+> 有了我的基礎，便開始了對外的接觸。第三宮也就是所謂的兄弟宮，與溝通和學習有關，代表著一個人的思考方式、與人的溝通方式、運用語言和文字的能力。第三宮象徵著與外界互通有無，也就是我們開始和別人接觸時所表現的個性，因此第三宮說明著我們小時候與周遭人物互動的關係，例如兄弟姐妹、小學同學及小時候的玩伴，同時也代表了交通，但第三宮是指近距離的交通。
 >
 >此外，第三宮代表吸收外界的訊息並且與別人交流，代表常識性知識的學習，同時也是口耳相傳的傳播方式。另外，一個人早年（大學之前）的學習也是本宮的範圍；所以如果有不好的星落入，則可能會有與人溝通不良的情況發生。
 
@@ -1645,7 +1644,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTA2NzY2NywxODkzNDY4MjU3LDk5ND
+eyJoaXN0b3J5IjpbMTU5MDI1NDA2MywxOTI5MDY3NjY3LDk5ND
 g2NzE2MiwzNjY5MzU0NTIsMzE2NzExOTU4LC0xMjQ3MzY3NzQw
 LDYxMjcxNjQyOSwtMTM5MDQ2MzE1LC03MDc5ODc4NjcsLTEzNj
 A5Mzg3NzksLTEyMzg3MjYzNDUsLTE0MTYxODIxNDIsMTM5NDkw
