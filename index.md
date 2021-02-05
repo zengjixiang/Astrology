@@ -587,11 +587,11 @@ _雙魚座：2月19日-3月20日_
 > 說話文雅、態度謙和，具魅力。多才多藝，人品溫和、高尚，不過有時亦會陷入迷惑中，而顯得優柔寡斷。對美術、外交、股票、社交、裁判發生興趣。  
   
 **水星在天蠍座：**  
-
 > 脾氣剛強，觸感敏銳。富研究精神，稍顯乖僻，常沉默不語，可是，具備敏銳的洞察能力。對神秘、死、偵探、精神分析、金融發生興趣。  
   
 **水星在射手座：**  
-性急，但求知慾旺盛。喜歡旅行和學習外國語言。對出版、國外旅行、外國語文、法律學、宗教發生興趣。
+
+> 性急，但求知慾旺盛。喜歡旅行和學習外國語言。對出版、國外旅行、外國語文、法律學、宗教發生興趣。
   
 **水星在摩羯座：**  
 不和悅，意志力薄弱，但是，胸懷踏實，忍耐力強。常常將目標集中於實際利益方面。對化學、宗教、政治、命運發生興趣。  
@@ -1454,7 +1454,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE2MjU1MTUsMTk2OTQxOTQzMiwtMT
+eyJoaXN0b3J5IjpbLTg2NjQxNjc4MSwtMTY4MTYyNTUxNSwtMT
 Y1MzQxNzcyNywxMDA4ODcwMDk3LDE5NjkwNzQ5MDUsMTgxNDU5
 MzA1NywxODA0MzM5NzQ4LDk5NDg2NzE2MiwzNjY5MzU0NTIsMz
 E2NzExOTU4LC0xMjQ3MzY3NzQwLDYxMjcxNjQyOSwtMTM5MDQ2
