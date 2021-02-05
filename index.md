@@ -385,15 +385,16 @@ _雙魚座：2月19日-3月20日_
 **★太陽：你的個性**
 
 > 太陽是太陽系中心，是光和熱的泉源，是地球上所有生物不可或缺的元素。因此在占星學中，太陽代表著生命力及創造力、活力及權勢。本命盤中太陽所在的位置，代表一個人的外在表現及重視的地方。此外，太陽光四射使得太陽的外在顯得比實際來得大，因此太陽代表著外在表像，誇大的表現。這是一般人最常掛在嘴邊討論的星座話題。的確，在占星學上太陽的配置，最具權威性；它能告訴你有關你的個性與人生。在神話故事中，它是太陽神，代表著創造、熱情、光明、慷慨。  
+
+> 基本上若太陽強烈地影響你個人的星點陣圖時，你會顯得特別地勇敢、積極，擁有自信能力，不畏艱難，往往能在同儕中成為領導者。太陽星座表示一個人的形象，或是給別人的印象。太陽星座也影響個人的意識，動態活動或自我表達的方式。太陽的位置在個人出生圖的位置好的話，其正面特徵為：自信，活力，活潑的氣質就會表達出來，通常這樣的人身體都很正常且健壯。太陽掌管人類的視力、背部、動脈、和心臟。若你的右眼視力特別好，通常太陽位置配合得很好。
+>   
+
+> 太陽是陽性的代表，所以女性的星座圖中太陽的位置告訴我們她一生中和她相關男性的資料；如她的父親、男朋友及丈夫等。如果相位良好，代表前述關係人是向心的，對她是有助益的。  
   
-●基本上若太陽強烈地影響你個人的星點陣圖時，你會顯得特別地勇敢、積極，擁有自信能力，不畏艱難，往往能在同儕中成為領導者。太陽星座表示一個人的形象，或是給別人的印象。太陽星座也影響個人的意識，動態活動或自我表達的方式。太陽的位置在個人出生圖的位置好的話，其正面特徵為：自信，活力，活潑的氣質就會表達出來，通常這樣的人身體都很正常且健壯。太陽掌管人類的視力、背部、動脈、和心臟。若你的右眼視力特別好，通常太陽位置配合得很好。　  
-  
-●太陽是陽性的代表，所以女性的星座圖中太陽的位置告訴我們她一生中和她相關男性的資料；如她的父親、男朋友及丈夫等。如果相位良好，代表前述關係人是向心的，對她是有助益的。  
-​　  
-●對男性而言，若相位配合良好則表示他常獲有權威性的地位，四周的男性對他是產生助益的，且通常受人仰慕；在他的一生中極有希望成功，並修補個人星座圖中的缺憾。  
+> 對男性而言，若相位配合良好則表示他常獲有權威性的地位，四周的男性對他是產生助益的，且通常受人仰慕；在他的一生中極有希望成功，並修補個人星座圖中的缺憾。  
   
 **★太陽與星座：**  
-●太陽所屬的星座代表一個人表現自我的個性與意志時是以什麽樣的形式來呈現，一個人如何運用他的基本潛能。可以看出他是一個什麽樣個性的人。他們如何與重要的男性相處，及受到他們什麽樣的影響。  
+> 太陽所屬的星座代表一個人表現自我的個性與意志時是以什麽樣的形式來呈現，一個人如何運用他的基本潛能。可以看出他是一個什麽樣個性的人。他們如何與重要的男性相處，及受到他們什麽樣的影響。  
   
 
 **太陽與十二星座**  
@@ -1456,11 +1457,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTcyMjkzNDAsLTE2NTM0MTc3MjcsMT
-AwODg3MDA5NywxOTY5MDc0OTA1LDE4MTQ1OTMwNTcsMTgwNDMz
-OTc0OCw5OTQ4NjcxNjIsMzY2OTM1NDUyLDMxNjcxMTk1OCwtMT
-I0NzM2Nzc0MCw2MTI3MTY0MjksLTEzOTA0NjMxNSwtNzA3OTg3
-ODY3LC0xMzYwOTM4Nzc5LC0xMjM4NzI2MzQ1LC0xNDE2MTgyMT
-QyLDEzOTQ5MDE5NTAsNTg3Mzk2MDI5LC0xNDQ5NTI0OTc5LC0x
-NTE0MjQ0MDA4XX0=
+eyJoaXN0b3J5IjpbNzM0MzA1LC0xNjUzNDE3NzI3LDEwMDg4Nz
+AwOTcsMTk2OTA3NDkwNSwxODE0NTkzMDU3LDE4MDQzMzk3NDgs
+OTk0ODY3MTYyLDM2NjkzNTQ1MiwzMTY3MTE5NTgsLTEyNDczNj
+c3NDAsNjEyNzE2NDI5LC0xMzkwNDYzMTUsLTcwNzk4Nzg2Nywt
+MTM2MDkzODc3OSwtMTIzODcyNjM0NSwtMTQxNjE4MjE0MiwxMz
+k0OTAxOTUwLDU4NzM5NjAyOSwtMTQ0OTUyNDk3OSwtMTUxNDI0
+NDAwOF19
 -->
