@@ -1,4 +1,4 @@
-## 占星資訊彙整(【上昇、十大行星(太陽、月亮、木星、火星,、土星、金星水星、天王星、海王星、冥王星)】
+## /02/05 更新)占星資訊彙整(【上昇、十大行星(太陽、月亮、木星、火星,、土星、金星水星、天王星、海王星、冥王星)】、十二宮位、
 
 
 ![封面圖片](://123.jpg)
@@ -1692,11 +1692,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDM1OTYzNDYsLTEzOTA0NjMxNSwtNz
-A3OTg3ODY3LC0xMzYwOTM4Nzc5LC0xMjM4NzI2MzQ1LC0xNDE2
-MTgyMTQyLDEzOTQ5MDE5NTAsNTg3Mzk2MDI5LC0xNDQ5NTI0OT
-c5LC0xNTE0MjQ0MDA4LC0xODk5NDExOTgxLC0xMjU0MjEyMjk5
-LC0xOTQ0MzA3MzM5LC03MTE0NDkzNTYsMTk4ODc0Njc2OSwyMT
-ExNjc3NjM5LDUzOTE1ODcxNywxOTIzOTY3MzUwLC0zNTc5MDMz
-NjEsODI3MjE3ODNdfQ==
+eyJoaXN0b3J5IjpbMTY0MTQzMDA5MiwtMTM5MDQ2MzE1LC03MD
+c5ODc4NjcsLTEzNjA5Mzg3NzksLTEyMzg3MjYzNDUsLTE0MTYx
+ODIxNDIsMTM5NDkwMTk1MCw1ODczOTYwMjksLTE0NDk1MjQ5Nz
+ksLTE1MTQyNDQwMDgsLTE4OTk0MTE5ODEsLTEyNTQyMTIyOTks
+LTE5NDQzMDczMzksLTcxMTQ0OTM1NiwxOTg4NzQ2NzY5LDIxMT
+E2Nzc2MzksNTM5MTU4NzE3LDE5MjM5NjczNTAsLTM1NzkwMzM2
+MSw4MjcyMTc4M119
 -->
