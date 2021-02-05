@@ -1366,16 +1366,18 @@ _雙魚座：2月19日-3月20日_
 ### **十二宮位**
 
 第一宮--[命宮] 上昇星座
-
-●上昇星座是占星學中出生圖上“定宮”的主要起始點，因此地位也相對的格外重要。上昇星座是第一宮的起始，而第一宮的主要影響就是人格；在占星學上第一宮，是和一個人心理人格的形成有關，他可以說是一個人到世間所選擇的扮演角色，第一宮就是所謂的上昇星座，是代觀測者的東方地平線第一個昇起的星座，因此它和開始有關，代表了和個體生命有關的事物，他代表一個人的個性、長相及體形。第一宮象徵一個人待人處事的表現態度，是一種經過修飾的個性，也就是心理學中所說的「自我」，和「我」有關的事情都是看第一宮，也就是代表一個人初次與人接觸所展現的性格。
-●如果第一宮中有某一個星星落入，則一個人的想法會帶有這個星的特質，但是如果有太多星在第一宮，則可能會太過主觀而不為別人著想。由於地球自轉的關係，黃道面約四分鐘就會於地平線上升一度，所以，在計算上升星座的時候，出生時間的準確度要求是相當高的。
-●上昇星座所表現的特質與太陽星座所表現出來的形態很像，但是完全不同，太陽代表的個性的表現，他是一種能量的展現，而上升則是人格形成的表現，他是所有行星能量交互作用後的結果。
+> 上昇星座是占星學中出生圖上“定宮”的主要起始點，因此地位也相對的格外重要。上昇星座是第一宮的起始，而第一宮的主要影響就是人格；在占星學上第一宮，是和一個人心理人格的形成有關，他可以說是一個人到世間所選擇的扮演角色，第一宮就是所謂的上昇星座，是代觀測者的東方地平線第一個昇起的星座，因此它和開始有關，代表了和個體生命有關的事物，他代表一個人的個性、長相及體形。第一宮象徵一個人待人處事的表現態度，是一種經過修飾的個性，也就是心理學中所說的「自我」，和「我」有關的事情都是看第一宮，也就是代表一個人初次與人接觸所展現的性格。
+> 
+> 如果第一宮中有某一個星星落入，則一個人的想法會帶有這個星的特質，但是如果有太多星在第一宮，則可能會太過主觀而不為別人著想。由於地球自轉的關係，黃道面約四分鐘就會於地平線上升一度，所以，在計算上升星座的時候，出生時間的準確度要求是相當高的。
+> 
+> 上昇星座所表現的特質與太陽星座所表現出來的形態很像，但是完全不同，太陽代表的個性的表現，他是一種能量的展現，而上升則是人格形成的表現，他是所有行星能量交互作用後的結果。
 
 ★第一宮小檔案：
-●宮位意義：自己的個性、身體狀況、外貌、舉止、一般的健康、生命力、給人的第一印像。
-●相關星座：牡羊座
-●宮位主星：火星
-●後天三分：(基本宮位)
+>- 宮位意義：自己的個性、身體狀況、外貌、舉止、一般的健康、生命力、給人的第一印象。
+>- 相關星座：牡羊座
+>- 宮位主星：火星
+>- 後天三分：(基本宮位)
+>
 ●後天四分：生命之宮
 
 ★第一宮象徵：
@@ -1644,11 +1646,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDI1NDA2MywxOTI5MDY3NjY3LDk5ND
-g2NzE2MiwzNjY5MzU0NTIsMzE2NzExOTU4LC0xMjQ3MzY3NzQw
-LDYxMjcxNjQyOSwtMTM5MDQ2MzE1LC03MDc5ODc4NjcsLTEzNj
-A5Mzg3NzksLTEyMzg3MjYzNDUsLTE0MTYxODIxNDIsMTM5NDkw
-MTk1MCw1ODczOTYwMjksLTE0NDk1MjQ5NzksLTE1MTQyNDQwMD
-gsLTE4OTk0MTE5ODEsLTEyNTQyMTIyOTksLTE5NDQzMDczMzks
-LTcxMTQ0OTM1Nl19
+eyJoaXN0b3J5IjpbLTE0MzcwODAzNzYsMTU5MDI1NDA2Myw5OT
+Q4NjcxNjIsMzY2OTM1NDUyLDMxNjcxMTk1OCwtMTI0NzM2Nzc0
+MCw2MTI3MTY0MjksLTEzOTA0NjMxNSwtNzA3OTg3ODY3LC0xMz
+YwOTM4Nzc5LC0xMjM4NzI2MzQ1LC0xNDE2MTgyMTQyLDEzOTQ5
+MDE5NTAsNTg3Mzk2MDI5LC0xNDQ5NTI0OTc5LC0xNTE0MjQ0MD
+A4LC0xODk5NDExOTgxLC0xMjU0MjEyMjk5LC0xOTQ0MzA3MzM5
+LC03MTE0NDkzNTZdfQ==
 -->
