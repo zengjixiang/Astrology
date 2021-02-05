@@ -1,4 +1,4 @@
-## 占星資訊彙整上昇、太陽、月亮、木星、火星土星、金星水星、星座
+## 占星資訊彙整(【上昇、十大行星(太陽、月亮、木星、火星,、土星、金星水星、天王星、海王星、冥王星)】
 
 
 ![封面圖片](://123.jpg)
@@ -1692,7 +1692,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTA0NjMxNSwtMTM4NDk5OTI3MywtNz
+eyJoaXN0b3J5IjpbLTE4MDM1OTYzNDYsLTEzOTA0NjMxNSwtNz
 A3OTg3ODY3LC0xMzYwOTM4Nzc5LC0xMjM4NzI2MzQ1LC0xNDE2
 MTgyMTQyLDEzOTQ5MDE5NTAsNTg3Mzk2MDI5LC0xNDQ5NTI0OT
 c5LC0xNTE0MjQ0MDA4LC0xODk5NDExOTgxLC0xMjU0MjEyMjk5
