@@ -1438,17 +1438,7 @@ _雙魚座：2月19日-3月20日_
 > 第十二宮代表一個人精神渴望的層面。所以秘密、隱私、夢跟此宮有關。另外，還跟超現實的部份、逃避、及隱藏的敵人、個人的犧牲都由此宮瞭解。由第十二宮上的星座可以看出一個人如何自己獨處。
 
 ----
-
 ##### <參考資料>
-
-- [蘇珊米勒-占星簡史和基礎知識（1、行星篇）](//)
-
-- [蘇珊米勒-占星簡史和基礎知識（2、元素篇）](//)
-
-- [蘇珊米勒-占星簡史和基礎知識（3、特質篇）](//)
-
-- [蘇珊米勒占星簡史和基礎知識（4、宮位篇）](//)
-
 ----
 
 <!-- (註解)
@@ -1491,11 +1481,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI1MjE0MiwxOTY5MDc0OTA1LDE4MT
-Q1OTMwNTcsMTgwNDMzOTc0OCw5OTQ4NjcxNjIsMzY2OTM1NDUy
-LDMxNjcxMTk1OCwtMTI0NzM2Nzc0MCw2MTI3MTY0MjksLTEzOT
-A0NjMxNSwtNzA3OTg3ODY3LC0xMzYwOTM4Nzc5LC0xMjM4NzI2
-MzQ1LC0xNDE2MTgyMTQyLDEzOTQ5MDE5NTAsNTg3Mzk2MDI5LC
-0xNDQ5NTI0OTc5LC0xNTE0MjQ0MDA4LC0xODk5NDExOTgxLC0x
-MjU0MjEyMjk5XX0=
+eyJoaXN0b3J5IjpbNzI1NTg0NTI3LDE5NjkwNzQ5MDUsMTgxND
+U5MzA1NywxODA0MzM5NzQ4LDk5NDg2NzE2MiwzNjY5MzU0NTIs
+MzE2NzExOTU4LC0xMjQ3MzY3NzQwLDYxMjcxNjQyOSwtMTM5MD
+Q2MzE1LC03MDc5ODc4NjcsLTEzNjA5Mzg3NzksLTEyMzg3MjYz
+NDUsLTE0MTYxODIxNDIsMTM5NDkwMTk1MCw1ODczOTYwMjksLT
+E0NDk1MjQ5NzksLTE1MTQyNDQwMDgsLTE4OTk0MTE5ODEsLTEy
+NTQyMTIyOTldfQ==
 -->
