@@ -1427,7 +1427,7 @@ _雙魚座：2月19日-3月20日_
 
 ★第三宮與星座：
 
-●第三宮是跟兄弟姊妹、小學同學、初等教育有關的宮位。他代表一個人對外接觸的部份，也包括了一個人與他人連結的情況：如說話、交際、寫作、聯絡、廣播等事物。從第三宮的星座可看出一個人如何與外界接觸。
+●> 第三宮是跟兄弟姊妹、小學同學、初等教育有關的宮位。他代表一個人對外接觸的部份，也包括了一個人與他人連結的情況：如說話、交際、寫作、聯絡、廣播等事物。從第三宮的星座可看出一個人如何與外界接觸。
 
 
 第四宮--[家庭宮]
@@ -1650,7 +1650,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzAyMDM0OSwtMzM5NjgzMDE1LDk5ND
+eyJoaXN0b3J5IjpbMTg5MzQ2ODI1NywtNDI3MDIwMzQ5LDk5ND
 g2NzE2MiwzNjY5MzU0NTIsMzE2NzExOTU4LC0xMjQ3MzY3NzQw
 LDYxMjcxNjQyOSwtMTM5MDQ2MzE1LC03MDc5ODc4NjcsLTEzNj
 A5Mzg3NzksLTEyMzg3MjYzNDUsLTE0MTYxODIxNDIsMTM5NDkw
