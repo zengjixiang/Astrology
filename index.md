@@ -408,7 +408,7 @@ _雙魚座：2月19日-3月20日_
 > 個性敏銳又快捷。有強烈的好奇心和求知慾，對於新觀念和新流行的感觸十分敏銳。聰明機智，有辯才，是一個謀略家和演說家。遇事都能妥善對座，冷靜觀察，果敢而有擔當。而且常會有一些突發奇想的點子，有大膽假設，小心求證的個性。  
   
 **太陽在巨蟹座**
-> 情豐富，對事物的怠受性強。對外親和謙恭，頗有公眾意識，但是對內則有強烈的防衛本能，不願私生活受到於擾。大體上是一個溫和內向的人，但是絕不向惡勢力低頭。熱心參加愛家、愛鄉、愛民的團體，自我意識很強，尊敬能夠保護自己立場的人，帶有懷舊的心情，是一個十分傳統的人。  
+> 感情豐富，對事物的感受性強。對外親和謙恭，頗有公眾意識，但是對內則有強烈的防衛本能，不願私生活受到於擾。大體上是一個溫和內向的人，但是絕不向惡勢力低頭。熱心參加愛家、愛鄉、愛民的團體，自我意識很強，尊敬能夠保護自己立場的人，帶有懷舊的心情，是一個十分傳統的人。  
   
 **太陽在獅子座**  
 為人正直，頗具威嚴。喜歡以自己的魅力和才能開創出一片天地，並熱衷於權力地位。處事物時採用光明磊落全力以赴的做法，厭惡卑劣的小人行徑。有演戲的才華，對自己充滿自信，近乎自戀。另一方面，由於心胸寬大，自能吸引群眾。不過，容易被自己的情緒左右，經常覺得孤獨。  
@@ -1456,11 +1456,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTQxNTYyNSwtMTEzMDgxOTM1OSwtMT
-Y1MzQxNzcyNywxMDA4ODcwMDk3LDE5NjkwNzQ5MDUsMTgxNDU5
-MzA1NywxODA0MzM5NzQ4LDk5NDg2NzE2MiwzNjY5MzU0NTIsMz
-E2NzExOTU4LC0xMjQ3MzY3NzQwLDYxMjcxNjQyOSwtMTM5MDQ2
-MzE1LC03MDc5ODc4NjcsLTEzNjA5Mzg3NzksLTEyMzg3MjYzND
-UsLTE0MTYxODIxNDIsMTM5NDkwMTk1MCw1ODczOTYwMjksLTE0
-NDk1MjQ5NzldfQ==
+eyJoaXN0b3J5IjpbLTI0NjMzMjkwOSwtNzk1NDE1NjI1LC0xNj
+UzNDE3NzI3LDEwMDg4NzAwOTcsMTk2OTA3NDkwNSwxODE0NTkz
+MDU3LDE4MDQzMzk3NDgsOTk0ODY3MTYyLDM2NjkzNTQ1MiwzMT
+Y3MTE5NTgsLTEyNDczNjc3NDAsNjEyNzE2NDI5LC0xMzkwNDYz
+MTUsLTcwNzk4Nzg2NywtMTM2MDkzODc3OSwtMTIzODcyNjM0NS
+wtMTQxNjE4MjE0MiwxMzk0OTAxOTUwLDU4NzM5NjAyOSwtMTQ0
+OTUyNDk3OV19
 -->
