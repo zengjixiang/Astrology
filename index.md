@@ -334,11 +334,9 @@ _雙魚座：2月19日-3月20日_
 
 ----
 
-### **上昇 (掌管：容貌、舉止、性向) **  
+### **上昇星座 (掌管：容貌、舉止、性向)**  
 在一個人出生的那一刹那，由出生地向東延伸到黃道上，有一顆正要上昇的星座，就被稱為上昇星座。相對於太陽星座主導一個人的先天運勢，上升星座主導的則是後天運勢上昇星座對一個人的言行舉止、性向、癖好、外在容貌、風格、體質等較個人的因素影響，因此在不熟識你的人面前，上昇星座比你的太陽星座有更大的影響力。另一方面，一個人年輕時對自己的上昇星座並無太大知覺，而上昇星座將在四十歲後，增強它的影響力！  
 
-### **上昇星座 **
-  
 **上昇白羊座**
 > 您出生時所戴的面具為「戰士」。您給人的印象是非常活躍且爽快，行動敏捷、發言明確，凡事當自己認為正確無誤的話，勢必貫徹到底。給他人的印象是非常熱情，生氣勃勃。縱使內心有點不安，也會突破難關的。肉體上屬於中等身材，為脂肪少、肌肉結實的體質。如果經過鍛鍊的話，會產生極佳的瞬間爆發力，在運動方面可以創造出好的成績。有一副非常精悍的長相。感覺上有一股男性的氣魄。不過，您有獎自己心中的不安和弱點隱藏起來的傾向。只要太陽及其他重要行星不在此星座，「戰士」即為您不折不扣的面具，而不是您本人。如果沒有意識到這一點的話，您可能會在不知不覺中，苦於「自己必須堅強」與「自己也有脆弱的一面」之間的糾葛。
 ★具有此上昇星座的著名人士拉斯普汀、史蒂夫．馬克丁、道格拉斯．麥克亞瑟、卡拉．巴頓(紅十字的創立者)等。這幾個人給人的印象是過著強烈而英雄式的生活。  
@@ -1457,11 +1455,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTM0MTc3MjcsMTAwODg3MDA5NywxOT
-Y5MDc0OTA1LDE4MTQ1OTMwNTcsMTgwNDMzOTc0OCw5OTQ4Njcx
-NjIsMzY2OTM1NDUyLDMxNjcxMTk1OCwtMTI0NzM2Nzc0MCw2MT
-I3MTY0MjksLTEzOTA0NjMxNSwtNzA3OTg3ODY3LC0xMzYwOTM4
-Nzc5LC0xMjM4NzI2MzQ1LC0xNDE2MTgyMTQyLDEzOTQ5MDE5NT
-AsNTg3Mzk2MDI5LC0xNDQ5NTI0OTc5LC0xNTE0MjQ0MDA4LC0x
-ODk5NDExOTgxXX0=
+eyJoaXN0b3J5IjpbMTkyMjE3MjU3OSwtMTY1MzQxNzcyNywxMD
+A4ODcwMDk3LDE5NjkwNzQ5MDUsMTgxNDU5MzA1NywxODA0MzM5
+NzQ4LDk5NDg2NzE2MiwzNjY5MzU0NTIsMzE2NzExOTU4LC0xMj
+Q3MzY3NzQwLDYxMjcxNjQyOSwtMTM5MDQ2MzE1LC03MDc5ODc4
+NjcsLTEzNjA5Mzg3NzksLTEyMzg3MjYzNDUsLTE0MTYxODIxND
+IsMTM5NDkwMTk1MCw1ODczOTYwMjksLTE0NDk1MjQ5NzksLTE1
+MTQyNDQwMDhdfQ==
 -->
