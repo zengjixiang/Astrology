@@ -268,7 +268,6 @@ _雙魚座：2月19日-3月20日_
 ### **基本宮特質：**
 
 **白羊座、巨蟹座、天秤座、摩羯座**
-
 > 由於“探子星座們”產生了四季，故而基本宮支配著創造力。這些星座都是不安分、活躍、自我激勵、有野心的，而且通常都是團體中的領導者。他們有事業心、獨立性、創造性、自發性，且非常強而有力，這些都是他們的最佳品質，他們可能有點盛氣凌人，但這也是最佳品質中的一部分，而且是重要的一部分。
 > 
 > 下面講解每個星座在特質和元素獨特的混合之下，是如何表達它們的基本宮特性的。
@@ -276,7 +275,6 @@ _雙魚座：2月19日-3月20日_
 ----
 
 **白羊座：基本宮、火元素**
-
 > 白羊座會通過親身經歷向世界展示自己。對於這一先驅型的星座而言，自我表達是至高無上的，而且白羊座想看看自己對身處的世界，究竟能探索、發現、體驗到什麼樣的程度。火元素令白羊座對自己有著極度的信心和強烈的勇氣。基本宮的天性令他們不安分，需要為了改變而改變。白羊座堅定又自信，他們會設法在短時間內讓自己為人所知。白羊座的人會說：“如果我沒有吸引到別人的注意，對方又怎麼會來了解我呢？”說的對啊，白羊座！我們都該向你學習這一點。的確如此，白羊確實能結識對的人。（在白羊座看來“對的人”通常是指，能幫自己做優質引薦的風投人員或者高層權貴！）如果沒有白羊座這種超膽俠推動我們前進，我們又會在哪裡呢？
 
 ----
@@ -1473,11 +1471,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTQyMzQxMywxNDc0NDA4NDcsMTk2OT
-A3NDkwNSwxODE0NTkzMDU3LDE4MDQzMzk3NDgsOTk0ODY3MTYy
-LDM2NjkzNTQ1MiwzMTY3MTE5NTgsLTEyNDczNjc3NDAsNjEyNz
-E2NDI5LC0xMzkwNDYzMTUsLTcwNzk4Nzg2NywtMTM2MDkzODc3
-OSwtMTIzODcyNjM0NSwtMTQxNjE4MjE0MiwxMzk0OTAxOTUwLD
-U4NzM5NjAyOSwtMTQ0OTUyNDk3OSwtMTUxNDI0NDAwOCwtMTg5
-OTQxMTk4MV19
+eyJoaXN0b3J5IjpbMTAwODg3MDA5NywyMDQ1NDIzNDEzLDE5Nj
+kwNzQ5MDUsMTgxNDU5MzA1NywxODA0MzM5NzQ4LDk5NDg2NzE2
+MiwzNjY5MzU0NTIsMzE2NzExOTU4LC0xMjQ3MzY3NzQwLDYxMj
+cxNjQyOSwtMTM5MDQ2MzE1LC03MDc5ODc4NjcsLTEzNjA5Mzg3
+NzksLTEyMzg3MjYzNDUsLTE0MTYxODIxNDIsMTM5NDkwMTk1MC
+w1ODczOTYwMjksLTE0NDk1MjQ5NzksLTE1MTQyNDQwMDgsLTE4
+OTk0MTE5ODFdfQ==
 -->
