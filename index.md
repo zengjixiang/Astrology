@@ -1254,7 +1254,7 @@ _雙魚座：2月19日-3月20日_
 >- 宮位主星：月亮
 >- 後天三分：主動宮位
 >- 後天四分：結束之宮
->- 言語、思考、溝通、學習、考試、兄弟姊妹、人際關系、短程旅遊、大學以下的教育
+>- 含義言語、思考、溝通、學習、考試、兄弟姊妹、人際關系、短程旅遊、大學以下的教育
 
 ★第四宮象徵：
 > 第四宮，代表你的家庭，雙親及你的根源，亦即是你的遺傳，遺產，心理根源及潛意識。它還表示不動產，房屋。它也代表結束，如晚年的生活，墳墓和死後的名聲。它亦顯示了你童年時父母對你的影響力。也表示你的自我及主觀的看法。
@@ -1461,7 +1461,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNTAxOTcwLDIwODQ3NTIyOTgsMTg2ND
+eyJoaXN0b3J5IjpbMjA5OTgwNTMyNCwtOTM1MDE5NzAsMTg2ND
 MwMzMxLC04NjY0MTY3ODEsLTE2NTM0MTc3MjcsMTAwODg3MDA5
 NywxOTY5MDc0OTA1LDE4MTQ1OTMwNTcsMTgwNDMzOTc0OCw5OT
 Q4NjcxNjIsMzY2OTM1NDUyLDMxNjcxMTk1OCwtMTI0NzM2Nzc0
