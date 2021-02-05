@@ -1254,6 +1254,7 @@ _雙魚座：2月19日-3月20日_
 >- 宮位主星：月亮
 >- 後天三分：主動宮位
 >- 後天四分：結束之宮
+>- 言語、思考、溝通、學習、考試、兄弟姊妹、人際關系、短程旅遊、大學以下的教育
 
 ★第四宮象徵：
 > 第四宮，代表你的家庭，雙親及你的根源，亦即是你的遺傳，遺產，心理根源及潛意識。它還表示不動產，房屋。它也代表結束，如晚年的生活，墳墓和死後的名聲。它亦顯示了你童年時父母對你的影響力。也表示你的自我及主觀的看法。
@@ -1272,6 +1273,7 @@ _雙魚座：2月19日-3月20日_
 >- 宮位主星：太陽
 >- 後天三分：固定宮位
 >- 後天四分：生命之宮
+>- 子女、愛情、熱情、懷孕、性關系、投機運、私人社交、休閒娛樂、創作或藝術能力
 
 ★第五宮象徵：
 > 第五宮，表示子女，愛情，羅曼史，娛樂，假期，遊戲，賭注，嗜好與副業。它代表你的創造力和藝術的才華。它亦表示了情感的表達方式。它還代表出頭，政治，純藝術，社交，懷孕及子女的教育。
@@ -1291,6 +1293,7 @@ _雙魚座：2月19日-3月20日_
 >- 宮位主星：水星
 >- 後天三分：變動宮位
 >- 後天四分：物質之宮
+>- 含義：寵物、健康（飲食疾病）、发展運（同行、同業、同事）、部屬關系、工作精神態度
 
 ★第六宮象徵：
 >- 第六宮，表示你的工作，健康與習慣。它顯示了下屬和奴僕的狀況。亦顯示了你為他人提供的服務，衣著及飲食健康。這宮亦代表了表叔伯等旁系長輩，以及心智中的無意識部份。
@@ -1301,7 +1304,6 @@ _雙魚座：2月19日-3月20日_
 > 另一方面來說，本宮和第一宮有對宮的關係，所以當有太多星在第七宮時，會太在意別人的想法而缺乏主見，如果有不好的星在本宮，也可能有在婚姻方面有較大的困難。
 
 ★第七宮小檔案
-
 >- 宮位意義：婚姻、合夥人、股東、人與人間的關係、密友、公開的敵人、合約、吵架、口角、法律、訴訟。
 >- 相關星座：天秤座
 >- 宮位主星：金星
@@ -1459,11 +1461,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDc1MjI5OCwtMzQxNzk3MzE4LDE4Nj
-QzMDMzMSwtODY2NDE2NzgxLC0xNjUzNDE3NzI3LDEwMDg4NzAw
-OTcsMTk2OTA3NDkwNSwxODE0NTkzMDU3LDE4MDQzMzk3NDgsOT
-k0ODY3MTYyLDM2NjkzNTQ1MiwzMTY3MTE5NTgsLTEyNDczNjc3
-NDAsNjEyNzE2NDI5LC0xMzkwNDYzMTUsLTcwNzk4Nzg2NywtMT
-M2MDkzODc3OSwtMTIzODcyNjM0NSwtMTQxNjE4MjE0MiwxMzk0
-OTAxOTUwXX0=
+eyJoaXN0b3J5IjpbLTkzNTAxOTcwLDIwODQ3NTIyOTgsMTg2ND
+MwMzMxLC04NjY0MTY3ODEsLTE2NTM0MTc3MjcsMTAwODg3MDA5
+NywxOTY5MDc0OTA1LDE4MTQ1OTMwNTcsMTgwNDMzOTc0OCw5OT
+Q4NjcxNjIsMzY2OTM1NDUyLDMxNjcxMTk1OCwtMTI0NzM2Nzc0
+MCw2MTI3MTY0MjksLTEzOTA0NjMxNSwtNzA3OTg3ODY3LC0xMz
+YwOTM4Nzc5LC0xMjM4NzI2MzQ1LC0xNDE2MTgyMTQyLDEzOTQ5
+MDE5NTBdfQ==
 -->
