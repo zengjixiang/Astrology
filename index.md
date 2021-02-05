@@ -437,7 +437,7 @@ _雙魚座：2月19日-3月20日_
 ### **太陽星座的黑暗面**  
   
 **白羊座 (Aries)**
-大部分的白羊座總喜歡四處亂跑，但是僅止於五分鐘熱度。白羊座喜愛支配弱小，而且受到任何其形式的智慧的威脅。在他們粉飾的面具之下，是大量的拐彎抹角，不安和猶豫不決。
+> 大部分的白羊座總喜歡四處亂跑，但是僅止於五分鐘熱度。白羊座喜愛支配弱小，而且受到任何其形式的智慧的威脅。在他們粉飾的面具之下，是大量的拐彎抹角，不安和猶豫不決。
 隱藏個性→白羊座看似粗枝大葉，其實他喜歡做家事。  
   
 **金牛座 (Taurus)**
@@ -1455,11 +1455,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyMDM5ODAxLDI5NDYzNDcyNSwtMTY1Mz
-QxNzcyNywxMDA4ODcwMDk3LDE5NjkwNzQ5MDUsMTgxNDU5MzA1
-NywxODA0MzM5NzQ4LDk5NDg2NzE2MiwzNjY5MzU0NTIsMzE2Nz
-ExOTU4LC0xMjQ3MzY3NzQwLDYxMjcxNjQyOSwtMTM5MDQ2MzE1
-LC03MDc5ODc4NjcsLTEzNjA5Mzg3NzksLTEyMzg3MjYzNDUsLT
-E0MTYxODIxNDIsMTM5NDkwMTk1MCw1ODczOTYwMjksLTE0NDk1
-MjQ5NzldfQ==
+eyJoaXN0b3J5IjpbMTk5NTUyNzEyNyw3MDIwMzk4MDEsLTE2NT
+M0MTc3MjcsMTAwODg3MDA5NywxOTY5MDc0OTA1LDE4MTQ1OTMw
+NTcsMTgwNDMzOTc0OCw5OTQ4NjcxNjIsMzY2OTM1NDUyLDMxNj
+cxMTk1OCwtMTI0NzM2Nzc0MCw2MTI3MTY0MjksLTEzOTA0NjMx
+NSwtNzA3OTg3ODY3LC0xMzYwOTM4Nzc5LC0xMjM4NzI2MzQ1LC
+0xNDE2MTgyMTQyLDEzOTQ5MDE5NTAsNTg3Mzk2MDI5LC0xNDQ5
+NTI0OTc5XX0=
 -->
