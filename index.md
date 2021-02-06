@@ -1087,8 +1087,8 @@ _雙魚座：2月19日-3月20日_
 > 冥王星最近一次位在牡羊座是從一八二三年到一八五一年間。這個世代一種改革的強大願望，對權利或復仇有一種著魔般的需要，如果他們感覺受到攻擊的話，擁有充沛的活力與大膽。他們的想象力幾乎沒有邊際，不過他們需要自我約束，要不然可能耕盡自己的體力。
 > 
 > 牡羊座是十二星座循環之首，它代表的是一種尋找新經驗的開始。冥王星位在牡羊歷時，正是美國開國先鋒開拓廣大處女之地的黃金時代，這些人憑著無比的勇氣克服了許多困難，為的是要建立自由而又全新的生活方式。從他們流傳下來的西部拓荒故事中可以得知，那是一段不得不以暴力解決困難的時期。
-
-同一時間的歐洲、許多偉大的革命運動也正在如火如荼地展開，人類逐漸推翻了傳統的君王政體，宣傳人民的自由與獨立平等。
+> 
+>同一時間的歐洲、許多偉大的革命運動也正在如火如荼地展開，人類逐漸推翻了傳統的君王政體，宣傳人民的自由與獨立平等。
 
 冥王星在金牛座
 
@@ -1452,7 +1452,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1OTYzNzQ0LDEwOTkyNjQwODksOTIwNT
+eyJoaXN0b3J5IjpbLTk4ODkwMjk3OCw3MjU5NjM3NDQsOTIwNT
 MyMjk5LC0xNzM0MzI0NzQ4LC00NjgwMTM4NjksMTg2NDMwMzMx
 LC04NjY0MTY3ODEsLTE2NTM0MTc3MjcsMTAwODg3MDA5NywxOT
 Y5MDc0OTA1LDE4MTQ1OTMwNTcsMTgwNDMzOTc0OCw5OTQ4Njcx
