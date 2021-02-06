@@ -1124,7 +1124,7 @@ _雙魚座：2月19日-3月20日_
 
 冥王星在天蠍座
 > 冥王星於一九八三年到一九九五年位於天蠍座。這期間沒有偉大的發現或任何重要的占星或革命；在藝術上也沒有重要的新浪潮，但會有很多奇妙的探險，並帶來巨大的改變與騷動。這可能是水瓶時代真正的開始，它也可能象征聖經中所預示的善惡大決戰。這會帶來許多商業上與金融上的改革，嶄新的醫學趨勢；也許是自然療法的再復活，對潛意識也會有較深入的了解。對他們的環境將很敏感，情感強烈，會卷入神秘事物之中，在他們所擔當的所有事情中都有透視力，有時甚至是無情的。
-
+> 
 > 當冥王星位在天蠍座時，舉世的對立將會達到最緊張的局面。“重生或是死亡”將會是這一天來臨時所必須作的選擇，因為冥王星是天蠍座的主宰行星，天蠍座是一個主宰著重生或死亡的星座，除了它以外，沒有任何一個星座具有這種迫人的壓力。雙魚座的時代是否能夠到來，全視這一個關鍵時期，它掌握的是最後一口決定性的喘息--即將結束或是要重新開始。人類的愚昧將耗盡所有的時間，除了面對結果之外，人類將毫無選擇。
 
 冥王星自天秤座走向天蠍座時運行的速度是最快的。正如聖經上所啟示的，“除非我把時間縮短，否則人類終將毀滅”。最可怕的天災、饑荒及生物、原子戰爭將在二十世紀結束前的最後二十五年間發生。自一九七五至二000年，天王星位在天蠍座，而一九八四年至世紀末，冥王星也位在天蠍座。在這段時期內，人類將被迫面臨最後的抉擇，準備重生，開始迎接水瓶座時代，及公元第兩千年。
@@ -1443,11 +1443,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0NDU5MTc4LC05ODg5MDI5NzgsOTIwNT
-MyMjk5LC0xNzM0MzI0NzQ4LC00NjgwMTM4NjksMTg2NDMwMzMx
-LC04NjY0MTY3ODEsLTE2NTM0MTc3MjcsMTAwODg3MDA5NywxOT
-Y5MDc0OTA1LDE4MTQ1OTMwNTcsMTgwNDMzOTc0OCw5OTQ4Njcx
-NjIsMzY2OTM1NDUyLDMxNjcxMTk1OCwtMTI0NzM2Nzc0MCw2MT
-I3MTY0MjksLTEzOTA0NjMxNSwtNzA3OTg3ODY3LC0xMzYwOTM4
-Nzc5XX0=
+eyJoaXN0b3J5IjpbNDM0MzU1OTEyLDczNDQ1OTE3OCw5MjA1Mz
+IyOTksLTE3MzQzMjQ3NDgsLTQ2ODAxMzg2OSwxODY0MzAzMzEs
+LTg2NjQxNjc4MSwtMTY1MzQxNzcyNywxMDA4ODcwMDk3LDE5Nj
+kwNzQ5MDUsMTgxNDU5MzA1NywxODA0MzM5NzQ4LDk5NDg2NzE2
+MiwzNjY5MzU0NTIsMzE2NzExOTU4LC0xMjQ3MzY3NzQwLDYxMj
+cxNjQyOSwtMTM5MDQ2MzE1LC03MDc5ODc4NjcsLTEzNjA5Mzg3
+NzldfQ==
 -->
