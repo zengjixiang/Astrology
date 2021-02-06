@@ -963,8 +963,8 @@ _雙魚座：2月19日-3月20日_
 > 海王星於1846年時被發現，繞行黃道一周約需時一百六十四年，在每個星座約停留十四年左右，為天王星的兩倍，在太陽系中，海王星是一顆模糊難辨的一顆行星。在占星學中，海王星代表了夢幻及想像。象徵不切實際及曖昧不明的事物，由於其虛幻的特質，常造成一種混亂的局面。本命盤中的海王星，代表一個人沈溺的地方，象徵無悔的僻好。海王星在星盤上的宮位，顯示出個人追尋理想的領域，也是個人傾向於自欺或欺人的領域。 
 >  
 > 海王星為了幻象及假象，常會自我欺騙及自我犧牲，所以海王星代表一個人沉迷的地方。海王星的感受力很好，因此代表了藝術及美的事物，也代表著同情心、隨緣及與宗教有關的事物。在神話故事中，它是海神，代表了無盡、模糊、理想化，包容力，空想及混亂，掌管著浩瀚的海洋與無邊的夢境。  
-
-●海王星是雙魚座的守護星。一般稱海王星跟藝術和宗教有關。海王星特徵明顯的人就會充滿想像力。重直覺，精神，常涉足和藝術有關的東西。不良的海王星影響力是：常自欺，不問世事，過於大意，容易相信別人而受騙，或太過於多愁善感。  
+> 
+> 海王星是雙魚座的守護星。一般稱海王星跟藝術和宗教有關。海王星特徵明顯的人就會充滿想像力。重直覺，精神，常涉足和藝術有關的東西。不良的海王星影響力是：常自欺，不問世事，過於大意，容易相信別人而受騙，或太過於多愁善感。  
 
 ●海王星象徵憧憬或幻想，是影響世代的三顆行星中，力量最強大的一顆。因此，海王星落在各星座時，會對某一時代、某一群人造成特殊的影響，對個人的影響較不顯著。海王星所在的星座位置，顯示出不同年代出生的人，分享同一種精神性的心靈生活，也是種影響潛意識最深的精神力量，產生出不自覺且根深蒂固的觀念及思想。  
 
@@ -1424,11 +1424,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTczNDIxNSw5MTY4NjgzMywtMTMxMz
-A3NjAyOCwtMTE5ODgwMzMyOCw0MzQzNTU5MTIsOTIwNTMyMjk5
-LC0xNzM0MzI0NzQ4LC00NjgwMTM4NjksMTg2NDMwMzMxLC04Nj
-Y0MTY3ODEsLTE2NTM0MTc3MjcsMTAwODg3MDA5NywxOTY5MDc0
-OTA1LDE4MTQ1OTMwNTcsMTgwNDMzOTc0OCw5OTQ4NjcxNjIsMz
-Y2OTM1NDUyLDMxNjcxMTk1OCwtMTI0NzM2Nzc0MCw2MTI3MTY0
-MjldfQ==
+eyJoaXN0b3J5IjpbLTE5ODI5NDM5NiwxOTQxNzM0MjE1LC0xMz
+EzMDc2MDI4LC0xMTk4ODAzMzI4LDQzNDM1NTkxMiw5MjA1MzIy
+OTksLTE3MzQzMjQ3NDgsLTQ2ODAxMzg2OSwxODY0MzAzMzEsLT
+g2NjQxNjc4MSwtMTY1MzQxNzcyNywxMDA4ODcwMDk3LDE5Njkw
+NzQ5MDUsMTgxNDU5MzA1NywxODA0MzM5NzQ4LDk5NDg2NzE2Mi
+wzNjY5MzU0NTIsMzE2NzExOTU4LC0xMjQ3MzY3NzQwLDYxMjcx
+NjQyOV19
 -->
