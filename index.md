@@ -781,8 +781,7 @@ _雙魚座：2月19日-3月20日_
 ●土星象徵困難的，滯礙難行的，所以土星所在位置充滿了壓抑的意味。土星性格強的人，個性較為陰鬱內歛，為人比較謹慎持重，守規矩不逾越常規是其優點，但容易過份壓抑自己，使得自己凡事往壞處想，人生觀消極悲觀，甚至隋落沉淪可就不是一件好事了。在土星的困難背後所帶來的是一種責任，當你願扛下這種重大的負擔並學習成長，土星所代表的就變成你的最大成就，可能就沒有事可以難倒你了，所以土星象徵勤奮及勞動，代表一個人的耐力。土星和謹慎防禦有關，如城堡堅固城牆一樣，土星接受限制從困境中成長，因而顯得嚴肅而不知變通，也常顯得孤獨而有野心。土星和架構有關，因此土星代表一個人的組織能力。此外，土星在太陽系當中，是最多衛星的行星，因此土星也有多產的意味（特別指女孩子多子女的現象)。  
   
 **★土星與星座：**  
-  
-●土星所屬的星座代表了一個人如何克服他的難關。他的壓力是何種模式，他們如何面對挑戰，如何負起責任，建立自己的事業。  
+> 土星所屬的星座代表了一個人如何克服他的難關。他的壓力是何種模式，他們如何面對挑戰，如何負起責任，建立自己的事業。  
 
 **土星 VS. 十二星座**  
   
@@ -810,11 +809,11 @@ _雙魚座：2月19日-3月20日_
 土星在天蠍座：**  
 小心謹慎、羞怯而富神秘性，不過，打架時則會做出冒險舉動，即使是犧牲，也要向危險挑戰。具備管理他人財產的能力，為自己也有繼承遺產的可能。  
   
-**土星在射手座：**  
-因長年努力的結果，而肯定自己。隨著年齡的增長，也會增加沉著和威嚴感，但是，不會傾向奢侈。無論有、敵皆敬重他。不過當對方過於隨便時則會十分震怒。  
+**土星在射手座：**
+> 因長年努力的結果，而肯定自己。隨著年齡的增長，也會增加沉著和威嚴感，但是，不會傾向奢侈。無論有、敵皆敬重他。不過當對方過於隨便時則會十分震怒。  
   
-**土星在摩羯座：**  
-耐力強、慎重，行事踏實，富雄心壯志，且因此得到成功。為因擁有利己傾向，故想從人生之中獲得更多的東西。保有節約美德的背面，即是不關心其他人的貧窮。  
+**土星在摩羯座：**
+> 耐力強、慎重，行事踏實，富雄心壯志，且因此得到成功。為因擁有利己傾向，故想從人生之中獲得更多的東西。保有節約美德的背面，即是不關心其他人的貧窮。  
   
 **土星在水瓶座：**
 > 為達目的，需要充分的自由。由於喜愛追求新鮮感，所以，擁有最尖端的美術和最新科學的理解力。為所結交之人皆為不務實際者，所以，正陷入孤立的危險中。  
@@ -1421,11 +1420,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDkzNzMyNSwxODk3MDg0MDczLC0xOT
-gyOTQzOTYsLTEzMTMwNzYwMjgsLTExOTg4MDMzMjgsNDM0MzU1
-OTEyLDkyMDUzMjI5OSwtMTczNDMyNDc0OCwtNDY4MDEzODY5LD
-E4NjQzMDMzMSwtODY2NDE2NzgxLC0xNjUzNDE3NzI3LDEwMDg4
-NzAwOTcsMTk2OTA3NDkwNSwxODE0NTkzMDU3LDE4MDQzMzk3ND
-gsOTk0ODY3MTYyLDM2NjkzNTQ1MiwzMTY3MTE5NTgsLTEyNDcz
-Njc3NDBdfQ==
+eyJoaXN0b3J5IjpbMzkwNDk1MTMyLDE4OTcwODQwNzMsLTE5OD
+I5NDM5NiwtMTMxMzA3NjAyOCwtMTE5ODgwMzMyOCw0MzQzNTU5
+MTIsOTIwNTMyMjk5LC0xNzM0MzI0NzQ4LC00NjgwMTM4NjksMT
+g2NDMwMzMxLC04NjY0MTY3ODEsLTE2NTM0MTc3MjcsMTAwODg3
+MDA5NywxOTY5MDc0OTA1LDE4MTQ1OTMwNTcsMTgwNDMzOTc0OC
+w5OTQ4NjcxNjIsMzY2OTM1NDUyLDMxNjcxMTk1OCwtMTI0NzM2
+Nzc0MF19
 -->
