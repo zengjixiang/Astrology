@@ -1025,7 +1025,6 @@ _雙魚座：2月19日-3月20日_
 歷史上有名的“二0年代大風暴”正是當海王星出現在獅子座時，在那段時期裏，人們未經思考地做股票投機買賣，因而造成經濟崩潰，及進入經濟蕭條期。
 
 海王星在處女座
-
 > 海王星最近一次通過處女座是從一九二九年到一九四三年。你對健康與雇傭的條件有新的看法。你是第一代能接受精神病學做為你部分日常生活的人。你可能會在理智與情感之間經歷一種很強的拉力，而且可能有接受責任上的困難，這可能讓你會想經由藥物或其他使人產生幻覺的途徑來逃避。有不利的相位時，你可能會有精神病與神經衰弱的癥狀。你也可能是個偉大的人道主義者，為有價值的理想而戰。
 
 當海王星出現在處女座時，會出現無可避免的損害。這一代人的創造力與感受力會受到不利的物質環境破壞。海王星位在處女座的這段時間，正好是在一九三0年代經濟蕭條期，這一代人便是在這惡劣的環境下成長的。經濟秩序混亂的表現為高失業率、嚴重地影響民生，而這方面，正是由處女座所控制。
@@ -1459,11 +1458,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3NjkxOTMzLC0xNzM0MzI0NzQ4LC00Nj
-gwMTM4NjksMTg2NDMwMzMxLC04NjY0MTY3ODEsLTE2NTM0MTc3
-MjcsMTAwODg3MDA5NywxOTY5MDc0OTA1LDE4MTQ1OTMwNTcsMT
-gwNDMzOTc0OCw5OTQ4NjcxNjIsMzY2OTM1NDUyLDMxNjcxMTk1
-OCwtMTI0NzM2Nzc0MCw2MTI3MTY0MjksLTEzOTA0NjMxNSwtNz
-A3OTg3ODY3LC0xMzYwOTM4Nzc5LC0xMjM4NzI2MzQ1LC0xNDE2
-MTgyMTQyXX0=
+eyJoaXN0b3J5IjpbOTIwNTMyMjk5LDIzNzY5MTkzMywtMTczND
+MyNDc0OCwtNDY4MDEzODY5LDE4NjQzMDMzMSwtODY2NDE2Nzgx
+LC0xNjUzNDE3NzI3LDEwMDg4NzAwOTcsMTk2OTA3NDkwNSwxOD
+E0NTkzMDU3LDE4MDQzMzk3NDgsOTk0ODY3MTYyLDM2NjkzNTQ1
+MiwzMTY3MTE5NTgsLTEyNDczNjc3NDAsNjEyNzE2NDI5LC0xMz
+kwNDYzMTUsLTcwNzk4Nzg2NywtMTM2MDkzODc3OSwtMTIzODcy
+NjM0NV19
 -->
