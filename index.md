@@ -863,7 +863,7 @@ _雙魚座：2月19日-3月20日_
 > 聰明、具發明性與原創力，發展在文學、教育、通訊傳播工具與電子學上會采取一種不同的方法。由於你是變動不安的，所以你很難從頭到尾遵循一種想法。不過，你很能夠抓到新的觀念，喜愛改革，特別是在教育方面，你會提倡如自由大學之類的看法。天王星的流暢相位可能給你天才般的靈感，不利的相位可能會導致突兀的言語，不實際、甚至不協調的思想，很少能想到他人的感覺，且與手足或親戚有問題產生，或者表示未受完整的教育。天王星最近一次在雙子座是一九四二年到一九四九年。
 > 
 > 天王星位於雙子座，指示了這個時代的人註定是一種新思維方式的開山祖師。你擁有聰明、原始又直覺性的頭腦。將是科學上、文學上、教育上、電子科學上，以及大眾傳播媒體上新觀念的先鋒。
-
+> 
 > 天王星位於這個星座的人們，有傾向於永不安定的傾向。以至於使你很難從頭到尾堅持一個信念，你需要能發揮自我，使自己的信念得以實現。因為好動通常使你經常外出旅行，以尋找新的社會接觸以及新思想的發掘。天王星位於此星座，顯示了思想上的絕對自由，因為你以自己的思想創造自己的命運，打破標準重新創造生活規範，而這是因為你多方接觸多方學習。
 
 如果天王星受困於此，則你的思想可能雜亂無章、稀奇古怪而且不切實際。你旅遊的時候可能很莽撞或有遇到危險的可能。你與兄弟姊妹及鄰居之間的關系也是不太穩定。
@@ -1433,11 +1433,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTI3MjAyNywtMTMxMzA3NjAyOCwtMT
-E5ODgwMzMyOCw0MzQzNTU5MTIsOTIwNTMyMjk5LC0xNzM0MzI0
-NzQ4LC00NjgwMTM4NjksMTg2NDMwMzMxLC04NjY0MTY3ODEsLT
-E2NTM0MTc3MjcsMTAwODg3MDA5NywxOTY5MDc0OTA1LDE4MTQ1
-OTMwNTcsMTgwNDMzOTc0OCw5OTQ4NjcxNjIsMzY2OTM1NDUyLD
-MxNjcxMTk1OCwtMTI0NzM2Nzc0MCw2MTI3MTY0MjksLTEzOTA0
-NjMxNV19
+eyJoaXN0b3J5IjpbLTYyNzk0OTEyNywxMjc5MjcyMDI3LC0xMz
+EzMDc2MDI4LC0xMTk4ODAzMzI4LDQzNDM1NTkxMiw5MjA1MzIy
+OTksLTE3MzQzMjQ3NDgsLTQ2ODAxMzg2OSwxODY0MzAzMzEsLT
+g2NjQxNjc4MSwtMTY1MzQxNzcyNywxMDA4ODcwMDk3LDE5Njkw
+NzQ5MDUsMTgxNDU5MzA1NywxODA0MzM5NzQ4LDk5NDg2NzE2Mi
+wzNjY5MzU0NTIsMzE2NzExOTU4LC0xMjQ3MzY3NzQwLDYxMjcx
+NjQyOV19
 -->
