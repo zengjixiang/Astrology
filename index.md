@@ -607,8 +607,9 @@ _雙魚座：2月19日-3月20日_
 **★金星：你的愛情**  
 > 在太陽系中，金星是最靠近地球的星球，在黃道上運轉比地球要快。金星是太陽系當中運行軌道最穩定持久，最美的一顆星體。因此在占星學中，金星表現著"喜歡"～即令人喜愛的力量，代表著穩定和諧及與美有關的事物。金星代表著人際關係、帶來與他人和解及調和的力量。本命盤的金星代表一個人的喜好、個人價值觀、審美觀念、人際關係以及金錢觀念。金星是顆女性的、陰性的星，代表我們的愛情觀、愛情運。在男性的星盤圖中，金星表示其心目中理想女性或情人的形象。要知道男性愛慕哪種女性、追求哪種女性，即可從金星的星座來推算。對女性而言，金星代表著她在情人或異性面前，所展現出的感情特質。對於他本身的愛情生活感到興趣的成年人，金星是極為重要的一環。愛與被愛的力量來源、經歷與遭遇，亦可藉由金星所在位置得到大概的瞭解。所以，愛的形式是由金星星座來展現。
 > 
-> 在古希臘的神話故事裡，維納斯是愛之女神，代表了美麗、性感、和諧及藝術。金星的符號是十字架加上一個圓圈，此圓意味著永久，十字架意味著地球，兩者連接象徵地球上的世間理想與愛情的結果，在真實的狀態下，金星象徵著永恆持久的愛情，支配愛情與美麗的事物，它就像月亮那麽的顯示出女性化，也能像木星一樣的代表利益。婚姻也是金星支配的一種狀況。　　  
-  
+> 在古希臘的神話故事裡，維納斯是愛之女神，代表了美麗、性感、和諧及藝術。金星的符號是十字架加上一個圓圈，此圓意味著永久，十字架意味著地球，兩者連接象徵地球上的世間理想與愛情的結果，在真實的狀態下，金星象徵著永恆持久的愛情，支配愛情與美麗的事物，它就像月亮那麽的顯示出女性化，也能像木星一樣的代表利益。婚姻也是金星支配的一種狀況。
+> 　  
+ 
 > 金星更時常的代表美與安逸的賜予。人生鐘有關快樂與奢華享受情形？必須知道金星在個人星點陣圖的位置。在個人星點陣圖中的金星，意味著社交是否受人歡迎，異性間的寵惡，惰性與追求快樂，而金星有些意味著人生表面的歡樂態度，它也暗示著幸運。金星是金牛座和天秤座的守護星，它代表著和諧，美感，愛情等。金星影響一個人的社交生活，是否具有吸引力，適應力強弱等。同時有時也代表金錢，物質慾望。因此，金星強的人會使人有美貌和魅力，但負面可能使人懶惰，猶豫不決，意志薄弱等。  
   
 ●金星代表了平衡和諧，金星性格強的人，比較重視人與人之間的關係的和諧，比較會替他人設想，不喜歡與人爭執，但有時會為了求平衡站在弱勢者的這一邊。金星也代表一個人的審美觀及個人價值觀，所以和情感喜好及金錢觀念有關。金星代表了藝術鑑賞的能力及喜歡的音樂，也可看出一個人享受及奢華的程度。  
@@ -1436,11 +1437,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODk5MzEyMywtMTE5ODgwMzMyOCw0Mz
-QzNTU5MTIsOTIwNTMyMjk5LC0xNzM0MzI0NzQ4LC00NjgwMTM4
-NjksMTg2NDMwMzMxLC04NjY0MTY3ODEsLTE2NTM0MTc3MjcsMT
-AwODg3MDA5NywxOTY5MDc0OTA1LDE4MTQ1OTMwNTcsMTgwNDMz
-OTc0OCw5OTQ4NjcxNjIsMzY2OTM1NDUyLDMxNjcxMTk1OCwtMT
-I0NzM2Nzc0MCw2MTI3MTY0MjksLTEzOTA0NjMxNSwtNzA3OTg3
-ODY3XX0=
+eyJoaXN0b3J5IjpbLTI0NDI3NTA3LC03MDg5OTMxMjMsLTExOT
+g4MDMzMjgsNDM0MzU1OTEyLDkyMDUzMjI5OSwtMTczNDMyNDc0
+OCwtNDY4MDEzODY5LDE4NjQzMDMzMSwtODY2NDE2NzgxLC0xNj
+UzNDE3NzI3LDEwMDg4NzAwOTcsMTk2OTA3NDkwNSwxODE0NTkz
+MDU3LDE4MDQzMzk3NDgsOTk0ODY3MTYyLDM2NjkzNTQ1MiwzMT
+Y3MTE5NTgsLTEyNDczNjc3NDAsNjEyNzE2NDI5LC0xMzkwNDYz
+MTVdfQ==
 -->
