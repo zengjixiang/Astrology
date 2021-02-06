@@ -840,9 +840,8 @@ _雙魚座：2月19日-3月20日_
 天王星落在十二個星座的影響
 
 天王星在牡羊座
-
-你在任何所投入的領域中都是個標準的開路先鋒，生性獨立且資源豐富，你通常會剎車再重頭開始。你向來十分肯定，有時候甚至言語激烈像是有敵意似的，其實你有你自己的道德觀。你擁有良好的機械才能，還有一種不尋常的神經能量。如果你溫和的使用，能將你所有的意念導向建設的管道。如果運用不得當，可能會是個性最叛逆的，不圓滑世故，缺乏自我控制，而且過分狂熱，可能會激烈的拒絕過去所有的傳統。天王星在牡羊座上最近的時間是一九二八年到一九三四年。
-
+> 你在任何所投入的領域中都是個標準的開路先鋒，生性獨立且資源豐富，你通常會剎車再重頭開始。你向來十分肯定，有時候甚至言語激烈像是有敵意似的，其實你有你自己的道德觀。你擁有良好的機械才能，還有一種不尋常的神經能量。如果你溫和的使用，能將你所有的意念導向建設的管道。如果運用不得當，可能會是個性最叛逆的，不圓滑世故，缺乏自我控制，而且過分狂熱，可能會激烈的拒絕過去所有的傳統。天王星在牡羊座上最近的時間是一九二八年到一九三四年。
+> 
 > 天王星位於牡羊座顯示了對科技濃厚的興趣以及改善環境的理想，你擁有勇氣、大膽、富創造性又有才智。你粗魯同時坦率，做為一個新生代，你企求改變而且拒絕與父母及長輩同住。你的冒險精神強烈，而且需要不斷的創新經驗以維持生活活力。
 > 
 > 但是如果天王星受困於牡羊座，你就可能變得具有爆炸性的沖動、對政治過分專註、暴力傾向，以及對過去遭遇無法釋懷。你必須學習如何關心別人以及如何與他人合作，當你太強調自我時，自己心情也不會好。
@@ -1423,11 +1422,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxNzEyNzYzLDQ0NDM2NTA3MywtMTk4Mj
-k0Mzk2LC0xMzEzMDc2MDI4LC0xMTk4ODAzMzI4LDQzNDM1NTkx
-Miw5MjA1MzIyOTksLTE3MzQzMjQ3NDgsLTQ2ODAxMzg2OSwxOD
-Y0MzAzMzEsLTg2NjQxNjc4MSwtMTY1MzQxNzcyNywxMDA4ODcw
-MDk3LDE5NjkwNzQ5MDUsMTgxNDU5MzA1NywxODA0MzM5NzQ4LD
-k5NDg2NzE2MiwzNjY5MzU0NTIsMzE2NzExOTU4LC0xMjQ3MzY3
-NzQwXX0=
+eyJoaXN0b3J5IjpbMTg5NzA4NDA3MywzMzE3MTI3NjMsLTE5OD
+I5NDM5NiwtMTMxMzA3NjAyOCwtMTE5ODgwMzMyOCw0MzQzNTU5
+MTIsOTIwNTMyMjk5LC0xNzM0MzI0NzQ4LC00NjgwMTM4NjksMT
+g2NDMwMzMxLC04NjY0MTY3ODEsLTE2NTM0MTc3MjcsMTAwODg3
+MDA5NywxOTY5MDc0OTA1LDE4MTQ1OTMwNTcsMTgwNDMzOTc0OC
+w5OTQ4NjcxNjIsMzY2OTM1NDUyLDMxNjcxMTk1OCwtMTI0NzM2
+Nzc0MF19
 -->
