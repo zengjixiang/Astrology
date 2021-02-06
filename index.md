@@ -1003,10 +1003,8 @@ _雙魚座：2月19日-3月20日_
 當海王星出現在金牛座時，會出現許多瘋狂於將金錢及資源作最好利用的理想主義者，這一代人想盡辦法將內心所勾勒的世界以實際的手段展現出來。你的缺點是先入為主地把金錢與物質的價值看得太重要。
 
 海王星在雙子座
-
-海王星最近一次位在雙子座是從一八八七年到一九零一年。你會發展出許多有關貿易、商業、旅行與通訊的新理論。天性機警、好問與不安，你對新奇不同的經驗有種渴望，很難定得下來。有不利的相位時，你可能會全神貫註於膚淺的價值，易受外在影響，愛辯論、有手腕、心胸狹窄、愛說閑話。
-
-海王星落在雙子座
+> 海王星最近一次位在雙子座是從一八八七年到一九零一年。你會發展出許多有關貿易、商業、旅行與通訊的新理論。天性機警、好問與不安，你對新奇不同的經驗有種渴望，很難定得下來。有不利的相位時，你可能會全神貫註於膚淺的價值，易受外在影響，愛辯論、有手腕、心胸狹窄、愛說閑話。
+>
 > 當海王星出現在雙子座時，會使這一代人，藉由文學及詩的創作不斷努力地來發展心靈的想象力及感受力。這些人有著活潑而且豐富的想象力，並能透過腦中對圖像的建構能力，將意識中最深不可知的訊息傳遞出來。你的缺點是容易被夢想中的世界及其表面的價值所蒙蔽，在現實中的思考及溝通會產生諸多問題。
 
 海王星在巨蟹座
@@ -1457,11 +1455,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDczODk3NDksOTIwNTMyMjk5LC0xNz
-M0MzI0NzQ4LC00NjgwMTM4NjksMTg2NDMwMzMxLC04NjY0MTY3
-ODEsLTE2NTM0MTc3MjcsMTAwODg3MDA5NywxOTY5MDc0OTA1LD
-E4MTQ1OTMwNTcsMTgwNDMzOTc0OCw5OTQ4NjcxNjIsMzY2OTM1
-NDUyLDMxNjcxMTk1OCwtMTI0NzM2Nzc0MCw2MTI3MTY0MjksLT
-EzOTA0NjMxNSwtNzA3OTg3ODY3LC0xMzYwOTM4Nzc5LC0xMjM4
-NzI2MzQ1XX0=
+eyJoaXN0b3J5IjpbOTk0Mjc0MTY3LDkyMDUzMjI5OSwtMTczND
+MyNDc0OCwtNDY4MDEzODY5LDE4NjQzMDMzMSwtODY2NDE2Nzgx
+LC0xNjUzNDE3NzI3LDEwMDg4NzAwOTcsMTk2OTA3NDkwNSwxOD
+E0NTkzMDU3LDE4MDQzMzk3NDgsOTk0ODY3MTYyLDM2NjkzNTQ1
+MiwzMTY3MTE5NTgsLTEyNDczNjc3NDAsNjEyNzE2NDI5LC0xMz
+kwNDYzMTUsLTcwNzk4Nzg2NywtMTM2MDkzODc3OSwtMTIzODcy
+NjM0NV19
 -->
