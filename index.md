@@ -855,9 +855,9 @@ _雙魚座：2月19日-3月20日_
 
 天王星位於金牛座，暗示了對花費金錢方式及賺取來源有創新想法的年代，你喜歡在商業及經濟上改革創造，而這兩個領域，正是你期望理想實行之處。你希望以一種獨立及原始的方法去實踐。你擁有宏大的決心及目的，但如果天王星受困於此，可能造成過分固執。
 
-天王星在此呈弱勢局面，因此你的直覺反應受到物質障礙的限制，或者是想要快速改變時會有困難。與家庭的溝通不良也可能令你沮喪。精神上的沖動，可能受到保守勢力的阻礙。
+> 天王星在此呈弱勢局面，因此你的直覺反應受到物質障礙的限制，或者是想要快速改變時會有困難。與家庭的溝通不良也可能令你沮喪。精神上的沖動，可能受到保守勢力的阻礙。
 
-如果天王星在金牛座相位而正確，可能帶給你不尋常的藝術及音樂天分。你對應用現代電子科技在管理、會計及商業上也會有很大的興趣。
+> 如果天王星在金牛座相位而正確，可能帶給你不尋常的藝術及音樂天分。你對應用現代電子科技在管理、會計及商業上也會有很大的興趣。
 
 天王星在雙子座
 > 聰明、具發明性與原創力，發展在文學、教育、通訊傳播工具與電子學上會采取一種不同的方法。由於你是變動不安的，所以你很難從頭到尾遵循一種想法。不過，你很能夠抓到新的觀念，喜愛改革，特別是在教育方面，你會提倡如自由大學之類的看法。天王星的流暢相位可能給你天才般的靈感，不利的相位可能會導致突兀的言語，不實際、甚至不協調的思想，很少能想到他人的感覺，且與手足或親戚有問題產生，或者表示未受完整的教育。天王星最近一次在雙子座是一九四二年到一九四九年。
@@ -1424,11 +1424,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjkyNTE2OTUsLTE5ODI5NDM5NiwtMT
-MxMzA3NjAyOCwtMTE5ODgwMzMyOCw0MzQzNTU5MTIsOTIwNTMy
-Mjk5LC0xNzM0MzI0NzQ4LC00NjgwMTM4NjksMTg2NDMwMzMxLC
-04NjY0MTY3ODEsLTE2NTM0MTc3MjcsMTAwODg3MDA5NywxOTY5
-MDc0OTA1LDE4MTQ1OTMwNTcsMTgwNDMzOTc0OCw5OTQ4NjcxNj
-IsMzY2OTM1NDUyLDMxNjcxMTk1OCwtMTI0NzM2Nzc0MCw2MTI3
-MTY0MjldfQ==
+eyJoaXN0b3J5IjpbNDQ0MzY1MDczLC0xNjI5MjUxNjk1LC0xOT
+gyOTQzOTYsLTEzMTMwNzYwMjgsLTExOTg4MDMzMjgsNDM0MzU1
+OTEyLDkyMDUzMjI5OSwtMTczNDMyNDc0OCwtNDY4MDEzODY5LD
+E4NjQzMDMzMSwtODY2NDE2NzgxLC0xNjUzNDE3NzI3LDEwMDg4
+NzAwOTcsMTk2OTA3NDkwNSwxODE0NTkzMDU3LDE4MDQzMzk3ND
+gsOTk0ODY3MTYyLDM2NjkzNTQ1MiwzMTY3MTE5NTgsLTEyNDcz
+Njc3NDBdfQ==
 -->
