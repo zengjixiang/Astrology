@@ -1092,11 +1092,10 @@ _雙魚座：2月19日-3月20日_
 
 ----
 
-冥王星落在十二個星座的影響
+冥王星落在十二星座的影響
 
 冥王星在牡羊座
-
-冥王星最近一次位在牡羊座是從一八二三年到一八五一年間。這個世代一種改革的強大願望，對權利或復仇有一種著魔般的需要，如果他們感覺受到攻擊的話，擁有充沛的活力與大膽。他們的想象力幾乎沒有邊際，不過他們需要自我約束，要不然可能耕盡自己的體力。
+> 冥王星最近一次位在牡羊座是從一八二三年到一八五一年間。這個世代一種改革的強大願望，對權利或復仇有一種著魔般的需要，如果他們感覺受到攻擊的話，擁有充沛的活力與大膽。他們的想象力幾乎沒有邊際，不過他們需要自我約束，要不然可能耕盡自己的體力。
 
 牡羊座是十二星座循環之首，它代表的是一種尋找新經驗的開始。冥王星位在牡羊歷時，正是美國開國先鋒開拓廣大處女之地的黃金時代，這些人憑著無比的勇氣克服了許多困難，為的是要建立自由而又全新的生活方式。從他們流傳下來的西部拓荒故事中可以得知，那是一段不得不以暴力解決困難的時期。
 
@@ -1464,11 +1463,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzQzMjQ3NDgsLTQ2ODAxMzg2OSwxOD
-Y0MzAzMzEsLTg2NjQxNjc4MSwtMTY1MzQxNzcyNywxMDA4ODcw
-MDk3LDE5NjkwNzQ5MDUsMTgxNDU5MzA1NywxODA0MzM5NzQ4LD
-k5NDg2NzE2MiwzNjY5MzU0NTIsMzE2NzExOTU4LC0xMjQ3MzY3
-NzQwLDYxMjcxNjQyOSwtMTM5MDQ2MzE1LC03MDc5ODc4NjcsLT
-EzNjA5Mzg3NzksLTEyMzg3MjYzNDUsLTE0MTYxODIxNDIsMTM5
-NDkwMTk1MF19
+eyJoaXN0b3J5IjpbMTc5MTQ2OTQwMywtMTczNDMyNDc0OCwtND
+Y4MDEzODY5LDE4NjQzMDMzMSwtODY2NDE2NzgxLC0xNjUzNDE3
+NzI3LDEwMDg4NzAwOTcsMTk2OTA3NDkwNSwxODE0NTkzMDU3LD
+E4MDQzMzk3NDgsOTk0ODY3MTYyLDM2NjkzNTQ1MiwzMTY3MTE5
+NTgsLTEyNDczNjc3NDAsNjEyNzE2NDI5LC0xMzkwNDYzMTUsLT
+cwNzk4Nzg2NywtMTM2MDkzODc3OSwtMTIzODcyNjM0NSwtMTQx
+NjE4MjE0Ml19
 -->
