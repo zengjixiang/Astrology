@@ -1016,8 +1016,8 @@ _雙魚座：2月19日-3月20日_
 > 當海王星出現在獅子座時，會使這一代人具有優越的音樂、藝術才能。你對戲劇及其它表演藝術特別有興趣，你的創造力大多來自於崇高的精神啟發。海王星位在獅子座，會使人在追求愛情時充滿浪漫及理想主義。
 >
 > 你的缺點是在戀愛及求愛時會自我欺騙、妄想。為了追求享樂，花費毫無節制；管教孩子時，缺乏實際、正確的做法。
-
-歷史上有名的“二0年代大風暴”正是當海王星出現在獅子座時，在那段時期裏，人們未經思考地做股票投機買賣，因而造成經濟崩潰，及進入經濟蕭條期。
+> 
+> 歷史上有名的“二0年代大風暴”正是當海王星出現在獅子座時，在那段時期裏，人們未經思考地做股票投機買賣，因而造成經濟崩潰，及進入經濟蕭條期。
 
 海王星在處女座
 > 海王星最近一次通過處女座是從一九二九年到一九四三年。你對健康與雇傭的條件有新的看法。你是第一代能接受精神病學做為你部分日常生活的人。你可能會在理智與情感之間經歷一種很強的拉力，而且可能有接受責任上的困難，這可能讓你會想經由藥物或其他使人產生幻覺的途徑來逃避。有不利的相位時，你可能會有精神病與神經衰弱的癥狀。你也可能是個偉大的人道主義者，為有價值的理想而戰。
@@ -1453,11 +1453,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDI5NDk3OSw5MjA1MzIyOTksLTE3Mz
-QzMjQ3NDgsLTQ2ODAxMzg2OSwxODY0MzAzMzEsLTg2NjQxNjc4
-MSwtMTY1MzQxNzcyNywxMDA4ODcwMDk3LDE5NjkwNzQ5MDUsMT
-gxNDU5MzA1NywxODA0MzM5NzQ4LDk5NDg2NzE2MiwzNjY5MzU0
-NTIsMzE2NzExOTU4LC0xMjQ3MzY3NzQwLDYxMjcxNjQyOSwtMT
-M5MDQ2MzE1LC03MDc5ODc4NjcsLTEzNjA5Mzg3NzksLTEyMzg3
-MjYzNDVdfQ==
+eyJoaXN0b3J5IjpbMTE0OTgxMjQ4NywxNjAwMjk0OTc5LDkyMD
+UzMjI5OSwtMTczNDMyNDc0OCwtNDY4MDEzODY5LDE4NjQzMDMz
+MSwtODY2NDE2NzgxLC0xNjUzNDE3NzI3LDEwMDg4NzAwOTcsMT
+k2OTA3NDkwNSwxODE0NTkzMDU3LDE4MDQzMzk3NDgsOTk0ODY3
+MTYyLDM2NjkzNTQ1MiwzMTY3MTE5NTgsLTEyNDczNjc3NDAsNj
+EyNzE2NDI5LC0xMzkwNDYzMTUsLTcwNzk4Nzg2NywtMTM2MDkz
+ODc3OV19
 -->
