@@ -976,7 +976,7 @@ _雙魚座：2月19日-3月20日_
 海王星落在十二個星座的影響
 
 海王星在牡羊座
->從一六八一年至一八七四年，海王星停留在牡羊座。在海王星停留於牡羊座期間出生的人，倡導了許多新的宗教觀念與哲學觀。他們都同樣擁有一種強烈的使命感，能表現出很大的想象力、創造力與自覺力。若相位受克，會使星盤主滿懷虛榮與自私的計謀，而且充滿邪惡的欲望。
+> 從一六八一年至一八七四年，海王星停留在牡羊座。在海王星停留於牡羊座期間出生的人，倡導了許多新的宗教觀念與哲學觀。他們都同樣擁有一種強烈的使命感，能表現出很大的想象力、創造力與自覺力。若相位受克，會使星盤主滿懷虛榮與自私的計謀，而且充滿邪惡的欲望。
 >
 > 當海王星出現在牡羊座時，會使這一代人在開創神秘宗教思想上有傑出的表現。這些人對於創新、改造精神性的事物有強烈的直覺及欲望。然而你的缺點，則是會表現出自大與自我主義。
 
@@ -1424,11 +1424,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjg2OTYwNywtMTk4Mjk0Mzk2LC0xMz
-EzMDc2MDI4LC0xMTk4ODAzMzI4LDQzNDM1NTkxMiw5MjA1MzIy
-OTksLTE3MzQzMjQ3NDgsLTQ2ODAxMzg2OSwxODY0MzAzMzEsLT
-g2NjQxNjc4MSwtMTY1MzQxNzcyNywxMDA4ODcwMDk3LDE5Njkw
-NzQ5MDUsMTgxNDU5MzA1NywxODA0MzM5NzQ4LDk5NDg2NzE2Mi
-wzNjY5MzU0NTIsMzE2NzExOTU4LC0xMjQ3MzY3NzQwLDYxMjcx
-NjQyOV19
+eyJoaXN0b3J5IjpbLTE2MjkyNTE2OTUsLTE5ODI5NDM5NiwtMT
+MxMzA3NjAyOCwtMTE5ODgwMzMyOCw0MzQzNTU5MTIsOTIwNTMy
+Mjk5LC0xNzM0MzI0NzQ4LC00NjgwMTM4NjksMTg2NDMwMzMxLC
+04NjY0MTY3ODEsLTE2NTM0MTc3MjcsMTAwODg3MDA5NywxOTY5
+MDc0OTA1LDE4MTQ1OTMwNTcsMTgwNDMzOTc0OCw5OTQ4NjcxNj
+IsMzY2OTM1NDUyLDMxNjcxMTk1OCwtMTI0NzM2Nzc0MCw2MTI3
+MTY0MjldfQ==
 -->
