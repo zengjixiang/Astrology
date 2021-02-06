@@ -929,8 +929,7 @@ _雙魚座：2月19日-3月20日_
 > 天王星位於射手座帶給人們對外國文化的好奇心，所以你常常基於冒險犯難的精神而突然長途旅行，對於別的國家或外國人有特別的經歷，也有采納別國宗教及哲學的傾向。
 
 天王星在魔羯座
-
-你希望政府，政治等有新的改變，而且願意為創造一個更好的將來而立法。雖然你宣導明日，卻不願放棄昨日。你睿智的看法使你或為一位有吸引力，令人振奮的領導者。你的預感與見解良好，能夠接受舊傳統，以嶄新的方式來看待它。你對土地、資源與家畜感興趣，你可以用科學的方法在這些領域上建立關系。然而在魔羯座與天王星裏有一種本質上的沖突，一個喜愛固守傳統，而另一個則是改變的行星。如果你無法調節這種沖突，你可能會變得不安，與緊張。
+> 你希望政府，政治等有新的改變，而且願意為創造一個更好的將來而立法。雖然你宣導明日，卻不願放棄昨日。你睿智的看法使你或為一位有吸引力，令人振奮的領導者。你的預感與見解良好，能夠接受舊傳統，以嶄新的方式來看待它。你對土地、資源與家畜感興趣，你可以用科學的方法在這些領域上建立關系。然而在魔羯座與天王星裏有一種本質上的沖突，一個喜愛固守傳統，而另一個則是改變的行星。如果你無法調節這種沖突，你可能會變得不安，與緊張。
 
 天王星位於魔羯座，暗示了這一時代的人對政府及商業權力結構力重要的影響力。你希望改善自己的地位來確保自己將來的安全，但在實行時應特別小心，因為這就像在舊基礎上建築新東西，在勉強完成過去的情況下追求建設性的改變。
 
@@ -1427,11 +1426,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzEyOTYzMywxNzc5MjAxNDI1LC0xMz
-EzMDc2MDI4LC0xMTk4ODAzMzI4LDQzNDM1NTkxMiw5MjA1MzIy
-OTksLTE3MzQzMjQ3NDgsLTQ2ODAxMzg2OSwxODY0MzAzMzEsLT
-g2NjQxNjc4MSwtMTY1MzQxNzcyNywxMDA4ODcwMDk3LDE5Njkw
-NzQ5MDUsMTgxNDU5MzA1NywxODA0MzM5NzQ4LDk5NDg2NzE2Mi
-wzNjY5MzU0NTIsMzE2NzExOTU4LC0xMjQ3MzY3NzQwLDYxMjcx
-NjQyOV19
+eyJoaXN0b3J5IjpbOTE2ODY4MzMsMTgzNzEyOTYzMywtMTMxMz
+A3NjAyOCwtMTE5ODgwMzMyOCw0MzQzNTU5MTIsOTIwNTMyMjk5
+LC0xNzM0MzI0NzQ4LC00NjgwMTM4NjksMTg2NDMwMzMxLC04Nj
+Y0MTY3ODEsLTE2NTM0MTc3MjcsMTAwODg3MDA5NywxOTY5MDc0
+OTA1LDE4MTQ1OTMwNTcsMTgwNDMzOTc0OCw5OTQ4NjcxNjIsMz
+Y2OTM1NDUyLDMxNjcxMTk1OCwtMTI0NzM2Nzc0MCw2MTI3MTY0
+MjldfQ==
 -->
