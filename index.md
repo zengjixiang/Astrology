@@ -1052,10 +1052,9 @@ _雙魚座：2月19日-3月20日_
 > 
 > 當海王星進入魔羯座時，世界各國的政局開始混亂不安，經濟制度與政治制度也將受到強烈的震撼。然而，在這些混亂與不安之外，才真正在現實社會中，看見人類心靈情操的具體實踐。
 > 
-
 > 人類將不再有閑情逸致追求射手座抽象性的崇高價值。為了求生存，人類必須被迫將精神性靈與現實生活整合。由於雙魚座時代來臨之前，人類必須經歷不同階段的考驗，因而，在這個時期中能存活下來的人，將能在精神上達到更高的境界。
 
-為了現實需要，新形態的政府組織及政治觀念將會出現。在這一個時期結束之前，無國界的政府組織將會出現。
+>為了現實需要，新形態的政府組織及政治觀念將會出現。在這一個時期結束之前，無國界的政府組織將會出現。
 
 海王星於一九九八年到二零一二年進入本座。這個時代的人，他們泰然處之的態度，混合著對抽象事物的了解能力，結果在藝術與發明上產生許多新方法。當海王星再度通過水瓶座時，很多星象家感應到，這可能時再聖經中所預示的啟示錄中的千年和平時期的開始，且宇宙的和諧可能成為一項事實。我們希望他們是對的。
 
@@ -1453,7 +1452,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDAzMDM2OSwxMTQ5ODEyNDg3LDkyMD
+eyJoaXN0b3J5IjpbMTA5OTI2NDA4OSwxMTA0MDMwMzY5LDkyMD
 UzMjI5OSwtMTczNDMyNDc0OCwtNDY4MDEzODY5LDE4NjQzMDMz
 MSwtODY2NDE2NzgxLC0xNjUzNDE3NzI3LDEwMDg4NzAwOTcsMT
 k2OTA3NDkwNSwxODE0NTkzMDU3LDE4MDQzMzk3NDgsOTk0ODY3
