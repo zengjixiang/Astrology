@@ -637,10 +637,10 @@ _雙魚座：2月19日-3月20日_
 覺得和有相同興趣的人一起工作、遊玩，是件快樂的事。態度幽雅、和諧。有時會從異性那兒都到金運，不過，亦常會因見異思遷而感情不專。  
   
 **金星在天蠍座：**  
+
 熱情、具魅力。猜疑心過強，有時會顯的貧乏而不健康。喜歡從事秘密的合作關係，不過，有時因獨佔欲過強，反而使對方產生厭惡感。  
   
-**金星在射手座：**  
-
+**金星在射手座：**
 > 寬大、精力充沛。此行人快活爽朗，不喜歡受束縛，與其結婚，倒不如做一名自由的單身者較快樂。若能和外國人交往的話，必有發展。  
   
 **金星在摩羯座：**  
@@ -1437,11 +1437,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MzczNTQ0OCwtMjQ0Mjc1MDcsLTExOT
-g4MDMzMjgsNDM0MzU1OTEyLDkyMDUzMjI5OSwtMTczNDMyNDc0
-OCwtNDY4MDEzODY5LDE4NjQzMDMzMSwtODY2NDE2NzgxLC0xNj
-UzNDE3NzI3LDEwMDg4NzAwOTcsMTk2OTA3NDkwNSwxODE0NTkz
-MDU3LDE4MDQzMzk3NDgsOTk0ODY3MTYyLDM2NjkzNTQ1MiwzMT
-Y3MTE5NTgsLTEyNDczNjc3NDAsNjEyNzE2NDI5LC0xMzkwNDYz
-MTVdfQ==
+eyJoaXN0b3J5IjpbLTEzMTMwNzYwMjgsLTg5MzczNTQ0OCwtMT
+E5ODgwMzMyOCw0MzQzNTU5MTIsOTIwNTMyMjk5LC0xNzM0MzI0
+NzQ4LC00NjgwMTM4NjksMTg2NDMwMzMxLC04NjY0MTY3ODEsLT
+E2NTM0MTc3MjcsMTAwODg3MDA5NywxOTY5MDc0OTA1LDE4MTQ1
+OTMwNTcsMTgwNDMzOTc0OCw5OTQ4NjcxNjIsMzY2OTM1NDUyLD
+MxNjcxMTk1OCwtMTI0NzM2Nzc0MCw2MTI3MTY0MjksLTEzOTA0
+NjMxNV19
 -->
