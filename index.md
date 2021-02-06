@@ -778,7 +778,7 @@ _雙魚座：2月19日-3月20日_
   
 ●土星所代表的人生方向是經由自保的原則，來發揮防禦的效用。在占星學上暗示著命運中的困難或試鍊等陰暗面，命運中潛藏的危機、困擾。同時也代表著個人性格上的弱點，對造成命運中危機的主因，與個性上的缺失。土星亦將使個人面對許多生理問題；因此，亦暗示出可能會經歷的困難與限制。土星的位置也表示出一個人是否能夠好好發展自己的事業。土星若是愈遠離日月星座或上昇星座，則愈能客觀而外向。經由土星的位置的表現，可進而使個人瞭解應如何擔負起責任，發展其成熟度，並找出化解危機和改善缺點的方法。通常土星在星盤中的宮位，也表示個人最缺乏安全感，並試圖極力補償的領域。  
   
-●土星象徵困難的，滯礙難行的，所以土星所在位置充滿了壓抑的意味。土星性格強的人，個性較為陰鬱內歛，為人比較謹慎持重，守規矩不逾越常規是其優點，但容易過份壓抑自己，使得自己凡事往壞處想，人生觀消極悲觀，甚至隋落沉淪可就不是一件好事了。在土星的困難背後所帶來的是一種責任，當你願扛下這種重大的負擔並學習成長，土星所代表的就變成你的最大成就，可能就沒有事可以難倒你了，所以土星象徵勤奮及勞動，代表一個人的耐力。土星和謹慎防禦有關，如城堡堅固城牆一樣，土星接受限制從困境中成長，因而顯得嚴肅而不知變通，也常顯得孤獨而有野心。土星和架構有關，因此土星代表一個人的組織能力。此外，土星在太陽系當中，是最多衛星的行星，因此土星也有多產的意味（特別指女孩子多子女的現象)。  
+●> 土星象徵困難的，滯礙難行的，所以土星所在位置充滿了壓抑的意味。土星性格強的人，個性較為陰鬱內歛，為人比較謹慎持重，守規矩不逾越常規是其優點，但容易過份壓抑自己，使得自己凡事往壞處想，人生觀消極悲觀，甚至隋落沉淪可就不是一件好事了。在土星的困難背後所帶來的是一種責任，當你願扛下這種重大的負擔並學習成長，土星所代表的就變成你的最大成就，可能就沒有事可以難倒你了，所以土星象徵勤奮及勞動，代表一個人的耐力。土星和謹慎防禦有關，如城堡堅固城牆一樣，土星接受限制從困境中成長，因而顯得嚴肅而不知變通，也常顯得孤獨而有野心。土星和架構有關，因此土星代表一個人的組織能力。此外，土星在太陽系當中，是最多衛星的行星，因此土星也有多產的意味（特別指女孩子多子女的現象)。  
   
 **★土星與星座：**  
 > 土星所屬的星座代表了一個人如何克服他的難關。他的壓力是何種模式，他們如何面對挑戰，如何負起責任，建立自己的事業。  
@@ -1420,11 +1420,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwNDk1MTMyLDE4OTcwODQwNzMsLTE5OD
-I5NDM5NiwtMTMxMzA3NjAyOCwtMTE5ODgwMzMyOCw0MzQzNTU5
-MTIsOTIwNTMyMjk5LC0xNzM0MzI0NzQ4LC00NjgwMTM4NjksMT
-g2NDMwMzMxLC04NjY0MTY3ODEsLTE2NTM0MTc3MjcsMTAwODg3
-MDA5NywxOTY5MDc0OTA1LDE4MTQ1OTMwNTcsMTgwNDMzOTc0OC
-w5OTQ4NjcxNjIsMzY2OTM1NDUyLDMxNjcxMTk1OCwtMTI0NzM2
-Nzc0MF19
+eyJoaXN0b3J5IjpbMjEwMzM3MzY5NCwzOTA0OTUxMzIsMTg5Nz
+A4NDA3MywtMTk4Mjk0Mzk2LC0xMzEzMDc2MDI4LC0xMTk4ODAz
+MzI4LDQzNDM1NTkxMiw5MjA1MzIyOTksLTE3MzQzMjQ3NDgsLT
+Q2ODAxMzg2OSwxODY0MzAzMzEsLTg2NjQxNjc4MSwtMTY1MzQx
+NzcyNywxMDA4ODcwMDk3LDE5NjkwNzQ5MDUsMTgxNDU5MzA1Ny
+wxODA0MzM5NzQ4LDk5NDg2NzE2MiwzNjY5MzU0NTIsMzE2NzEx
+OTU4XX0=
 -->
