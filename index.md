@@ -896,8 +896,8 @@ _雙魚座：2月19日-3月20日_
 > 雖然天王星位於處女座的人們還在孩童時期，但他們就已經展現出在工業、科學、科技、勞資關系、生態學以及健康看護方面的獨特長才。生於一九六四至一九六八年的兒童，天王星在處女座與冥王星呈合相，他們對上述提及的領域將特別有決定性的影響力。這些年代的人剛好首當其沖地遇上傳承人類之重責，以迎接天王星所主宰的水瓶座時代的到來。
 > 
 > 你對商業有不尋常的天分，以及在工作上有十足的實際應變能力，但是，在就業時將遭遇許多意外。
-
->天王星受困於此會造成稀奇古怪的健康問題，你可能會對節食和心理控制對健康的影響有興趣。
+> 
+> 天王星受困於此會造成稀奇古怪的健康問題，你可能會對節食和心理控制對健康的影響有興趣。
 
 天王星在天秤座
 
@@ -1430,7 +1430,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTMxODAzNSwtNjI3OTQ5MTI3LC0xMz
+eyJoaXN0b3J5IjpbMTc3OTIwMTQyNSwxMTU1MzE4MDM1LC0xMz
 EzMDc2MDI4LC0xMTk4ODAzMzI4LDQzNDM1NTkxMiw5MjA1MzIy
 OTksLTE3MzQzMjQ3NDgsLTQ2ODAxMzg2OSwxODY0MzAzMzEsLT
 g2NjQxNjc4MSwtMTY1MzQxNzcyNywxMDA4ODcwMDk3LDE5Njkw
