@@ -593,10 +593,10 @@ _雙魚座：2月19日-3月20日_
 **水星在摩羯座：**  
 > 不和悅，意志力薄弱，但是，胸懷踏實，忍耐力強。常常將目標集中於實際利益方面。對化學、宗教、政治、命運發生興趣。  
   
-**水星在水瓶座：**  
+**水星在水瓶座**  
 > 喜歡藝術和學問之智者。喜歡說話，然嚴守交際禮節。對發明、發掘、考古學、未來、飛機和照明發生興趣。  
   
-**水星在雙魚座：**  
+**水星在雙魚座**  
 > 直覺而富同情心。對藝術、心理方面之事發生強烈的感受性。慈善事業、神靈、音樂、跳舞、海洋、藥品發生興趣。
 
 ----
@@ -1418,11 +1418,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4NzAxOTE1LC0xNjIyMDQ3NTA1LDM2OT
-I0MDQ5NiwxMzQyMzcwNDA1LDExMjM5Mjg1NzksLTExMzYzNzI3
-MzcsMTkxNDU2MjQ4LC0xMDM2Mjg5ODE4LDE4OTcwODQwNzMsLT
-E5ODI5NDM5NiwtMTMxMzA3NjAyOCwtMTE5ODgwMzMyOCw0MzQz
-NTU5MTIsOTIwNTMyMjk5LC0xNzM0MzI0NzQ4LC00NjgwMTM4Nj
-ksMTg2NDMwMzMxLC04NjY0MTY3ODEsLTE2NTM0MTc3MjcsMTAw
-ODg3MDA5N119
+eyJoaXN0b3J5IjpbLTIwMzY3MTE5MjMsMjQ4NzAxOTE1LC0xNj
+IyMDQ3NTA1LDM2OTI0MDQ5NiwxMzQyMzcwNDA1LDExMjM5Mjg1
+NzksLTExMzYzNzI3MzcsMTkxNDU2MjQ4LC0xMDM2Mjg5ODE4LD
+E4OTcwODQwNzMsLTE5ODI5NDM5NiwtMTMxMzA3NjAyOCwtMTE5
+ODgwMzMyOCw0MzQzNTU5MTIsOTIwNTMyMjk5LC0xNzM0MzI0Nz
+Q4LC00NjgwMTM4NjksMTg2NDMwMzMxLC04NjY0MTY3ODEsLTE2
+NTM0MTc3MjddfQ==
 -->
