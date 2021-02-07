@@ -977,7 +977,7 @@ _雙魚座：2月19日-3月20日_
 
 海王星在金牛座
 > 海王星最近一次出現在金牛座是一八七四到一八八七年。你對科學與藝術有一種實際的態度。你對音樂有所回應，然而你也有與生俱來的生意頭腦，對安全感有強烈需要，可能容易受他人誤會。對冥王星所形成的相位可能使你擁有治療的能力。海王星有不利相位時，可能導致對財產過於全神貫註，或者在處理金錢上會自我欺騙與粗心大意。
-
+> 
 > 當海王星出現在金牛座時，會出現許多瘋狂於將金錢及資源作最好利用的理想主義者，這一代人想盡辦法將內心所勾勒的世界以實際的手段展現出來。你的缺點是先入為主地把金錢與物質的價值看得太重要。
 
 海王星在雙子座
@@ -1420,11 +1420,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzkyODU3OSwtMTEzNjM3MjczNywxOT
-E0NTYyNDgsLTEwMzYyODk4MTgsMTg5NzA4NDA3MywtMTk4Mjk0
-Mzk2LC0xMzEzMDc2MDI4LC0xMTk4ODAzMzI4LDQzNDM1NTkxMi
-w5MjA1MzIyOTksLTE3MzQzMjQ3NDgsLTQ2ODAxMzg2OSwxODY0
-MzAzMzEsLTg2NjQxNjc4MSwtMTY1MzQxNzcyNywxMDA4ODcwMD
-k3LDE5NjkwNzQ5MDUsMTgxNDU5MzA1NywxODA0MzM5NzQ4LDk5
-NDg2NzE2Ml19
+eyJoaXN0b3J5IjpbMTM0MjM3MDQwNSwxMTIzOTI4NTc5LC0xMT
+M2MzcyNzM3LDE5MTQ1NjI0OCwtMTAzNjI4OTgxOCwxODk3MDg0
+MDczLC0xOTgyOTQzOTYsLTEzMTMwNzYwMjgsLTExOTg4MDMzMj
+gsNDM0MzU1OTEyLDkyMDUzMjI5OSwtMTczNDMyNDc0OCwtNDY4
+MDEzODY5LDE4NjQzMDMzMSwtODY2NDE2NzgxLC0xNjUzNDE3Nz
+I3LDEwMDg4NzAwOTcsMTk2OTA3NDkwNSwxODE0NTkzMDU3LDE4
+MDQzMzk3NDhdfQ==
 -->
