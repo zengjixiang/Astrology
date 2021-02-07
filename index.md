@@ -731,7 +731,7 @@ _雙魚座：2月19日-3月20日_
   
 ●木星所屬的星座表現出一個人如何表現出自己自己樂觀的一面。一個人如何向外擴張，他如何與他人分享以及如何獲得幸運。  
 
-**木星 VS. 十二星座**  
+**木星落在十二星座的解釋**  
   
 **木星在白羊座：**  
 對於積極而充滿建設性之事，若以踏實求進的精神認真完成的話，可獲致幸福。此外，擁有正義感和包容力也極為重要。  
@@ -747,11 +747,11 @@ _雙魚座：2月19日-3月20日_
   
 **木星在獅子座：**  
 態度幽雅、莊嚴。擅長利用頭銜和外表從事社交。最重要的，期能成為社交中心的主宰。  
-**  
-木星在處女座：**  
+
+**木星在處女座：**  
 充滿熱情，積極地參加聚會和集會，具有精密、踏實而謹慎的外交手腕，是追求良機之關鍵。善於保存資料亦是成功要素之一。  
-**  
-木星在天秤座：**  
+
+**木星在天秤座：**  
 聰明而富社交才能。態度親切及祥和，如能利用這些為眾人所喜愛的長處，必可鴻圖大展。對合夥事業必須具備迅速的判斷力。  
   
 **木星在天蠍座：**  
@@ -765,8 +765,8 @@ _雙魚座：2月19日-3月20日_
   
 **木星在水瓶座：**  
 態度親切、毫無惡意，如能自由選擇革新的方法，必可發展。  
-**  
-木星在雙魚座：**  
+
+**木星在雙魚座：**  
 具有研究精神，也有經濟能力。自我犧牲和仔細態度為發展之關鍵。
 
 ----
@@ -1420,11 +1420,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5MjQwNDk2LC0xODk0MzMyMjM1LDEzND
-IzNzA0MDUsMTEyMzkyODU3OSwtMTEzNjM3MjczNywxOTE0NTYy
-NDgsLTEwMzYyODk4MTgsMTg5NzA4NDA3MywtMTk4Mjk0Mzk2LC
-0xMzEzMDc2MDI4LC0xMTk4ODAzMzI4LDQzNDM1NTkxMiw5MjA1
-MzIyOTksLTE3MzQzMjQ3NDgsLTQ2ODAxMzg2OSwxODY0MzAzMz
-EsLTg2NjQxNjc4MSwtMTY1MzQxNzcyNywxMDA4ODcwMDk3LDE5
-NjkwNzQ5MDVdfQ==
+eyJoaXN0b3J5IjpbNjAzMzk4MTgwLDM2OTI0MDQ5NiwxMzQyMz
+cwNDA1LDExMjM5Mjg1NzksLTExMzYzNzI3MzcsMTkxNDU2MjQ4
+LC0xMDM2Mjg5ODE4LDE4OTcwODQwNzMsLTE5ODI5NDM5NiwtMT
+MxMzA3NjAyOCwtMTE5ODgwMzMyOCw0MzQzNTU5MTIsOTIwNTMy
+Mjk5LC0xNzM0MzI0NzQ4LC00NjgwMTM4NjksMTg2NDMwMzMxLC
+04NjY0MTY3ODEsLTE2NTM0MTc3MjcsMTAwODg3MDA5NywxOTY5
+MDc0OTA1XX0=
 -->
