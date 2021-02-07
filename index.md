@@ -719,7 +719,7 @@ _雙魚座：2月19日-3月20日_
   
 ●在占星學中，它代表著巨大、擴張、有包容力的、大方、仁厚及厚實有力。在星相學上，木星被視為「幸運之星」，對於每一位想知道何時何處有最佳的運道以及生涯機會的成年人來說，去瞭解木星在自己星點陣圖中的位置是很重要的。有了木星良好的相位是很有利的。  
   
-●在神話故事中，它是天神宙斯，因此代表真理、仁慈、多情及自由。木星是被認為律法的守護神，是真理、節操，公理的保護者，木星和知識、深造、哲學觀、個人的直覺、宗教有關，在基本上是有關於人們的物質享樂與哲學思想。  
+在神話故事中，它是天神宙斯，因此代表真理、仁慈、多情及自由。木星是被認為律法的守護神，是真理、節操，公理的保護者，木星和知識、深造、哲學觀、個人的直覺、宗教有關，在基本上是有關於人們的物質享樂與哲學思想。  
   
 > 人體身上受到木星支配的器官有肝臟、靜脈、血液，以及內臟組織，肉體上，你能從某些人身上血紅的氣色，樂觀的氣質，認出他受到木星強烈的影響。木星有樂於助人的性格，木星在各星座間的位置，也可指出一個人會以何種方式與他人分享其既得的利益；是否能以寬容的態度去對待他人，並如何得到他人精神上所給予的回饋及幫助。木星在基本上是有關於人們的物質享受，與人們的哲學睿智；木星在你遭受困難時，帶給你力量渡過難關，同時賜予你智慧去明瞭你在嘗試過程與慘痛的經驗中所獲得的真正智慧，木星的性質是極具保護性的。
 > 
@@ -1419,11 +1419,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTM5NTk2MiwzNjkyNDA0OTYsMTM0Mj
-M3MDQwNSwxMTIzOTI4NTc5LC0xMTM2MzcyNzM3LDE5MTQ1NjI0
-OCwtMTAzNjI4OTgxOCwxODk3MDg0MDczLC0xOTgyOTQzOTYsLT
-EzMTMwNzYwMjgsLTExOTg4MDMzMjgsNDM0MzU1OTEyLDkyMDUz
-MjI5OSwtMTczNDMyNDc0OCwtNDY4MDEzODY5LDE4NjQzMDMzMS
-wtODY2NDE2NzgxLC0xNjUzNDE3NzI3LDEwMDg4NzAwOTcsMTk2
-OTA3NDkwNV19
+eyJoaXN0b3J5IjpbLTE2MjIwNDc1MDUsMTY0NTM5NTk2MiwzNj
+kyNDA0OTYsMTM0MjM3MDQwNSwxMTIzOTI4NTc5LC0xMTM2Mzcy
+NzM3LDE5MTQ1NjI0OCwtMTAzNjI4OTgxOCwxODk3MDg0MDczLC
+0xOTgyOTQzOTYsLTEzMTMwNzYwMjgsLTExOTg4MDMzMjgsNDM0
+MzU1OTEyLDkyMDUzMjI5OSwtMTczNDMyNDc0OCwtNDY4MDEzOD
+Y5LDE4NjQzMDMzMSwtODY2NDE2NzgxLC0xNjUzNDE3NzI3LDEw
+MDg4NzAwOTddfQ==
 -->
