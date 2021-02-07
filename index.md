@@ -968,7 +968,7 @@ _雙魚座：2月19日-3月20日_
 ★海王星與星座：  
 > 海王星所屬的星座代表一個世代的共同夢想如何表現。這樣的渴望，以何種形式表現出來，造成什麼樣的影響。
 
-海王星落在十二星座的影響
+海王星落在十二星座的解釋
 
 海王星在牡羊座
 > 從一六八一年至一八七四年，海王星停留在牡羊座。在海王星停留於牡羊座期間出生的人，倡導了許多新的宗教觀念與哲學觀。他們都同樣擁有一種強烈的使命感，能表現出很大的想象力、創造力與自覺力。若相位受克，會使星盤主滿懷虛榮與自私的計謀，而且充滿邪惡的欲望。
@@ -1419,11 +1419,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODczMjg4OTIxLDE5MTQ1NjI0OCwtMTAzNj
-I4OTgxOCwxODk3MDg0MDczLC0xOTgyOTQzOTYsLTEzMTMwNzYw
-MjgsLTExOTg4MDMzMjgsNDM0MzU1OTEyLDkyMDUzMjI5OSwtMT
-czNDMyNDc0OCwtNDY4MDEzODY5LDE4NjQzMDMzMSwtODY2NDE2
-NzgxLC0xNjUzNDE3NzI3LDEwMDg4NzAwOTcsMTk2OTA3NDkwNS
-wxODE0NTkzMDU3LDE4MDQzMzk3NDgsOTk0ODY3MTYyLDM2Njkz
-NTQ1Ml19
+eyJoaXN0b3J5IjpbLTExMzYzNzI3MzcsODczMjg4OTIxLDE5MT
+Q1NjI0OCwtMTAzNjI4OTgxOCwxODk3MDg0MDczLC0xOTgyOTQz
+OTYsLTEzMTMwNzYwMjgsLTExOTg4MDMzMjgsNDM0MzU1OTEyLD
+kyMDUzMjI5OSwtMTczNDMyNDc0OCwtNDY4MDEzODY5LDE4NjQz
+MDMzMSwtODY2NDE2NzgxLC0xNjUzNDE3NzI3LDEwMDg4NzAwOT
+csMTk2OTA3NDkwNSwxODE0NTkzMDU3LDE4MDQzMzk3NDgsOTk0
+ODY3MTYyXX0=
 -->
