@@ -834,7 +834,7 @@ _雙魚座：2月19日-3月20日_
 ★天王星與星座：
 > 天王星星座具有世代象徵意義，代表一個七年的整體性改變以何種方式表現、這種改變如何進行、跟什麽相關。
 
-天王星落在十二個星座的影響
+**天王星落在十二星座的解釋**
 
 天王星在牡羊座
 > 你在任何所投入的領域中都是個標準的開路先鋒，生性獨立且資源豐富，你通常會剎車再重頭開始。你向來十分肯定，有時候甚至言語激烈像是有敵意似的，其實你有你自己的道德觀。你擁有良好的機械才能，還有一種不尋常的神經能量。如果你溫和的使用，能將你所有的意念導向建設的管道。如果運用不得當，可能會是個性最叛逆的，不圓滑世故，缺乏自我控制，而且過分狂熱，可能會激烈的拒絕過去所有的傳統。天王星在牡羊座上最近的時間是一九二八年到一九三四年。
@@ -968,7 +968,7 @@ _雙魚座：2月19日-3月20日_
 ★海王星與星座：  
 > 海王星所屬的星座代表一個世代的共同夢想如何表現。這樣的渴望，以何種形式表現出來，造成什麼樣的影響。
 
-海王星落在十二星座的解釋
+**海王星落在十二星座的解釋**
 
 海王星在牡羊座
 > 從一六八一年至一八七四年，海王星停留在牡羊座。在海王星停留於牡羊座期間出生的人，倡導了許多新的宗教觀念與哲學觀。他們都同樣擁有一種強烈的使命感，能表現出很大的想象力、創造力與自覺力。若相位受克，會使星盤主滿懷虛榮與自私的計謀，而且充滿邪惡的欲望。
@@ -1420,11 +1420,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjM3MDQwNSwxMTIzOTI4NTc5LC0xMT
-M2MzcyNzM3LDE5MTQ1NjI0OCwtMTAzNjI4OTgxOCwxODk3MDg0
-MDczLC0xOTgyOTQzOTYsLTEzMTMwNzYwMjgsLTExOTg4MDMzMj
-gsNDM0MzU1OTEyLDkyMDUzMjI5OSwtMTczNDMyNDc0OCwtNDY4
-MDEzODY5LDE4NjQzMDMzMSwtODY2NDE2NzgxLC0xNjUzNDE3Nz
-I3LDEwMDg4NzAwOTcsMTk2OTA3NDkwNSwxODE0NTkzMDU3LDE4
-MDQzMzk3NDhdfQ==
+eyJoaXN0b3J5IjpbMzQ3MDg3NzU0LDEzNDIzNzA0MDUsMTEyMz
+kyODU3OSwtMTEzNjM3MjczNywxOTE0NTYyNDgsLTEwMzYyODk4
+MTgsMTg5NzA4NDA3MywtMTk4Mjk0Mzk2LC0xMzEzMDc2MDI4LC
+0xMTk4ODAzMzI4LDQzNDM1NTkxMiw5MjA1MzIyOTksLTE3MzQz
+MjQ3NDgsLTQ2ODAxMzg2OSwxODY0MzAzMzEsLTg2NjQxNjc4MS
+wtMTY1MzQxNzcyNywxMDA4ODcwMDk3LDE5NjkwNzQ5MDUsMTgx
+NDU5MzA1N119
 -->
