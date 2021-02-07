@@ -782,7 +782,7 @@ _雙魚座：2月19日-3月20日_
 **★土星與星座：**  
 > 土星所屬的星座代表了一個人如何克服他的難關。他的壓力是何種模式，他們如何面對挑戰，如何負起責任，建立自己的事業。  
 
-**土星落在十二星座的解釋. 十二星座**  
+**土星落在十二星座的解釋**  
   
 **土星在白羊座**
 > 十分顧慮安全問題，但是，往往因過分小心，反而招致失敗後果。由於缺乏耐力和充分精力，所以無法順利地進行計畫。操心之事接踵而至。  
@@ -1420,11 +1420,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTQzMzIyMzUsMTM0MjM3MDQwNSwxMT
-IzOTI4NTc5LC0xMTM2MzcyNzM3LDE5MTQ1NjI0OCwtMTAzNjI4
-OTgxOCwxODk3MDg0MDczLC0xOTgyOTQzOTYsLTEzMTMwNzYwMj
-gsLTExOTg4MDMzMjgsNDM0MzU1OTEyLDkyMDUzMjI5OSwtMTcz
-NDMyNDc0OCwtNDY4MDEzODY5LDE4NjQzMDMzMSwtODY2NDE2Nz
-gxLC0xNjUzNDE3NzI3LDEwMDg4NzAwOTcsMTk2OTA3NDkwNSwx
-ODE0NTkzMDU3XX0=
+eyJoaXN0b3J5IjpbMzY5MjQwNDk2LC0xODk0MzMyMjM1LDEzND
+IzNzA0MDUsMTEyMzkyODU3OSwtMTEzNjM3MjczNywxOTE0NTYy
+NDgsLTEwMzYyODk4MTgsMTg5NzA4NDA3MywtMTk4Mjk0Mzk2LC
+0xMzEzMDc2MDI4LC0xMTk4ODAzMzI4LDQzNDM1NTkxMiw5MjA1
+MzIyOTksLTE3MzQzMjQ3NDgsLTQ2ODAxMzg2OSwxODY0MzAzMz
+EsLTg2NjQxNjc4MSwtMTY1MzQxNzcyNywxMDA4ODcwMDk3LDE5
+NjkwNzQ5MDVdfQ==
 -->
