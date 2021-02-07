@@ -529,10 +529,10 @@ _雙魚座：2月19日-3月20日_
 **月亮在天蠍座：**
 > 由於對於神秘之事和疑問富挑戰精神，以及具備洞察事物能力，所以適合從事徵信業和醫師。也適合研究顯而易見之反應的化學、天文、宇宙、細胞學等工作。又若能利用深藏於內心的充沛精力，而不只注重外表，則適合作軍人和運動員；另外，也適合擔任充滿魅力的跳舞者和模特兒。再者若能追求精神原動力，也可以成為宗教家、靈魂學家。  
   
-**月亮在射手座：**
+**月亮在射手座**
 > 由於融合了智力和活動力，所以表現出自由、樂觀敏銳的反應；和外國有關連。適合擔任學者、宗教家、法律家、醫師、學術出版、自由業等。若利用充沛活力者可做竟走者、職業運動員、跳舞者及軍人。不過，也有可能從事騎馬俱樂部、毛皮商等與動物有關之工作。  
   
-**月亮在摩羯座：**
+**月亮在摩羯座**
 > 縱使本性蹼直、牢靠，為了其雄心壯志，必定會全力以赴，而且由於自主性強烈、獨立性高，所以，凡是有關專家行業都很適合。不過，最適合的還是數學、化學、藥學、況實學、細菌學、神秘學以及古典音樂家和骨科治療者等工作。又擔任設計者、建築家也不錯。而且，也適合從事和農業、礦業等土地有關的工作。  
   
 **月亮在水瓶座**
@@ -1417,11 +1417,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTM4MzU3OTEsLTIwMzY3MTE5MjMsLT
-E2MjIwNDc1MDUsMzY5MjQwNDk2LDEzNDIzNzA0MDUsMTEyMzky
-ODU3OSwtMTEzNjM3MjczNywxOTE0NTYyNDgsLTEwMzYyODk4MT
-gsMTg5NzA4NDA3MywtMTk4Mjk0Mzk2LC0xMzEzMDc2MDI4LC0x
-MTk4ODAzMzI4LDQzNDM1NTkxMiw5MjA1MzIyOTksLTE3MzQzMj
-Q3NDgsLTQ2ODAxMzg2OSwxODY0MzAzMzEsLTg2NjQxNjc4MSwt
-MTY1MzQxNzcyN119
+eyJoaXN0b3J5IjpbLTIyOTU5MDAxNSwtMTA5MzgzNTc5MSwtMT
+YyMjA0NzUwNSwzNjkyNDA0OTYsMTM0MjM3MDQwNSwxMTIzOTI4
+NTc5LC0xMTM2MzcyNzM3LDE5MTQ1NjI0OCwtMTAzNjI4OTgxOC
+wxODk3MDg0MDczLC0xOTgyOTQzOTYsLTEzMTMwNzYwMjgsLTEx
+OTg4MDMzMjgsNDM0MzU1OTEyLDkyMDUzMjI5OSwtMTczNDMyND
+c0OCwtNDY4MDEzODY5LDE4NjQzMDMzMSwtODY2NDE2NzgxLC0x
+NjUzNDE3NzI3XX0=
 -->
