@@ -1185,7 +1185,7 @@ _雙魚座：2月19日-3月20日_
 第三宮--[兄弟宮]
 > 有了我的基礎，便開始了對外的接觸。第三宮也就是所謂的兄弟宮，與溝通和學習有關，代表著一個人的思考方式、與人的溝通方式、運用語言和文字的能力。第三宮象徵著與外界互通有無，也就是我們開始和別人接觸時所表現的個性，因此第三宮說明著我們小時候與周遭人物互動的關係，例如兄弟姐妹、小學同學及小時候的玩伴，同時也代表了交通，但第三宮是指近距離的交通。
 >
->此外，第三宮代表吸收外界的訊息並且與別人交流，代表常識性知識的學習，同時也是口耳相傳的傳播方式。另外，一個人早年（大學之前）的學習也是本宮的範圍；所以如果有不好的星落入，則可能會有與人溝通不良的情況發生。
+> 此外，第三宮代表吸收外界的訊息並且與別人交流，代表常識性知識的學習，同時也是口耳相傳的傳播方式。另外，一個人早年（大學之前）的學習也是本宮的範圍；所以如果有不好的星落入，則可能會有與人溝通不良的情況發生。
 
 ★第三宮小檔案
 >- 宮位意義：智慧、學習的能力、兄弟姐妹、左鄰右舍、短程旅行、短篇寫作能力、早期學習環境、機械方面的技術、語言能力、心理上的調適度。
@@ -1419,7 +1419,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNjc1Mjc0MSwtMTEzNjM3MjczNywxOT
+eyJoaXN0b3J5IjpbMTI0MjUwOTA3NywtMTEzNjM3MjczNywxOT
 E0NTYyNDgsLTEwMzYyODk4MTgsMTg5NzA4NDA3MywtMTk4Mjk0
 Mzk2LC0xMzEzMDc2MDI4LC0xMTk4ODAzMzI4LDQzNDM1NTkxMi
 w5MjA1MzIyOTksLTE3MzQzMjQ3NDgsLTQ2ODAxMzg2OSwxODY0
