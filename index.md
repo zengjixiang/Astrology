@@ -782,42 +782,42 @@ _雙魚座：2月19日-3月20日_
 **★土星與星座：**  
 > 土星所屬的星座代表了一個人如何克服他的難關。他的壓力是何種模式，他們如何面對挑戰，如何負起責任，建立自己的事業。  
 
-**土星 VS. 十二星座**  
+**土星落在十二星座的解釋. 十二星座**  
   
-**土星在白羊座：**
+**土星在白羊座**
 > 十分顧慮安全問題，但是，往往因過分小心，反而招致失敗後果。由於缺乏耐力和充分精力，所以無法順利地進行計畫。操心之事接踵而至。  
   
-**土星在金牛座：**
+**土星在金牛座**
 > 擁有小心謹慎的耐力，以收受實際利益為生活方針，但是，相反地常因為度量狹隘和感情脆弱，而無有收穫。對味覺和愛、美之事物感覺較遲鈍。  
   
-**土星在雙子座：**  
+**土星在雙子座**  
 > 因為思考問題較慎重，所以，在回答問題時較慢。精神過分集中的話，反而喪失活潑性。過分懷疑、深思時，會變得頑固起來，有時也會因此招致失敗。  
   
-**土星在巨蟹座：**
+**土星在巨蟹座**
 > 在商業上採取小心謹慎、精打細算、深思懷疑的態度；但是，對於幫助自己的人，則極為重視。  
   
-**土星在獅子座：**  
+**土星在獅子座**  
 > 不能很快地適應人生充滿情趣的一面，在工作上無法全力配合乃是失敗的主因。一旦被上司和周圍的人壓抑時，即喪失寬大胸懷，容易發怒。  
   
-**土星在處女座：**
+**土星在處女座**
 > 再謀求一致性之下，生活態度十分規律，一絲不苟；不過，由於其亦要求別人建立精密的規律生活，所以，偶爾會顯的很獨斷，過分注重細節之處時，常會白白地浪費努力  
   
-**土星在天秤座：**  
+**土星在天秤座**  
 > 可以是當地發揮所需要的耐性，但是，有時會固執己見，引起爭論。往往由於疏忽和他人之間欠缺相互利益之因素，而易造成憂鬱和寂寞的心理。  
-**  
-土星在天蠍座：**
+
+**土星在天蠍座**
 > 小心謹慎、羞怯而富神秘性，不過，打架時則會做出冒險舉動，即使是犧牲，也要向危險挑戰。具備管理他人財產的能力，為自己也有繼承遺產的可能。  
   
-**土星在射手座：**
+**土星在射手座**
 > 因長年努力的結果，而肯定自己。隨著年齡的增長，也會增加沉著和威嚴感，但是，不會傾向奢侈。無論有、敵皆敬重他。不過當對方過於隨便時則會十分震怒。  
   
-**土星在摩羯座：**
+**土星在摩羯座**
 > 耐力強、慎重，行事踏實，富雄心壯志，且因此得到成功。為因擁有利己傾向，故想從人生之中獲得更多的東西。保有節約美德的背面，即是不關心其他人的貧窮。  
   
-**土星在水瓶座：**
+**土星在水瓶座**
 > 為達目的，需要充分的自由。由於喜愛追求新鮮感，所以，擁有最尖端的美術和最新科學的理解力。為所結交之人皆為不務實際者，所以，正陷入孤立的危險中。  
   
-**土星在雙魚座：**
+**土星在雙魚座**
 > 如果沒有發揮博愛精神之物件，則外表總是呈現悲觀的神態。積極的參與其他人的問題，並藉由卓越的口才，發揮其外交能力。目標致力於藝術方面時，必會事事順利。
 
 ----
@@ -1420,11 +1420,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3MDg3NzU0LDEzNDIzNzA0MDUsMTEyMz
-kyODU3OSwtMTEzNjM3MjczNywxOTE0NTYyNDgsLTEwMzYyODk4
-MTgsMTg5NzA4NDA3MywtMTk4Mjk0Mzk2LC0xMzEzMDc2MDI4LC
-0xMTk4ODAzMzI4LDQzNDM1NTkxMiw5MjA1MzIyOTksLTE3MzQz
-MjQ3NDgsLTQ2ODAxMzg2OSwxODY0MzAzMzEsLTg2NjQxNjc4MS
-wtMTY1MzQxNzcyNywxMDA4ODcwMDk3LDE5NjkwNzQ5MDUsMTgx
-NDU5MzA1N119
+eyJoaXN0b3J5IjpbLTE4OTQzMzIyMzUsMTM0MjM3MDQwNSwxMT
+IzOTI4NTc5LC0xMTM2MzcyNzM3LDE5MTQ1NjI0OCwtMTAzNjI4
+OTgxOCwxODk3MDg0MDczLC0xOTgyOTQzOTYsLTEzMTMwNzYwMj
+gsLTExOTg4MDMzMjgsNDM0MzU1OTEyLDkyMDUzMjI5OSwtMTcz
+NDMyNDc0OCwtNDY4MDEzODY5LDE4NjQzMDMzMSwtODY2NDE2Nz
+gxLC0xNjUzNDE3NzI3LDEwMDg4NzAwOTcsMTk2OTA3NDkwNSwx
+ODE0NTkzMDU3XX0=
 -->
