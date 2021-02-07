@@ -374,7 +374,7 @@ _雙魚座：2月19日-3月20日_
 **上昇水瓶座**
 > 您出生時所配戴的面具是「發明家」。您的面具很難忍受「與人相同」這件事。一立以蔽之，您非常有個性而且智慧高。給人的印象是獨特、有點古怪、不太會感情用事、看起來很冷漠。五官端正、鵝蛋臉、額頭很高、中等身材、脾氣古怪，極端時，看起來就像是個機器人。但是，如果您將這個面具與自已本身視為一體的話，就會有點麻煩。您不想和別人一樣，因此，往往會熱衷於古怪的思想和作風，或被新奇事物強烈的吸引。然而，那是相當辛苦的事。您的確與別人不一樣，但共通的地方也很多。如果您斷然的摘下面具，應當會有很多人能瞭解您的本意。★屬於此上昇星座的著名人士湯瑪斯．傑佛遜、卡爾．馬克思、容格、羅貝斯．皮耶魯等。這幾位人士具有獨特而嶄新的思想，富有革命的氣息。  
   
-**上昇雙魚座的人**
+**上昇雙魚座**
 > 您出生時所配戴的面具是「人魚」。具有非常纖細和優異的感受性，喜歡做夢的您會引發周圍的人產生保護的本能，想要來保護您。而您也非常親切，看到別人蒙受痛苦時，總是無法釋懷。此上昇星座的人有大而濕潤的眼睛、皮膚細嫩、白裡透紅。您的面具總是考慮別人甚於自已。外表看起來是一種自我犧牲，但事實上，內心深處則響起人魚面具的話：「我已經厭倦人類的世界，想要回到大海之中。」★屬於此上昇星座的著名人士華盛頓、陸遊、王羲之、史達林、愛因斯坦、薩福（古希臘女詩人）2等人。
 
 ----
@@ -396,7 +396,7 @@ _雙魚座：2月19日-3月20日_
 **★太陽與星座：**  
 > 太陽所屬的星座代表一個人表現自我的個性與意志時是以什麽樣的形式來呈現，一個人如何運用他的基本潛能。可以看出他是一個什麽樣個性的人。他們如何與重要的男性相處，及受到他們什麽樣的影響。
 
-**太陽與十二星座**  
+**太陽落在十二星座的解釋**  
   
 **太陽在白羊座**
 > 有高度的容忍性。有不畏艱辛的意志力以及鬥爭本能。心中一旦有了理想，必能排除萬難，勇往直前。在新的環境下，能發揮拓荒者的精神，帶頭領軍，開創新機，頗有領導者的風範。同時，也有侵略的一面，最大的快樂是排除萬難讓艱難的事情進入軌道。  
@@ -1417,11 +1417,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjYzNTAzOCwtMjI5NTkwMDE1LC0xNj
-IyMDQ3NTA1LDM2OTI0MDQ5NiwxMzQyMzcwNDA1LDExMjM5Mjg1
-NzksLTExMzYzNzI3MzcsMTkxNDU2MjQ4LC0xMDM2Mjg5ODE4LD
-E4OTcwODQwNzMsLTE5ODI5NDM5NiwtMTMxMzA3NjAyOCwtMTE5
-ODgwMzMyOCw0MzQzNTU5MTIsOTIwNTMyMjk5LC0xNzM0MzI0Nz
-Q4LC00NjgwMTM4NjksMTg2NDMwMzMxLC04NjY0MTY3ODEsLTE2
-NTM0MTc3MjddfQ==
+eyJoaXN0b3J5IjpbLTE4OTUzNDkwNjAsLTIyOTU5MDAxNSwtMT
+YyMjA0NzUwNSwzNjkyNDA0OTYsMTM0MjM3MDQwNSwxMTIzOTI4
+NTc5LC0xMTM2MzcyNzM3LDE5MTQ1NjI0OCwtMTAzNjI4OTgxOC
+wxODk3MDg0MDczLC0xOTgyOTQzOTYsLTEzMTMwNzYwMjgsLTEx
+OTg4MDMzMjgsNDM0MzU1OTEyLDkyMDUzMjI5OSwtMTczNDMyND
+c0OCwtNDY4MDEzODY5LDE4NjQzMDMzMSwtODY2NDE2NzgxLC0x
+NjUzNDE3NzI3XX0=
 -->
